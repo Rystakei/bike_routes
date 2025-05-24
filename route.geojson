@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sample Bike Route"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-71.1167, 42.3770],
+      [-71.1030, 42.3650],
+      [-71.0900, 42.3600]
+    ]
+  }
+}

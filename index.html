@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Bike Route from Saved Google JSON</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <style>
+    #map { height: 100vh; width: 100%; }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+
+  <!-- Leaflet -->
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <!-- Mapbox Polyline decoder -->
+  <script src="https://unpkg.com/@mapbox/polyline@1.1.1/src/polyline.js"></script>
+
+  <script>
+    const map = L.map('map').setView([42.37, -71.13], 13);
+   // L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+      attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+  
+    // Add routes here
+    const routeConfigs = [
+      {
+        file: 'cambridge_watertown_greenway.json',
+        label: 'Cambridge-Watertown Greenway',
+        color: '#0074D9'
+      },
+      {
+        file: 'minuteman.json',
+        label: 'Minuteman Commuter Bikeway',
+        color: '#FF851B'
+      }
+    ];
+  
+    routeConfigs.forEach(route => {
+      fetch(route.file)
+        .then(res => res.json())
+        .then(data => {
+          const encoded = data.routes[0].overview_polyline.points;
+          const coords = polyline.decode(encoded).map(([lat, lng]) => [lat, lng]);
+  
+          L.polyline(coords, {
+            color: route.color,
+            weight: 4
+          }).bindTooltip(route.label, {
+            permanent: true,
+            direction: 'center',
+            className: 'route-label'
+          }).addTo(map);
+        });
+    });
+  </script>
+  
+</body>
+</html>

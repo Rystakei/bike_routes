@@ -1,0 +1,171 @@
+{
+   "geocoded_waypoints" : 
+   [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ehs5UjdNK0o3LCBXYXRlcnRvd24sIE1BLCBVU0EiJjokCgoNMT5AGRVjzpTVEAoaFAoSCX3QMfYceOOJESVuxlAi8UVf",
+         "types" : 
+         [
+            "plus_code"
+         ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ2WuAIgt344kReuvZ-czHJ30",
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      }
+   ],
+   "routes" : 
+   [
+      {
+         "bounds" : 
+         {
+            "northeast" : 
+            {
+               "lat" : 42.3872137,
+               "lng" : -71.14138459999999
+            },
+            "southwest" : 
+            {
+               "lat" : 42.3640932,
+               "lng" : -71.1668134
+            }
+         },
+         "copyrights" : "Powered by Google, ©2025 Google",
+         "legs" : 
+         [
+            {
+               "distance" : 
+               {
+                  "text" : "2.3 mi",
+                  "value" : 3637
+               },
+               "duration" : 
+               {
+                  "text" : "11 mins",
+                  "value" : 662
+               },
+               "end_address" : "Concord Ave opp New St, Cambridge, MA 02138, USA",
+               "end_location" : 
+               {
+                  "lat" : 42.3872137,
+                  "lng" : -71.1422329
+               },
+               "start_address" : "9R7M+J7, Watertown, MA, USA",
+               "start_location" : 
+               {
+                  "lat" : 42.3640932,
+                  "lng" : -71.1668134
+               },
+               "steps" : 
+               [
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.7 mi",
+                        "value" : 1082
+                     },
+                     "duration" : 
+                     {
+                        "text" : "3 mins",
+                        "value" : 181
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.367868,
+                        "lng" : -71.1557159
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eWatertown Greenway\u003c/b\u003e toward \u003cb\u003eArsenal Wy\u003c/b\u003e",
+                     "polyline" : 
+                     {
+                        "points" : "qfqaGpwjqLEqHEmJ?W?y@E_BE}@EiACYCSSuBWkBOw@AGg@}Be@{AQk@Ys@e@iA}@aBIKcA{A{@_A}@{@u@k@yA_AaAo@ECEGKM"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.3640932,
+                        "lng" : -71.1668134
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "1.1 mi",
+                        "value" : 1772
+                     },
+                     "duration" : 
+                     {
+                        "text" : "6 mins",
+                        "value" : 352
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.3813364,
+                        "lng" : -71.14478369999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eWatertown-Cambridge Greenway\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : 
+                     {
+                        "points" : "e~qaGfrhqLUBMIEGIIe@WqDiBWOUOIEaAk@_B_A_@UWOc@[?AQM[YCCIK[][]EEUYOSIKs@cAYa@o@cAw@kAy@iA]_@a@a@gA_AECYQ?A_@UOKOG?Am@WUIa@OuAo@cAc@_Bq@}BaAy@_@u@]SKcBu@aAe@a@QKEUK_@Qa@QMGQMECEC_@WAAMIMKSQIISQIIIIGGII[_@IKMOa@k@W]W]AACCAESWW_@AAKOMQYa@GIQWGIQWGIi@w@AAYa@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.367868,
+                        "lng" : -71.1557159
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.5 mi",
+                        "value" : 783
+                     },
+                     "duration" : 
+                     {
+                        "text" : "2 mins",
+                        "value" : 129
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.3872137,
+                        "lng" : -71.1422329
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eWatertown-Cambridge Greenway\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : 
+                     {
+                        "points" : "krtaGzmfqLEEAAEI]g@i@s@IMOSKKSUGG[[eBaBMKCCAAA?A?A?A?C@A@C@A?A?A?A?AAAAA?ACA??AECGCKEACCGAE@G@I?GAGMM_@[w@e@oBcAqAi@gAc@aAS_AUC?CAIACAE?EASAO?KAG?U@W@U?I@G?E@E@MDIBMDOFGBCBCBADCBGFAB?@AJA\\AHCJKTIL"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.3813364,
+                        "lng" : -71.14478369999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : 
+         {
+            "points" : "qfqaGpwjqLKqVK}CIcBWiCg@cDi@eCw@gC_A}BgAmBcA{A{@_AsBgB{CoBKKKMUBSQo@a@iEyBaEaC{AcA{@w@sA{AgBeCgBoCwAiBiBaB_@U_Ak@eBs@{NqGyHkD}@m@q@i@q@o@w@}@{B{C}EaHaB}BcAeAyBsBG?KDGAa@UEK?M@QAGMM_@[w@e@oBcAqAi@gAc@aAScAUWEu@EkAB]Du@VQPMPCh@ETUb@"
+         },
+         "summary" : "Watertown Greenway and Watertown-Cambridge Greenway",
+         "warnings" : 
+         [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
