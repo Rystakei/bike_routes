@@ -1,0 +1,1069 @@
+{
+   "geocoded_waypoints" : 
+   [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJMzw1Qg-GxokRClRr3kl6efU",
+         "types" : 
+         [
+            "route"
+         ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJo4aPd7bHxokR94mGkmyZK90",
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      }
+   ],
+   "routes" : 
+   [
+      {
+         "bounds" : 
+         {
+            "northeast" : 
+            {
+               "lat" : 40.2309266,
+               "lng" : -75.17982649999999
+            },
+            "southwest" : 
+            {
+               "lat" : 39.9666791,
+               "lng" : -75.6277671
+            }
+         },
+         "copyrights" : "Powered by Google, ©2025 Google",
+         "legs" : 
+         [
+            {
+               "distance" : 
+               {
+                  "text" : "38.4 mi",
+                  "value" : 61843
+               },
+               "duration" : 
+               {
+                  "text" : "3 hours 6 mins",
+                  "value" : 11189
+               },
+               "end_address" : "Art Museum Dr & Kelly Dr - MBFS, Philadelphia, PA 19130, USA",
+               "end_location" : 
+               {
+                  "lat" : 39.9666791,
+                  "lng" : -75.17982649999999
+               },
+               "start_address" : "Schuylkill River Trl, Pottstown, PA 19465, USA",
+               "start_location" : 
+               {
+                  "lat" : 40.230773,
+                  "lng" : -75.6277671
+               },
+               "steps" : 
+               [
+                  {
+                     "distance" : 
+                     {
+                        "text" : "9.7 mi",
+                        "value" : 15545
+                     },
+                     "duration" : 
+                     {
+                        "text" : "46 mins",
+                        "value" : 2732
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 40.1478387,
+                        "lng" : -75.52853859999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eSchuylkill River Trl\u003c/b\u003e toward \u003cb\u003eVaughn Rd\u003c/b\u003e",
+                     "polyline" : 
+                     {
+                        "points" : "iqptFp`rlMTW?I?OMOCCKMIWMo@Gg@Gk@?A?SDYLk@Nu@Bc@Ce@?GAk@?CD]@ODSJSLKPCNBTPd@fA@BJPJFFDRENILYtA}CZo@FIHILCh@Fz@G@A`@S`@]N]~@kD\\oANi@DOJYDKPW@A`AsATQXI\\KdAYb@MRKLQr@oBPg@Pg@Rg@@CNc@@Cb@mADs@Ra@tAuC@?@CT]j@{@DEr@aAV]@CLW\\cA^aAd@oAl@_BFSPqCFeA^}CHm@BUDgADoB?[A}AAMC_@Eo@Em@Em@Cm@?AIk@SiBQkAIm@UyAIk@Ik@u@oDMk@s@mDi@mAqA{CSe@EIa@q@c@e@qBsBUUEGKQIYAWBQJ{ABSDWJSLK?ABA\\MNGLI?C@?FQB[?k@?m@?Ud@mA?e@RmD?g@AO?C?OEYOwA?C?CAU@g@Ja@N_@?AVUTMNCd@M^I`EaAdCm@nCo@\\IjCo@BA\\IBAfCm@BAdCm@B?bBa@dAWDA\\IhCo@DAtIsBDAjEeADAnDaAnAa@xB{@TKjCuA`Ai@^SlCwARMrHsFvC{B^YvC{BxBcB\\WxBcBxC{BrDqCxBeBxC{Bz@q@tFgExBaBvC}BxBaB\\YXS|BiB\\Y\\Y\\Y|@q@lB{AHKjB{BnA{An@gAXa@n@cAb@q@`@{@Tc@d@aAXq@N]b@kARg@@CBGH]@ALg@@CXcCHm@Fk@@EHg@?A?AJUDMTc@b@{@f@wC?CLw@PiAD_@@MBM@_@@CBk@H{AFqA@K?CDi@Di@?C@Y?U@C@cA?U@m@B}A@W?eA?EEi@?C?KE]SiC?CEi@Gm@Ee@G[GSAAACOe@?CQc@?Cs@wBACOc@IUGQOa@Wc@Yi@CASa@IOg@s@Wa@OSKKm@w@GIY[[]m@q@i@m@UWY[UYEGAAACQa@Qe@Um@Mc@[gAKi@O}@G[AIGa@G_@AMCOCc@Ag@?G?uA?}A?SD[B[BOLgAN_A@IHa@DSFWFSHU@CXi@DMDOFSJQVg@h@_ABEp@aA@AV]FGRWJMpAwANQd@e@t@u@TUDGPKFC^U~@m@~BqA^S^SBAnAy@h@_@^U|AeAf@[`Ag@D?@?BA@C@CBIBCx@g@BCZQ^U^U^U@?hC_Br@a@^UJGn@i@ZW@A^UnAu@NK~AaA^UNKLI~AcAJGRK^U~BuA^U^S^ULIPK^U|ByA^U|DgC\\U^U`BcA@?tA_Ad@YJGRMl@_@xA{@ZUb@WTO^WHEROXSh@Wb@WXOLG|@e@f@Un@WNCTM^QRIJC`@M|@WhAe@rAUx@KDA\\Gf@KjAWfAWx@Wt@Wf@c@LK^_@dAy@r@u@^g@LOBE\\[x@}@b@e@Tg@h@yA^aAFSz@yBRg@j@{Ad@kAn@_BzA_E~CeIHUtBkFXu@x@iB\\u@HOXa@n@eAZe@Zc@r@q@XWBCZ[b@a@r@e@`Ao@^UbAa@f@Q~Ak@r@MPC`@Gh@IxAQbCOlAG|COpCMvDUr@ClDU|@?d@BdBFbA?b@?R?F?l@HZFF@bBp@p@VNDdAX^JNHhAr@TLtAj@^NHDFDDFDFFJBNBLHj@@JBLFJHHFFFDhAb@dDjAHBFDFDDD@@Zh@DFDDDBv@XLHRNHH?@PPHJ@?r@z@@@X\\PRFFHDHDJDH@H?HAJEJENG?A@??AFEJMLSPYhAqCBE@A?A\\w@HM@AFIRS@A@CLILI~Au@@?`@Q@Ab@SXSROHG@AXY@?LMDGDG@A^k@d@{@R]@C@A?ARc@j@iATe@h@iA"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 40.230773,
+                        "lng" : -75.6277671
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.5 mi",
+                        "value" : 743
+                     },
+                     "duration" : 
+                     {
+                        "text" : "4 mins",
+                        "value" : 261
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 40.1421277,
+                        "lng" : -75.52756789999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eSchuylkill River Trail\u003c/b\u003e",
+                     "polyline" : 
+                     {
+                        "points" : "_k`tFjt~kMTi@Vm@b@cATg@FINYFMXe@^i@RWZYPMXS\\WDC\\Q@?BAVEFAJ?T?@?B?H@RFB?HBL@T?TAB?T?H?RAN@J@TF\\LB@t@^JFPHf@PH@B@PBZ@TBB?J@PDPDNFB@FBTJB@HBRJB@B@VNB@FDVPZP@@B@PJBBBF"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 40.1478387,
+                        "lng" : -75.52853859999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.6 mi",
+                        "value" : 1004
+                     },
+                     "duration" : 
+                     {
+                        "text" : "3 mins",
+                        "value" : 161
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 40.1339844,
+                        "lng" : -75.5259801
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eSchuylkill River Trail\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : 
+                     {
+                        "points" : "ig_tFhn~kMDF@F@H@F@B?B?H@B?@BBJJJJRLNHNHNHRJNHZPLHNDdATPBPDXFj@L`@H@?PDN@@?PAN?H?VEVGJGNGVMTIBA\\OBAJCDCD?Z?B?D?F@DABAFEFGLITSXWd@c@`@c@ZYRMZ_@JMXYLMn@[p@_@?AVYXSH?PAP?ZAj@Ev@Cn@MRGdAY\\En@Eh@ULGJCFG"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 40.1421277,
+                        "lng" : -75.52756789999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.8 mi",
+                        "value" : 1312
+                     },
+                     "duration" : 
+                     {
+                        "text" : "4 mins",
+                        "value" : 246
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 40.13468599999999,
+                        "lng" : -75.51364479999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eSchuylkill River Trail\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : 
+                     {
+                        "points" : "kt}sFjd~kMh@@XCNALEPIDCXQDC\\MTKXOLKLQNWJY@EDSDW@C@]?K?[AQAYGi@Mq@I_@GWQi@?CKYM]KYACISO[_@m@W_@GKQUMSW]MOQOMMQYGMQ]Se@EKO]OYKWM[e@yA?A_@aAQ_@GQGOMUIQIU?CGQI_@IWISKYCGSm@Mc@Mc@@E@ENm@Ja@Ha@?CCi@?AB{@AO?E?K?M?oA?E@_ADe@H[BEPg@FMJY\\aArAuD"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 40.1339844,
+                        "lng" : -75.5259801
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.3 mi",
+                        "value" : 407
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 66
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 40.1345811,
+                        "lng" : -75.5106741
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "yx}sFfw{kMCGCMCO@E?KAOAOG[EMAAM_@EGMUIKCCGIUW]i@GQAEACEGOSOQGM?AAAMg@AGGU?C?A@C@ADIRMTMROHGNWTQ@?HCJIPW^a@@CB?@?B@@@?@@@DDDJBBPN"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 40.13468599999999,
+                        "lng" : -75.51364479999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.2 mi",
+                        "value" : 375
+                     },
+                     "duration" : 
+                     {
+                        "text" : "2 mins",
+                        "value" : 146
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 40.1362584,
+                        "lng" : -75.5068809
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePA-29 N\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eBridge St\u003c/b\u003e",
+                     "maneuver" : "turn-sharp-left",
+                     "polyline" : 
+                     {
+                        "points" : "cx}sFtd{kME]EWEUCKCIK_@EOKYCKIWWu@Og@Qi@c@oAQi@c@qAWu@EKCICEAEEIISCEOWCEWa@MU"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 40.1345811,
+                        "lng" : -75.5106741
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.7 mi",
+                        "value" : 1204
+                     },
+                     "duration" : 
+                     {
+                        "text" : "3 mins",
+                        "value" : 202
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 40.1297084,
+                        "lng" : -75.4956473
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eWalnut St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "sb~sF~lzkMp@{@V_@lDyE^}@dA}B`BqDJQLYd@eADGN]FM?AJWl@qAHQp@yAr@_BTi@BGbAyBVi@FO@CBEBGJUhAaCJWl@sAN[?ABGBELWvA_DDI`@{@pAuCHOBEDI\\y@DILc@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 40.1362584,
+                        "lng" : -75.5068809
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.6 mi",
+                        "value" : 1031
+                     },
+                     "duration" : 
+                     {
+                        "text" : "3 mins",
+                        "value" : 173
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 40.1285288,
+                        "lng" : -75.48461709999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePort Providence Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "uy|sFxfxkMo@w@EIAM?G?C?K?C@IBK^y@jAkCDIRc@x@gB`@o@DIPWVc@`@]@ADEROJMHYBiC?C?Q?U?E?EDcC?_@?Q?S?Q@I?kA?G?E@q@?]?Q@}A?m@Ao@?OCmA?EAUAMAQIoAAMGs@Gc@Mw@COAQCWAKCu@C}@Aa@Ac@?IIy@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 40.1297084,
+                        "lng" : -75.4956473
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "410 ft",
+                        "value" : 125
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 40.1286236,
+                        "lng" : -75.4831683
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eSchuylkill River Trl\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : 
+                     {
+                        "points" : "ir|sFzavkMBm@?E@W?QAm@AWCU?AEm@Eg@CM?A"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 40.1285288,
+                        "lng" : -75.48461709999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "430 ft",
+                        "value" : 131
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 40.1294025,
+                        "lng" : -75.4821043
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eSchuylkill River Trl\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : 
+                     {
+                        "points" : "{r|sFxxukMAEKKQUGGGGCAC?KCEAAAGGEGU]ACA?Wa@KYAOAU"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 40.1286236,
+                        "lng" : -75.4831683
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "2.0 mi",
+                        "value" : 3208
+                     },
+                     "duration" : 
+                     {
+                        "text" : "9 mins",
+                        "value" : 546
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 40.1196805,
+                        "lng" : -75.45500299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eSchuylkill River Trl\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "ww|sFbrukMHGHQBMDOJS@AV_@@AX_@BER[JOJQR[DELQJMDCR]R[BEVc@JO^k@DGFMDW?CASGW?AGWEQOi@GWEQOk@Oi@EQIWOi@CIK_@Oi@AAOe@Sc@AASg@O]CGYk@Q_@EMMWCIGa@Ik@?AIk@Ig@?EIk@Ku@Ic@Kq@Gi@Ic@AGG]CMGWEQCME_@ACCi@AEA]?I?[@y@?GBc@BIHm@@GFe@F[@OJm@?EDg@?EFg@@IHUDGHOLOJKRSPWBETe@DIN[FQHUPg@FQHWNa@@ENi@DSFWFYDQLi@FY@K@EBOB]?GBOFO?CBGHc@BMF]BSBYHm@BSFWJk@F[BOF[BOH[BOLi@Lk@J_@BKNg@HYFOPg@@ENa@Rg@Pg@JWXw@Rg@?ATc@Zs@NSXa@HMLUb@s@JOZ_@X_@PWDINUHIBCZQ^QHE~@[NERENCL?D?RAN?d@AX?H?B?T@VBJ@H@L@d@?RCF?ZBF?d@FXDb@FRBH@PBF?H@T@B@F@RFD@HBNFF@H@x@T@?H@XFFBTDB@H@VF@?F?F@R@FAHANC@?FAFCNGFIFKDI?E@E?C@G@K@[?A?_@?K?c@?K?a@AK?U?Y@i@?C?c@?K?K@W?I@Q?Q@K@a@?E?EBc@@I?ADa@@IB[BQD_@?C@IFg@?EDa@?E?EBa@?A?E?E@a@@K?o@?C?i@?WAm@AWCm@AI?CCQCYCGCMGM"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 40.1294025,
+                        "lng" : -75.4821043
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.1 mi",
+                        "value" : 173
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 40.1210149,
+                        "lng" : -75.4559062
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eSchuylkill River Trl\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "_{zsFvhpkMCHCJCB?@GFA@EDIFIFC@KFIDC@E@MBOBE?E@KBA?EBGBa@REB_@RC@KDQHA@A@A@?@?@AB@B"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 40.1196805,
+                        "lng" : -75.45500299999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "1.8 mi",
+                        "value" : 2868
+                     },
+                     "duration" : 
+                     {
+                        "text" : "8 mins",
+                        "value" : 499
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 40.1119714,
+                        "lng" : -75.431219
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eSchuylkill River Trl\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "ic{sFlnpkMDDB@DANE`@Kb@O`@M\\MB?`@M`@K\\KTGLEd@MPG`@Mb@MTIHEDCFERE`@Mb@KDA\\EDARCF?J?V@H?X@XIb@@L@T@TBx@HZ@\\BB?b@@T@LAZAFAb@CB?^GD?\\GTEJC^K@Ab@M^O@?JERIJEJE^SHGZUBCZU@A\\YJGPQl@m@f@g@X[@AVa@JMJSVe@DK^aA?APe@FOF[Li@DQDYHg@@EF{@B_@D]F}@?IFmA@s@@m@?o@?a@?MCm@AYI_BMqAA[Gs@KyA?GG{@Eq@Cq@Cc@A[?QCeA@W?o@@m@?OA_@Am@?a@A{@?o@?oBA[?o@Am@?_@A}@?IAe@Am@Ao@?]AOAo@?E?g@?o@?m@?o@?cA?Y?]?O@o@?}A?m@?A@m@?m@?o@?m@?}A?M?Q?OAo@?m@?o@Ak@?AAo@Ak@?A?}A?q@Ak@?]?Q?m@Ao@?E@g@?o@?SBY@SBY@[L_A@MF]Jm@DS@G"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 40.1210149,
+                        "lng" : -75.4559062
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "8.3 mi",
+                        "value" : 13338
+                     },
+                     "duration" : 
+                     {
+                        "text" : "39 mins",
+                        "value" : 2338
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 40.0775799,
+                        "lng" : -75.3156245
+                     },
+                     "html_instructions" : "Continue straight to stay on \u003cb\u003eSchuylkill River Trl\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : 
+                     {
+                        "points" : "yjysFbtkkMN{@D]@G@ELk@Lk@?ENc@Ni@H[DMHWFQNi@H[DMNi@DOHYPg@H[DMPi@BIJ_@Ni@H[BMFU@EDMNk@Li@Ni@FW@C@OHm@Hm@D[BODm@Fm@BW@WHoB@CAyA?kAA{@CuA?KU}BGm@Em@Gm@AEIe@Im@EWCMKk@Gc@G]G[E]Kk@G_@[oBE[UyACKQkACMAMEQCKG_@CKG_@CKG_@CMKk@G_@AKG_@CMG]CMG]AMG_@CKG_@CMG]CMG]CMG_@CKKm@AIESAMG]CMG_@CKKm@COCMAMG_@CKG_@CMG]AMG_@CKG_@CMAKG_@Kk@Kk@Kk@Km@Kk@Kk@Ig@ACMk@Mk@EUGSOk@I[EKQi@KYEMSg@Se@y@wBCCu@aBGOMUSc@Ue@Ue@Ue@Se@Ue@Ue@Ue@MWEKUg@Se@Ue@Se@Ue@i@kAUe@AES_@Uc@Uc@Ue@GKK[Og@c@qAAEMc@cAeDQi@Oi@Qg@AGKc@Kk@YwAMk@Ki@Mk@Mk@Kk@Mk@EUEUKk@Im@Kk@Kk@Kk@COE]Im@Gk@Im@Im@Gm@Ik@AGWgCEg@AEGm@Im@QyA?AEk@Go@?CEi@Gw@Ac@Ao@AK?a@@wA?S?A?Q@}A?K?o@?m@?o@?m@?o@?m@?}A?o@?K?a@?oB?kA?o@?m@@}A?cA?g@?}A?gA@sB?o@@kC?}A@}A?_B?{D?W?qA@a@?W@W@a@Da@Dy@Dc@Dq@TeBXwBL_AZsBJk@@GFe@Jk@Hm@Jk@RmAJw@Jm@D[BO\\gCRyAHm@D[DOHk@Hg@Hs@Fk@@EJwAFm@Fw@Bc@Dm@@IHsA@[@QF}A?IDsAD{A?I@sA?sA?K?kC?a@@MB}A@m@?Y@cA@mC@w@?sA?i@?E@m@?}A?U?gA?{@?mA?q@?o@?SBiA@O@]Bi@?EBm@BY@SFm@@MLuADe@Dg@?EL{ADo@HcAJeADm@Fm@Fm@Fm@Fm@Fm@Dm@Fm@N{AH{@?GBU@O@I@CDm@Fm@Fm@Dm@ViCDm@TgC@ADq@Dm@Dm@Dm@Dm@RkC?GDe@?ABY@W?IDm@NqABK?CDU@E@K@?F_@@G?C@AD]H_@BI?A@IBKBIBCDGFCDAF@DBFD@DBH?F@D?H?H@H@D@DBFDBFBF?B?FEJMBK?A@CJ[Po@HYNg@Ng@J_@t@gCNg@Ni@@ALg@Nk@Ni@Ni@Li@Le@FSFKF]@A@Q?Y?G?A@U?IDMLe@?C@Y@I?GFMFSNi@Nk@@?Pq@Pm@BGBK@GBM?ADODONs@?C?ARaADSXqADWLq@Lk@T}@@CNi@HUFSNi@FSFULi@J_@BKZeABMX}@^yATw@La@\\uARq@Ni@Jc@Dc@Fq@DSJ_@BIPo@ZoA@ENi@\\mANo@DOB_@@G@e@BMLk@Pi@\\sA?ARc@Ru@Ty@DOLi@Vw@XeADMH[Nm@Ne@DOZkA\\qAJk@Jg@b@}B~@cFJk@VwAJk@VwAb@eCJk@F[?ABGDCHAF?@?@?JBL@B@B@@?F@D@B@HD@B@@?@BD?N?R?@?DITCDC?C@GAIEGKA?CEIOAK?Q@QBKBGDSZuADMH[Ni@Lk@Ni@@CNc@Pi@J[@MD]DMPi@DMJYPg@DKL[`@_AFKd@}@P]Z_@LQFKBEBCFKBE@A@Af@k@`@c@JKPM^W|@m@VSFC^Q`@Q^QRKLC`@Mb@M\\IBAh@I\\GNAb@CHAVA^AB?b@?b@?F?ZBb@Db@BJ@V@b@BVBJ?b@Bb@@`@B@?b@Bb@BD?ZBb@BXBH@b@Db@Db@DH@XB`@BZ@F@b@@b@Bb@BD?\\Bb@Bb@BF@Z?b@?b@@B?^@Z@F?b@Bb@BB?^Bb@@H@V?Z@F?b@Db@BF?Z@b@Bb@@@?`@AZAF?b@?b@?b@?F?Z?V?J?b@?H?XCb@CLATC`@Eb@CLAD?NAb@Eb@Eb@Eb@Cb@EhBOhAK`@CdAKLATCb@Eb@ENCRAb@Eb@CNAPCb@EF?ZG`@Ib@KLCRGb@K\\KBA`@K`@MTGLC`@M`@Kb@KDAZIb@K`@KHAXG`@K`@I@A`@Gb@INCPCb@Eb@ELATCb@Eb@EVCHAb@Cb@ED?\\Eb@G`@G@?dAQB?\\Ib@KRGLE`@OXKFC`@O`@MJETK^ORININK\\WHGTOPMHI@?RO\\YBCXUBCLKJIBCXW@CXWBCPQBC^[PS"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 40.1119714,
+                        "lng" : -75.431219
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "4.7 mi",
+                        "value" : 7534
+                     },
+                     "duration" : 
+                     {
+                        "text" : "22 mins",
+                        "value" : 1305
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 40.0446953,
+                        "lng" : -75.249978
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eSchuylkill River Trl\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : 
+                     {
+                        "points" : "{srsFraujMVG\\ENCDARIVMj@g@HIRQPQd@g@b@c@n@u@pA}ADGP[PYT]HODEZg@xAcCVc@Va@PYp@u@FS^e@|@eBTc@Zk@l@iATc@DABA@AFMVg@DON]FOLc@J_@Le@Lc@Li@J_@@EDW@CBOJc@Fc@Fm@Hk@@IFc@Fm@@[?QAO?G@EDO?CDU@SFk@?ADm@B_@?M@a@?M?m@Aq@?m@CiBEa@Eo@?CEi@EaACYO{AEm@AICYIc@AGGm@Gm@Gm@CSCYIm@Gm@Gk@?AGk@Go@Ek@K{AGm@COKiAGy@Ea@OqAAIGm@M{AM{AGm@AOC]Gm@O{AEe@AGM{AEm@A?Ca@AKGm@Gm@O_BEg@Ec@AI?AGk@Gm@Gm@?EEg@Gm@Gm@Ei@ACGm@CSAY?_@CMGm@Im@Ea@AIEo@Gm@Em@Gm@?AAKIiA?i@CYEYW{BA_@Am@?AA?Ac@?IG}A?MAa@?OCSE_@?KAm@?[?S?m@?W?UBo@@a@F{@@U@WBm@@KDa@Fg@@EJk@DWDSHk@@ABMTaA@CLk@DWZy@FSJSRe@b@gABEn@iATa@Va@R]BEr@aABETYd@k@j@m@Z_@Z[Z]@?ZY@?XW@?^U^W^UJGRM^U\\UTOh@]\\U^Wf@[VO^UXODC@A\\U\\UJGRM^U^U^WTMHE~@i@^S^S@A^S^S^S`@UDCx@c@^S^STMHG^UXQDC\\W@?BAXUNMJMZ]RWDEZ_@X_@FINY@?Ta@Tc@FKNYTc@Te@Tc@Te@FMNUTa@Vc@LUHMVc@HQJQ@?Tc@@AT_@?AXe@DKJO?ALQTc@BCR_@Vc@Tc@Vc@HONUTc@LSHOVc@Ta@HMLUj@eAHMLUVa@Vc@Vc@HMLUTc@Vc@Tc@DGR]JQJQJONYTa@@ALQJQPUHIHIROFGTOBCZSLId@U`@OLC`@IBAbAO`@GdAKNARCb@Eb@EJAVC`@GJAJAJC@?`@INEPEB?XIBAVK`@Sh@U`@QPMLIPMJI\\YPQt@s@LOX_@f@o@d@o@Xa@RWDGVa@X_@JMLSX_@Xa@JMLQVa@r@aABCR]NQHMVa@Xa@DGPYd@q@b@o@Zc@Va@Xa@Va@Xa@Va@R[v@kA@?\\i@PYX_@DIPW@AV_@HMLSVa@Xa@JSJOn@eAHMLSVc@d@u@HMZg@Pa@p@aABER]BCR_@NUFKVc@FKNUf@{@FKTa@LSHODEP[Vc@@?@CT]Vc@Va@DIDGBABCFEHETKz@c@DC?ADCBEFIDIFKNW?ALSHM?ABEVe@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 40.0775799,
+                        "lng" : -75.3156245
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "30 ft",
+                        "value" : 9
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 40.0446416,
+                        "lng" : -75.2500558
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eShawmont Ave\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "kflsFjghjMJN"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 40.0446953,
+                        "lng" : -75.249978
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "138 ft",
+                        "value" : 42
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 40.04435410000001,
+                        "lng" : -75.2497403
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eNixon St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "_flsFzghjMZe@\\Y"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 40.0446416,
+                        "lng" : -75.2500558
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "1.6 mi",
+                        "value" : 2652
+                     },
+                     "duration" : 
+                     {
+                        "text" : "8 mins",
+                        "value" : 476
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 40.0278802,
+                        "lng" : -75.22900869999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eSchuylkill River Trail\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "edlsFzehjMJFPFRDFB^HB@LBR@@?NCNGB?LIJK@?LKLO?AFGNW@AV_@?ABEP[HMLUVc@hAcBp@eA@CBIBI@CBI?A?E?CBIBE@EBE@CBETYHQJSFMLQ@AJSHM@ALUFG@CBAPQFG@AFIHGFGBCJILIBAJGFEFC?AJEPGRIPG\\SJIFA@?BAH?JAVEPENI^S^SLGp@c@l@a@XSRSBCLQFIJODKDG@CLWDG?AV[@CFMFMRs@?CJ[@C@EJ_@BI@GFS@E@C@CHUBGDIFOFKBIHMDMBIBG?C@C?E@M?E?CBOHkA@A?U?Q@S?O@I@U?C@I?ABMBMBK?ADIFO@CDGLW?ADG@AHQDGFK@ELO?A^k@PUFKBCJQHIBEBEFI@ABEBEHO@EFMJW@?FODKDIDMFMDKRc@@ADOBG@EBEBEBC@CBAHS@AJQHOJQJM@CJM@AJQJMNSNSFK@ABGBCFMBGFINW@AHOHINS?CLQHKJOJMBALQHM@?HKBE@EFKDGJIHINQJKLSHOJO@A?A\\g@DGHO@A@ATWNS@ABCBCBCBCDCDCZUBANK?ALINK@ABCHEHGDC@?@CFEBEDCDIBEFIDG@EBC?AFIHMHMDGBGDGBG@ADG@ABCJK@ABABCBC@CBA?A@CBC?C@??A@C@C@C@G@E?C@I@EBI@G@E@E@C@EHMLOLOVWBEHIDEFENMLKDCRODCDEFGJM@?VSDEBEJIJMBCFGDGHI@CFINQJMLQHIFKFIDGRWRYDGHKJOBCBCPSDE@AX]@??A@A@CDS@GBE@AJOJKPU\\q@@CBI@EDGf@u@PUNSPWTY"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 40.04435410000001,
+                        "lng" : -75.2497403
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.2 mi",
+                        "value" : 327
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 72
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 40.0261922,
+                        "lng" : -75.22590169999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eSchuylkill River Trail\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : 
+                     {
+                        "points" : "g}hsFhddjMFGHIHIFIHKFMJQHOPYDIP[DGHMJSJOJU@CL]@EL_@FMBGFMFOFMNc@FOHW`@sANi@Ng@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 40.0278802,
+                        "lng" : -75.22900869999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "62 ft",
+                        "value" : 19
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 40.0263375,
+                        "lng" : -75.22578159999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eMain St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "urhsFzpcjM]W"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 40.0261922,
+                        "lng" : -75.22590169999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "1.2 mi",
+                        "value" : 1935
+                     },
+                     "duration" : 
+                     {
+                        "text" : "6 mins",
+                        "value" : 386
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 40.0155549,
+                        "lng" : -75.2087262
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMain St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "sshsFbpcjMTs@Rm@@Il@mBDSBIHURs@Tw@Nc@Po@HWt@eC^oA^oA^oADOHSBEJMnAgBj@w@FIXa@Xa@\\e@x@iAT[DIBCT[t@eAZa@f@s@HMNSLQJO\\g@^g@DGDGLSDElAeBV]BCDGLSjAaBTYHMDGf@u@r@_ARY|@oAb@m@BEBCBCFEDEHETOd@[\\ULI~@k@`@U^Ud@WTMNIFEDCDEFETSFGDEBCBCHKn@y@BC?ABADIBC@CDGBKPa@JWHSDG@G@E@OBOFy@?ABYBO@C@GBKDS?AJ_@DWBGH[BKJ[Ng@DKJ]HYBKR{@Ja@BG?EBIHe@?AAa@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 40.0263375,
+                        "lng" : -75.22578159999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.1 mi",
+                        "value" : 216
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 40.0148138,
+                        "lng" : -75.2063845
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRidge Ave\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : 
+                     {
+                        "points" : "epfsFpe`jM\\iADQDOBM^gBF[Lm@Ha@BOPy@F[Fa@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 40.0155549,
+                        "lng" : -75.2087262
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "33 ft",
+                        "value" : 10
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 40.0147291,
+                        "lng" : -75.2064214
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto the \u003cb\u003eKelly Dr\u003c/b\u003e ramp",
+                     "maneuver" : "ramp-right",
+                     "polyline" : 
+                     {
+                        "points" : "qkfsFzv_jMNF"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 40.0148138,
+                        "lng" : -75.2063845
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.1 mi",
+                        "value" : 207
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 40.0129898,
+                        "lng" : -75.20637189999999
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e at the fork to continue toward \u003cb\u003eKelly Dr\u003c/b\u003e",
+                     "maneuver" : "fork-right",
+                     "polyline" : 
+                     {
+                        "points" : "akfsFbw_jMJDXHRFTHZHVHJBHBB?JBP@V?H?NAHCHAHCJEHEBA@ADA@ALILMNU"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 40.0147291,
+                        "lng" : -75.2064214
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.3 mi",
+                        "value" : 486
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 77
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 40.0106636,
+                        "lng" : -75.2016946
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKelly Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "e`fsFxv_jMZ_@FIDGJSHSNO`@c@PYx@eANSRYLQRYHIDIDIBILUBGFSFO@EDO?AHY?A@IVsABIb@_CBQR_AJo@Nu@@IFW"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 40.0129898,
+                        "lng" : -75.20637189999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "1.5 mi",
+                        "value" : 2381
+                     },
+                     "duration" : 
+                     {
+                        "text" : "7 mins",
+                        "value" : 433
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 39.9944585,
+                        "lng" : -75.19259339999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eSchuylkill River Trl\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : 
+                     {
+                        "points" : "sqesFpy~iMDA@A@A@E^cBBMBGDIHSFSHKDM@A?AHQFWLk@Lg@?AJe@@G@I@I?KAKB[DYDSBO@EHe@F]Py@ZuA?A\\}AJa@Ha@DGJ[BWDU@ALe@b@{ALa@Ni@@CJe@Jc@BGNm@HYTu@@EV}@V{@?CBGf@}AVw@JYDMLYZq@R_@^o@RYVWBC`Aq@t@k@VQJGXQPIt@U^MBAz@WFCHCJAHCRCXCJAv@A^?D?N?JA@?BAJAHETKPI^Id@CZEH?^?@?@?RAZEl@IJAVCJ?V?L?D?L@ZFhB`@TDRDNBV?lAFX@RAZATAd@CJ?@?`@?@?F?X?H@NBJ@LBJBx@J^D`@F^DVFB?\\DB?@@J@R@l@F\\@L@\\BZB@@bARZFB@@?p@NRFRDLDHBNHTLJFHFJHLH@@LJLH@?j@b@NJ@?n@d@jAp@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 40.0106636,
+                        "lng" : -75.2016946
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.3 mi",
+                        "value" : 480
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 83
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 39.9913922,
+                        "lng" : -75.1962781
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eSchuylkill River Trl\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "klbsFt`}iMFEB?BAD@l@NFBPDJDHBFDDDFF`@d@Z\\TVf@j@^f@RTLNFLNTJPDJHTP^HNP^Zt@LXPh@DJDHLVRf@JRLNJNHJJLRN@B"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 39.9944585,
+                        "lng" : -75.19259339999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.3 mi",
+                        "value" : 513
+                     },
+                     "duration" : 
+                     {
+                        "text" : "2 mins",
+                        "value" : 90
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 39.9876343,
+                        "lng" : -75.1997344
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eSchuylkill River Trl\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : 
+                     {
+                        "points" : "eyasFvw}iMRJd@Zp@d@dAt@lAx@t@t@tAtAnApANVf@l@@?X\\FFPTLRPRn@d@p@f@JHDFPJ"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 39.9913922,
+                        "lng" : -75.1962781
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "1.2 mi",
+                        "value" : 1943
+                     },
+                     "duration" : 
+                     {
+                        "text" : "6 mins",
+                        "value" : 333
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 39.9753036,
+                        "lng" : -75.1918683
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eSchuylkill River Trl\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : 
+                     {
+                        "points" : "uaasFhm~iMfA~@fAlA@@^`@FHFFNPXb@JRjAfCLTDJFHDHFJTVXb@BB@BLNDF@@\\h@PTLPLNBBBDVRB@HHD@JDRHLD@@VBH@D?L?L?@?FAJ?LC@?VEHA@?NGNGNGNI@?JIPM@ANMLMLOPQV[x@_AHKh@s@X_@HKNUX_@LSHMXa@NUFKVa@Va@?AXg@N[HSHU@CDQFWLq@F[BIHk@He@Jc@BMDQFUBMDODMBIDKHSBGBEHSFIDGh@_ALUFKNUFMVc@FIZi@JQJOJQP[DGXe@HKb@s@?AV_@P[Xc@DGLUHKHQLQBGRY?ALSHKDGPUBABEFGHIDCBEPODEROHI\\YHG\\YRSRSDCJQJQDGBG@G@CBI@?BGBEBCBABCFCJEJGD?@A@?BABA@ABA@C@CBC@CBCDEFEJIBA^U@ARMHGHGRO?AZYNMBA@C?C?A?C?C?E@K"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 39.9876343,
+                        "lng" : -75.1997344
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "180 ft",
+                        "value" : 55
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 39.9750185,
+                        "lng" : -75.19146189999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eKelly Dr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "st~rFd||iM@ADCd@W@ABC@ABA?C@A?C?ICU"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 39.9753036,
+                        "lng" : -75.1918683
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.3 mi",
+                        "value" : 428
+                     },
+                     "duration" : 
+                     {
+                        "text" : "2 mins",
+                        "value" : 100
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 39.9714223,
+                        "lng" : -75.1900763
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKelly Dr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "{r~rFry|iMZUDCJGNI\\SRK\\QNIBCTMZQDADEVMDCRIFEXM@AXMf@QBAVK\\K`@M?ARGRGHCJCDAPCD?DAJA@?J?f@B\\HH@NDRBJB"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 39.9750185,
+                        "lng" : -75.19146189999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "52 ft",
+                        "value" : 16
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 39.97152639999999,
+                        "lng" : -75.1901987
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eSchuylkill River Trl\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eWalk your bicycle\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "k|}rF~p|iMMPGD"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 39.9714223,
+                        "lng" : -75.1900763
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.3 mi",
+                        "value" : 544
+                     },
+                     "duration" : 
+                     {
+                        "text" : "2 mins",
+                        "value" : 114
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 39.9693992,
+                        "lng" : -75.1855321
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eSchuylkill River Trl\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "a}}rFvq|iM\\DX@`@Ap@Ed@G@?RALEFARILKTUR_@V_AH{@F{@Dk@J{A@SPcCN}BJ}ADe@LmB"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 39.97152639999999,
+                        "lng" : -75.1901987
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.4 mi",
+                        "value" : 582
+                     },
+                     "duration" : 
+                     {
+                        "text" : "2 mins",
+                        "value" : 120
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 39.9666791,
+                        "lng" : -75.17982649999999
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eSchuylkill River Trl\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : 
+                     {
+                        "points" : "wo}rFpt{iMFi@@EBMBMBMBQDUH[F[Lg@Rw@f@yAPa@@CJa@Rc@`@}@R]NULQT]NUV]j@q@Rc@Lc@?AN_AJq@DQH[DMNc@@GZk@NSNWLM@A"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 39.9693992,
+                        "lng" : -75.1855321
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : 
+         {
+            "points" : "iqptFp`rlMFaAg@yAViGRsD^OlA`Br@XnCqFjEkAtCyJjB_C`D}@~CmHnD_JjDaGzBeGbAcLFuJeA}KkDiRoCoG}DuEo@sB`@{Cn@]j@}Cx@wHAkAUyBZ_CjMqDr]mIf\\}IxUyNfw@{l@fMyJrH_I|C_F`EiJjAqHvAuDtAyJp@_RcAyN_FaMoJmLgCeJ]}Dj@wKfAoDvCsFhE}EnTuN~K_H~m@a`@pNsIzFeCzIwBtFsAjCgBbGgGrVen@vGsKvHgFvNcCzZqAzHZzJ`E~CrBt@vBpGfCpCxBlBzBvAl@tE{H~GcEjDmFzEgKlDkErBw@fAL`C?~D|AxEfAjC|BvBjB~HrBlEkAjAGxCmC`FyDfDy@tMaCxCuB\\uC}@mFyBsEmFeJ{DyKs@}B^{AFoDf@sGzBkIg@_CaBiC_AkBRaApDwCLTHa@y@yC_FgN[g@b@qAjHuL~DyIrK}UjJ{Su@uBdFwKxBiCR_JBiNgAqP_@iLsBuBg@aB\\w@dBiChEiHuCiLeDgJwBkNh@}Kh@sCnByCjCsJ`FqVnHaOjCiCdDs@zHP|Ev@rEz@zAeA^mQ`@yFGiF]sAsBlAqCpA^JjF}ArIcCrIN~IkArHsFhCuEdAqEd@iI[gKo@oSOqi@GuS`@{NtHiZpB{LDoMgAyJ{CmR}AaJoDiTsCqOuHgR_IyPkHsTyDuSkCaVMin@Vic@nEw[xCuWj@{ZHk\\fAyQjFan@bAoLbAiD|@bBfEuMnF_VjKkb@zKsd@|Imc@d@k@r@LTx@]b@a@wAvA}F`E_MhG{H`FkCbF_AhKVrYxAfWTd^iDzKsC|K}AdLuBfIqEvFcE|CsBjG{HzMwT|CqJhAcKAeQiFak@yDab@eCk_@b@eO|DsNjKgN`KuGrWiOdFoFpGqLtN}VxEkIpBuBhDwAdLuAvH{DpVc]lSw[~EgIrDcD`AaB~BmArBVjAy@|FqJzA_DzBmChDaB|CgArD}CzBsFnAgD\\wFfEgInE{IjGaJ~GqHvCwDxBeExHiI|GiKfDeFnDyJM_Ah@aBx@uCtDcMzEwJrDgFfKyNfJmM`JuFfCwC|EeSnCqNj@o@~Ad@fBVjDwBfG{IzC_OfBuFdFgWnEeP~BqGdDwD~EgC|Co@hIw@pCWhFv@hJHnIdAdJjBxGzDpBp@dE|EvEjKxQnPtKjKvFnJvDnD|D_@hH_I`FgJrBaJdFyI~EaIpDsDjEoElDoC`AqAz@qAzCaB`HqCfAQzAN`@^~DCv@]jAqDnA}Ql@oFzByHdDyFxB{GbBaD"
+         },
+         "summary" : "Schuylkill River Trl",
+         "warnings" : 
+         [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

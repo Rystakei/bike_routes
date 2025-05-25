@@ -1,0 +1,380 @@
+{
+   "geocoded_waypoints" : 
+   [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJGbIk1wd344kR1I_Sb_OWIZs",
+         "types" : 
+         [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+         ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJX4DhbNCd44kRtcH46-jSimU",
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest",
+            "store",
+            "travel_agency"
+         ]
+      }
+   ],
+   "routes" : 
+   [
+      {
+         "bounds" : 
+         {
+            "northeast" : 
+            {
+               "lat" : 42.4491711,
+               "lng" : -71.1430056
+            },
+            "southwest" : 
+            {
+               "lat" : 42.3962278,
+               "lng" : -71.22933879999999
+            }
+         },
+         "copyrights" : "Powered by Google, ©2025 Google",
+         "legs" : 
+         [
+            {
+               "distance" : 
+               {
+                  "text" : "6.4 mi",
+                  "value" : 10329
+               },
+               "duration" : 
+               {
+                  "text" : "38 mins",
+                  "value" : 2299
+               },
+               "end_address" : "1875 Massachusetts Ave, Lexington, MA 02420, USA",
+               "end_location" : 
+               {
+                  "lat" : 42.4491711,
+                  "lng" : -71.2290869
+               },
+               "start_address" : "Alewife, Cambridge, MA 02140, USA",
+               "start_location" : 
+               {
+                  "lat" : 42.3962278,
+                  "lng" : -71.1430056
+               },
+               "steps" : 
+               [
+                  {
+                     "distance" : 
+                     {
+                        "text" : "128 ft",
+                        "value" : 39
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.3965709,
+                        "lng" : -71.14309039999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eSteel Pl\u003c/b\u003e toward \u003cb\u003eAlewife Station Access Rd\u003c/b\u003e",
+                     "polyline" : 
+                     {
+                        "points" : "mowaGxbfqLMDIBG@A?MBS?"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.3962278,
+                        "lng" : -71.1430056
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.2 mi",
+                        "value" : 298
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.3990365,
+                        "lng" : -71.1442648
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eMinuteman Commuter Bikeway\u003c/b\u003e",
+                     "polyline" : 
+                     {
+                        "points" : "qqwaGhcfqLIEGAG?IAK?I?G@MBMDKDKFEDGFCBEDEFKFC?A@YJA@G@KBE?I?OFC@EDEDIJGLCBCBC@E@E@A@SFA?EBC?KFIBIBA@A@A?[NcA`@UH"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.3965709,
+                        "lng" : -71.14309039999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "354 ft",
+                        "value" : 108
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.3998748,
+                        "lng" : -71.14483509999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eMinuteman Commuter Bikeway\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : 
+                     {
+                        "points" : "_axaGrjfqLGJMN[^A@ADCBCBCBCBE@i@TE@E@E@C?E@C?E?I?"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.3990365,
+                        "lng" : -71.1442648
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "1.1 mi",
+                        "value" : 1806
+                     },
+                     "duration" : 
+                     {
+                        "text" : "7 mins",
+                        "value" : 392
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.4147875,
+                        "lng" : -71.15243339999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eMinuteman Commuter Bikeway\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : 
+                     {
+                        "points" : "efxaGfnfqLSQQSECCAC?CAC?G?C@A?wAl@CBA@IPABEDCDGDQJk@Xe@Rs@ZUHKFa@PiAd@cE`B_@NkDtAaAb@C@]LeC`AA?aA`@i@RMDa@LQFwBr@WJuATiBZMB{ATQBQBMBMD[FQFm@RIBA@GBC@OBe@RA?GDC@{@f@]PCBQLGBCBEBQNWRk@j@GFMNA@GHSTA@W\\[^KPCBOP[^IHIHGHGFMLEDOLOJCBKFMJ_@VSLYNk@XG@GD{A`@WDaBXG@wA\\k@N"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.3998748,
+                        "lng" : -71.14483509999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "154 ft",
+                        "value" : 47
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.4151076,
+                        "lng" : -71.152068
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eSwan Pl\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "mc{aGt}gqL_@a@MQQS"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.4147875,
+                        "lng" : -71.15243339999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "344 ft",
+                        "value" : 105
+                     },
+                     "duration" : 
+                     {
+                        "text" : "2 mins",
+                        "value" : 95
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.4155647,
+                        "lng" : -71.15318189999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMassachusetts Ave\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "me{aGl{gqLQj@Od@GVe@|AIT"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.4151076,
+                        "lng" : -71.152068
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "4.4 mi",
+                        "value" : 7044
+                     },
+                     "duration" : 
+                     {
+                        "text" : "25 mins",
+                        "value" : 1505
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.4463416,
+                        "lng" : -71.2207502
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMinuteman Commuter Bikeway\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "gh{aGjbhqL]ICEGIGGCEIGCAAAC?A?A@EBEDQN_Az@YXA?STk@h@UXW\\Sh@[f@iBtFGRq@bCs@dCQn@s@~BeAjDQf@?@s@~B?@GPgAtDGPQj@IVOh@c@rAENIZQh@ADCHGXA@CHI^A@IZENCHI^?@IZE\\I^ALAFETIf@AFGf@A@?BId@?@?@ABE`@?DA@?@?BEn@CPEh@GjAIfBIvA?HAT?BERIn@Il@?DIf@Kl@AFIZCFEPIXITGRGLKXEHEHELEHADKRKPEHq@dAILORKPc@r@MRa@n@_@j@S\\MPEFEFEJQV?@IJMTqArB]j@KNCDYd@k@z@MRA@GLINMTa@~@Sb@IREJCHCJK^AFQn@AFEPEN?@ABIh@A@ALER?JEn@En@En@ALA`@Cb@Cn@?H@d@Bp@@j@?BBn@Bn@J|B@\\LvDD~@@h@?DBh@?FBn@Bh@?DBh@?D@XBn@?NB`@?N@^Bn@@N@R@h@?D@h@FdAF`BBn@Bj@?BBn@@f@B~A?H?xA?FEt@Cj@KhBMhCANG`BCn@MlCCp@AXGfAAXAHATIjBAZEp@Cr@Ep@?LCn@En@KpCUxDCj@C\\CL?@CZAPGn@AHOrAWzAKl@Mj@?@UbA[lAI\\a@tAKXENOj@Oj@CJK^Oh@a@tAMb@w@|C]tAOj@Ol@q@jCMb@]tAIVCRGTCLCHGXK^IZK`@IVI\\A?Qf@KZQ\\q@lAYf@EFu@`Ay@z@IHqAbAEDu@l@]XC@[T{AlACBw@n@]XkA|@OLi@`@oAdASNKHIFq@h@IF{AlA}AjAs@j@_@X{@r@IFA?SPoA`AOLOLCBw@l@_@XA@[V]VA?UPcBpAA?{@n@A@[VA?GDUP]ZYT}BjBSNgAz@A?q@h@qAv@IDUPu@l@iAfAgA~@_@Xy@r@A?KJoA|@A@KHiB~A]Zy@t@A?CBuAnAKJOPEFSVEDA@ST[^KJUZk@z@ORILEHQZEFEFIPA@EFCBMVEH?@MV?BEHM\\ITGRCJCFIVOh@ABADM`@Oj@CHMf@ABi@nBEP?F?H@H@r@?L?D?@?@A?EB"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.4155647,
+                        "lng" : -71.15318189999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.5 mi",
+                        "value" : 726
+                     },
+                     "duration" : 
+                     {
+                        "text" : "3 mins",
+                        "value" : 189
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.4491178,
+                        "lng" : -71.2285971
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eMinuteman Commuter Bikeway\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "shabGthuqLM?C@A@A@ABADSbAq@fDo@vD?@WvAA@?@Kj@Kj@A@Kj@?@Kj@?@YxAKl@CPENKl@G\\CLKj@Ml@Kl@If@_@bBADQh@O\\Qd@s@vAUf@o@`AGJ"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.4463416,
+                        "lng" : -71.2207502
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "253 ft",
+                        "value" : 77
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.4485782,
+                        "lng" : -71.2291893
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMeriam St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "_zabGvyvqLh@j@FHDFHHh@l@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.4491178,
+                        "lng" : -71.2285971
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "259 ft",
+                        "value" : 79
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.4491711,
+                        "lng" : -71.2290869
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "svabGl}vqLGJEFA@E@ODG?E?EAICGEMSKQEEGBA@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.4485782,
+                        "lng" : -71.2291893
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : 
+         {
+            "points" : "mowaGxbfqLa@Ja@BQGg@AUDYJQLKJ[Te@PQBI?OFIFOPSVm@PaAb@yAj@UZc@j@QL{@ZS@I?SQQSQGQ@{Ap@KRSTwCtAmChAqMjFiDpA{ChAiCz@WJuATwB^mBXiATmC~@eCvAs@j@cAdAqBfCsAxAo@d@{A`As@ZcBf@yB^_B^k@N_@a@_@e@oAfEIT]IKOYWGAMJmBdB_A~@m@v@o@pAqBhGkDxLkCvImDjLy@zCUv@YzAi@dDQrAQxB[tGQ|A_@hCU|@c@pA]z@_@t@aA|AqDxFmCjEkCfEy@dBg@lAq@nCO|@Q~BI~AGrA@n@HpC^bKR`Gb@nMN`EH`E?`BI`Bc@dJc@tJa@rJk@fLKhAKjAOrAWzAKl@_A~D}@|CaBbGaFvR{@nDa@vA]bAcAjB_@n@u@`Ay@z@{AlA{@r@yC~BeDjCoFhEuPvM}GdFiHzFq@h@{A|@kA~@iAfAgA~@yAlAMJqA~@uBhB}AtAaBzAUXo@t@g@j@aAvAq@fAWb@q@tAcA`DcBjGBfBGBQ@GLoC~NmBnKe@dCw@~Da@fAeA|BeAhBGJh@j@LPr@v@MRGBWDKAQIYe@EEGBA@"
+         },
+         "summary" : "Minuteman Commuter Bikeway",
+         "warnings" : 
+         [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

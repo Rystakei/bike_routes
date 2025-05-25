@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "stop_name": "West Medford" }, "geometry": { "type": "Point", "coordinates": [ -71.133936, 42.422325 ] } },
+{ "type": "Feature", "properties": { "stop_name": "West Medford" }, "geometry": { "type": "Point", "coordinates": [ -71.133987, 42.422221 ] } },
+{ "type": "Feature", "properties": { "stop_name": "Wedgemere" }, "geometry": { "type": "Point", "coordinates": [ -71.140169, 42.444948 ] } },
+{ "type": "Feature", "properties": { "stop_name": "Wedgemere" }, "geometry": { "type": "Point", "coordinates": [ -71.140169, 42.444948 ] } },
+{ "type": "Feature", "properties": { "stop_name": "Winchester Center" }, "geometry": { "type": "Point", "coordinates": [ -71.13783, 42.451088 ] } },
+{ "type": "Feature", "properties": { "stop_name": "Winchester Center" }, "geometry": { "type": "Point", "coordinates": [ -71.13783, 42.451088 ] } },
+{ "type": "Feature", "properties": { "stop_name": "Anderson/Woburn" }, "geometry": { "type": "Point", "coordinates": [ -71.144475, 42.516987 ] } },
+{ "type": "Feature", "properties": { "stop_name": "Anderson/Woburn" }, "geometry": { "type": "Point", "coordinates": [ -71.144475, 42.516987 ] } },
+{ "type": "Feature", "properties": { "stop_name": "Wilmington" }, "geometry": { "type": "Point", "coordinates": [ -71.174334, 42.546624 ] } },
+{ "type": "Feature", "properties": { "stop_name": "Wilmington" }, "geometry": { "type": "Point", "coordinates": [ -71.174334, 42.546624 ] } },
+{ "type": "Feature", "properties": { "stop_name": "North Billerica" }, "geometry": { "type": "Point", "coordinates": [ -71.280995, 42.593248 ] } },
+{ "type": "Feature", "properties": { "stop_name": "North Billerica" }, "geometry": { "type": "Point", "coordinates": [ -71.280995, 42.593248 ] } },
+{ "type": "Feature", "properties": { "stop_name": "Lowell" }, "geometry": { "type": "Point", "coordinates": [ -71.314543, 42.63535 ] } },
+{ "type": "Feature", "properties": { "stop_name": "North Station" }, "geometry": { "type": "Point", "coordinates": [ -71.062326, 42.366417 ] } }
+]
+}

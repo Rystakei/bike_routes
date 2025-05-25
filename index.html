@@ -1,20 +1,49 @@
-<!DOCTYPE html>
 <html>
 <head>
-  <meta charset="utf-8">
-  <title>Bike Route from Saved Google JSON</title>
-  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-  <style>
-    #map { height: 100vh; width: 100%; }
-  </style>
-</head>
+    <meta charset="utf-8">
+    <title>Bike Route from Saved Google JSON</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/@mapbox/polyline@1.1.1/src/polyline.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.5.1/gpx.min.js"></script>
+    <script src="https://unpkg.com/@turf/turf/turf.min.js"></script>
+    <style>
+      #map { height: 80vh; width: 100%; }
+      .route-label {
+        background: rgba(255,255,255,0.8);
+        padding: 3px 6px;
+        border-radius: 4px;
+        border: 1px solid #ccc;
+        font-weight: bold;
+        font-size: 12px;
+      }
+
+      #nav-buttons button {
+        background: white;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        margin: 2px;
+        padding: 6px 12px;
+        font-weight: bold;
+        cursor: pointer;
+    }
+    #completionBox {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    z-index: 1000;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 6px 10px;
+    font-size: 13px;
+    font-family: sans-serif;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.4);
+  }
+    </style>
+  </head>
 <body>
   <div id="map"></div>
-
-  <!-- Leaflet -->
-  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-  <!-- Mapbox Polyline decoder -->
-  <script src="https://unpkg.com/@mapbox/polyline@1.1.1/src/polyline.js"></script>
 
   <script>
     const map = L.map('map').setView([42.37, -71.13], 13);
@@ -22,39 +51,182 @@
     L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
       attribution: '© OpenStreetMap contributors'
     }).addTo(map);
+    const riddenLayer = L.layerGroup().addTo(map);
+
   
-    // Add routes here
     const routeConfigs = [
-      {
+    {
+        type: 'json',
         file: 'cambridge_watertown_greenway.json',
         label: 'Cambridge-Watertown Greenway',
         color: '#0074D9'
-      },
-      {
+    },
+    {
+        type: 'json',
         file: 'minuteman.json',
         label: 'Minuteman Commuter Bikeway',
-        color: '#FF851B'
-      }
+       // color: '#FF851B'
+        color: '#0074D9'
+    },
+    {
+      type: 'json',
+      file: 'bruce_freeman_rail_trail.json',
+      label: 'Bruce Freeman Rail Trail',
+      color: '#2ECC40'
+    },
+    {
+      type: 'json',
+      file: 'schuylkill_trail_new.json',
+      label: 'Schuylkill River Trail',
+      color: '#2ECC40'
+    }
     ];
-  
     routeConfigs.forEach(route => {
-      fetch(route.file)
+        if (route.type === 'json') {
+          fetch(route.file)
+            .then(res => res.json())
+            .then(data => {
+              const encoded = data.routes[0].overview_polyline.points;
+              const coords = polyline.decode(encoded).map(([lat, lng]) => [lat, lng]);
+              const layer = L.polyline(coords, {
+                color: route.color,
+                weight: 4,
+                opacity: 0.5
+              }).bindTooltip(route.label, {
+                permanent: true,
+                direction: 'right',
+                className: 'route-label'
+              }).addTo(map);
+
+            // 👇 ADD THIS IF IT'S THE MINUTEMAN
+             if (route.label === 'Minuteman Commuter Bikeway') {
+                calculateProgress(coords);
+            }
+            });
+
+        } else if (route.type === 'gpx') {
+          new L.GPX(route.file, {
+            async: true,
+            polyline_options: {
+              color: route.color,
+              weight: 4,
+              opacity: 0.8
+            }
+          })
+          .on('loaded', function(e) {
+            map.fitBounds(e.target.getBounds());
+            const center = e.target.getBounds().getCenter();
+            L.tooltip({ permanent: true, direction: 'center', className: 'route-label' })
+              .setContent(route.label)
+              .setLatLng(center)
+              .addTo(map);
+          })
+          .addTo(map);
+        }
+      });
+
+      fetch('current_minuteman.json')
         .then(res => res.json())
         .then(data => {
-          const encoded = data.routes[0].overview_polyline.points;
-          const coords = polyline.decode(encoded).map(([lat, lng]) => [lat, lng]);
-  
-          L.polyline(coords, {
-            color: route.color,
-            weight: 4
-          }).bindTooltip(route.label, {
-            permanent: true,
-            direction: 'center',
+            const riddenCoords = polyline.decode(data.routes[0].overview_polyline.points)
+            .map(([lat, lng]) => [lat, lng]);
+
+            const poly = L.polyline(riddenCoords, {
+            color: '#0074D9',
+            weight: 4,
+            opacity: 0.5,
+            }).bindTooltip("Ridden Segment", {
+            permanent: false,
+            direction: 'right',
             className: 'route-label'
-          }).addTo(map);
+            });
+
+            riddenLayer.addLayer(poly);
+
+            // Also calculate progress here if you want
+            calculateProgressWithCoords(riddenCoords);
         });
-    });
-  </script>
+
+        fetch('fitchburg_line.geojson')
+            .then(res => res.json())
+            .then(data => {
+            L.geoJSON(data, {
+                style: {
+                    color: '#800080',
+                    weight: 3,
+                    opacity: 0.9
+                }
+            }).addTo(map);
+        });
+
+        fetch('fitchburg_stations.geojson')
+        .then(res => res.json())
+        .then(data => {
+            L.geoJSON(data, {
+            pointToLayer: function (feature, latlng) {
+                return L.circleMarker(latlng, {
+                radius: 5,
+                fillColor: '#ffffff',
+                color: '#800080',
+                weight: 1,
+                opacity: 1,
+                fillOpacity: 0.9
+                });
+            },
+            onEachFeature: function (feature, layer) {
+                layer.bindTooltip(feature.properties.stop_name, {
+                direction: 'top',
+                className: 'route-label'
+                });
+            }
+            }).addTo(map);
+        });
+
+        function panToBoston() {
+            map.flyTo([42.3601, -71.0589], 10);
+        }
+
+        function panToPhilly() {
+            map.flyTo([39.9526, -75.1652], 10);
+        }
+        function calculateProgressWithCoords(riddenLatLngs) {
+            // reuse coords from minuteman.json
+            fetch('minuteman.json')
+                .then(res => res.json())
+                .then(fullData => {
+                const fullCoords = polyline.decode(fullData.routes[0].overview_polyline.points)
+                    .map(([lat, lng]) => [lng, lat]);
+                const fullLine = turf.lineString(fullCoords);
+
+                const riddenLine = turf.lineString(riddenLatLngs.map(([lat, lng]) => [lng, lat]));
+
+                const totalMiles = turf.length(fullLine, { units: 'miles' });
+                const riddenMiles = turf.length(riddenLine, { units: 'miles' });
+                const percent = (riddenMiles / totalMiles) * 100;
+
+                const output = `
+                    <strong>Minuteman Trail</strong><br>
+                    Completed: ${riddenMiles.toFixed(2)} mi<br>
+                    Remaining: ${(totalMiles - riddenMiles).toFixed(2)} mi<br>
+                    Total: ${totalMiles.toFixed(2)} mi<br>
+                    (${percent.toFixed(1)}%)
+                `;
+                document.getElementById('completionBox').innerHTML = output;
+            });
+        }
+
+    </script>
+    <div id="nav-buttons" style="position: absolute; top: 10px; left: 10px; z-index: 1000;">
+        <button onclick="panToBoston()">📍 Boston</button>
+        <button onclick="panToPhilly()">📍 Philly</button>
+    </div>
+    <div id="completionBox" style="position: absolute; bottom: 10px; left: 10px; background: white; padding: 8px; border-radius: 5px;">
+        <strong>Minuteman Trail</strong><br>
+        Completed: <span id="milesDone"></span> mi<br>
+        Remaining: <span id="milesLeft"></span> mi<br>
+        Total: <span id="totalMiles"></span> mi<br>
+        (<span id="percentDone"></span>%)
+      </div>
+  </body>
   
-</body>
 </html>

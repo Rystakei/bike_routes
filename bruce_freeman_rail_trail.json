@@ -1,0 +1,576 @@
+{
+   "geocoded_waypoints" : 
+   [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJiVpQXCyP44kRqHBXdmUl_K8",
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest",
+            "tourist_attraction"
+         ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ--aUuJuj44kRItk_NDrb94o",
+         "types" : 
+         [
+            "route"
+         ]
+      }
+   ],
+   "routes" : 
+   [
+      {
+         "bounds" : 
+         {
+            "northeast" : 
+            {
+               "lat" : 42.6128866,
+               "lng" : -71.3263596
+            },
+            "southwest" : 
+            {
+               "lat" : 42.3634158,
+               "lng" : -71.42261069999999
+            }
+         },
+         "copyrights" : "Powered by Google, ©2025 Google",
+         "legs" : 
+         [
+            {
+               "distance" : 
+               {
+                  "text" : "20.1 mi",
+                  "value" : 32421
+               },
+               "duration" : 
+               {
+                  "text" : "1 hour 54 mins",
+                  "value" : 6811
+               },
+               "end_address" : "Bruce Freeman Rail Trail, Lowell, MA 01851, USA",
+               "end_location" : 
+               {
+                  "lat" : 42.6128866,
+                  "lng" : -71.3263596
+               },
+               "start_address" : "Sudbury, MA 01776, USA",
+               "start_location" : 
+               {
+                  "lat" : 42.3634158,
+                  "lng" : -71.42261069999999
+               },
+               "steps" : 
+               [
+                  {
+                     "distance" : 
+                     {
+                        "text" : "6.8 mi",
+                        "value" : 10927
+                     },
+                     "duration" : 
+                     {
+                        "text" : "40 mins",
+                        "value" : 2410
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.4563748,
+                        "lng" : -71.3925222
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eBruce Freeman Rail Trail\u003c/b\u003e toward \u003cb\u003eCodjer Ln\u003c/b\u003e",
+                     "polyline" : 
+                     {
+                        "points" : "kbqaGhv|rLgAc@qAe@{@YMEkAWy@Ks@MKA_@EmBWGAeBSeC[GCCCGAU?mBUiBUkAMa@GQAeBUy@K[Ek@IcAOgBUEAkBUeAMy@MKAiBUQCwBYC?eBUm@E]E}Be@q@Sa@KcA]OEQKa@SQIMIaB}@_@Sa@Ss@_@m@[_@Ss@_@mAq@EC{@c@s@_@m@]iAk@y@c@m@[QKwAu@gBaAm@[q@]i@SYMu@UWGMAG?IAEAEECAGEOMYMcAa@MEa@Q{Ak@GCa@QcAa@UKKCiAc@[Me@Qa@QOGQGa@Oa@Oa@QKEw@[_@QMGSIa@Oa@Oa@Oa@Oa@OQIOGcA_@a@Oa@Oa@OKEUKa@O_@OeBo@OGuAi@_Bm@g@Sa@OcA_@a@Qa@Oa@OcA_@a@O]MC?a@Ow@YiAe@eCcAcAc@a@Oa@Q_@OGC[Ka@MUGqAY[GG?kAQ]CsAI_BGc@Cc@Cc@Ac@C}@Ec@IeASWEKAa@Ec@CA?a@CE?]AgAAc@Ac@Ac@AA?a@Cc@Ac@Cc@C[A}CU[AoCGc@Ac@Ac@AwAE{AIm@E}B]EAcA]a@M]Mg@MiD}@A?iCy@eA[WKq@OKEOEMCME_@OwAw@a@SCA[Oa@SeAe@_A_@y@]k@SeAe@a@Q_@QcAc@_@Qa@Qa@Qa@QcBu@_@Qa@Qa@Qa@Qu@]KEa@QaAc@cAc@_@QQIOI_@U_@U_@SeAo@YSk@a@QMIMGIIGKCQKYUuAiAA?SOgA{@{@s@]W][A?{AsA[UyBgBMIu@s@}@w@]YWUoByAQM_BiA}AgA_@W]W_@WCA[U]W_@W}@o@}@o@_@Ws@g@i@]_Am@_Ak@_@WCAaBk@a@OeA[q@OSEuAYi@AaABG?[C{@Gm@A}@CI?c@BaBDm@Bc@BM@y@DgAFa@B_@BYB]@IACAIAc@EU@A?A?A?_@@C?eCFE@C?gB@_@@C?C?A?]C_@ACAA?]AC?UCoASCAA?_ASC?c@IAA]GA?UEqAUA?c@ImAMYGA?MC{@OYEEAe@Ga@Ga@Ke@MQEMCC?[ECAc@GyB[yASe@GSEIAA?e@Ka@Gs@OWC]IeAQIAQCA?AAC?a@Gc@G_@GOCUG_AUkB_@OCSGAA]MAAA?]MA?e@Me@G_@EUWEAa@UGESKaAc@GCg@S[Ka@MECEAQICAEC[MECGEYIWKAAGCg@Qs@WAAGAQIeAg@eAa@]OEAEAYIw@WqAa@GAYGi@MC?a@IYEC?EAm@GcAI]?u@CE?C?EAYAC?E?A?WCC?EAUCC?C?EAa@CA?YBC?[DC@ODM?MAQAK@SDq@HUDo@Nc@JoA^y@X_@R_@TEBWR_@XC@[T]VA@YZGFCB[\\GHUPA@YXc@`@A@[XGDURAB[VA@KJOJa@^[VULGDABGHUVWZ"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.3634158,
+                        "lng" : -71.42261069999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "46 ft",
+                        "value" : 14
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.4564416,
+                        "lng" : -71.3923794
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMain St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "igcbGfzvrLM["
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.4563748,
+                        "lng" : -71.3925222
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.1 mi",
+                        "value" : 206
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.4568564,
+                        "lng" : -71.39477429999999
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCommonwealth Ave\u003c/b\u003e",
+                     "maneuver" : "turn-sharp-left",
+                     "polyline" : 
+                     {
+                        "points" : "wgcbGjyvrLEh@AN?HANAFGjACl@?PCz@Cd@ARAPE`@KPGPUf@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.4564416,
+                        "lng" : -71.3923794
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.1 mi",
+                        "value" : 158
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.4575397,
+                        "lng" : -71.39317919999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "kjcbGhhwrLOgACQKu@KGMKOKGEGKGKYiAEQES"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.4568564,
+                        "lng" : -71.39477429999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "377 ft",
+                        "value" : 115
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.45836569999999,
+                        "lng" : -71.39387429999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eBruce Freeman Rail Trail\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "sncbGj~vrLyAbAOHODEBGBODA?A?A@A@ABABAP?H"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.4575397,
+                        "lng" : -71.39317919999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "1.0 mi",
+                        "value" : 1671
+                     },
+                     "duration" : 
+                     {
+                        "text" : "6 mins",
+                        "value" : 345
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.4690271,
+                        "lng" : -71.40712979999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBruce Freeman Rail Trail\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "yscbGtbwrLk@b@GFUNOHSB_Ah@_@TA??@_CrAA@]RaE`CaDjBEFkBdAWN_@TGDWNGDWNGBy@d@GD_@TWNGFIBMDMJIHEF?@GNEHKFGDKFKHSPcA~@y@bAS^QVEJk@lAABo@|AKTCH_@jAa@rAu@|B?@gAnD_@nAA@Of@_AzCWx@ADWr@IXMb@]hAQl@Ux@Wr@GNWh@Sb@KPKRWb@q@dA"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.45836569999999,
+                        "lng" : -71.39387429999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.3 mi",
+                        "value" : 544
+                     },
+                     "duration" : 
+                     {
+                        "text" : "2 mins",
+                        "value" : 103
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.473298,
+                        "lng" : -71.41027439999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eBruce Freeman Rail Trl\u003c/b\u003e",
+                     "polyline" : 
+                     {
+                        "points" : "mvebGpuyrL[`@[\\[^ABYX]ZCBYTEDWRWREDA?MHUL[PC@y@`@cAf@{@`@m@Z_@PSLa@\\QRMLYP]PMFA@[NcAf@a@P"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.4690271,
+                        "lng" : -71.40712979999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "3.2 mi",
+                        "value" : 5089
+                     },
+                     "duration" : 
+                     {
+                        "text" : "18 mins",
+                        "value" : 1070
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.516174,
+                        "lng" : -71.41059899999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eBruce Freeman Rail Trl\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : 
+                     {
+                        "points" : "cqfbGdizrLWJA@wAr@IDkAj@s@\\_@PIBGBK@[L_@Hg@T_@V?@QJMHIF}@p@q@j@QNOLKLKJA?ONe@f@i@j@A@e@h@SVA?MLMNGHWXGNMTKLMFQJKHYZy@r@SNYPC@UNEBGDWNQJa@Ri@PEBC@u@Tk@VOFKBkDfAE@IBaBh@]L{@XE@A@a@Lc@Li@NwAb@G@a@NsAd@qAb@iA\\UFC@G@}AZiB\\g@FE@q@J_CV[BA?oCTc@DqDXS@M@c@De@Da@Bs@FQ@A?c@DuBNWBA?c@D_@DA?a@DA?eAHe@Di@F]BgBNA?QBQ@a@DA?k@Dg@FA?A@IBIBA?I?A@E?M@GCIAA?G?C@A?E?E?I@g@BG?u@@Q?C?_@AKAWA[CG?gAIQAQAa@CSCQAeCQGAQCQAc@Ec@EQAQCa@ESAOAa@EA?YEOEICA?EACAG?E@C@C@C@E@E?C?CACCECOSCEU[GECAC?C?C?E@C?A?C@C?CAa@MICWIEA[ISGUGWGk@Ss@Uq@WQGOGOGKCkAg@mAo@KGWOoBgAKGaC{AKGe@YCCmFyCq@_@CCSMUOkBqAAAOKi@_@SOIGs@g@o@e@UOCAaAw@OKIGSQ]WKIECk@e@ECECEAoAq@KE_@SGCOEQGq@UKEAASEKAWGQEOCKCAA{AWKCc@GUGKAc@ImAUa@Gi@K_AOc@Is@MKAeASEAc@GgASkB[c@Ia@IIAcCc@kAU[GKDKDEBGHIRGXGRAFCFEHCBE?GA[MGAKCE?K@I?GBMF"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.473298,
+                        "lng" : -71.41027439999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.1 mi",
+                        "value" : 212
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.5179415,
+                        "lng" : -71.4105799
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "a}nbGfkzrLUOYMSCa@?Y?[AEAYEc@GGAm@KSAMBIBGJQXEP"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.516174,
+                        "lng" : -71.41059899999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.2 mi",
+                        "value" : 313
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 57
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.5187172,
+                        "lng" : -71.4084778
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : 
+                     {
+                        "points" : "chobGbkzrLKHSPORGDE@EBE@C?E?E?KCYIQGMIGIEGCM?I?OBUFW@K?OAEAKEQKSIKIKCGCGAG?I?IBMDMDIBGBELMFE@ABABGDODQ@K?MCOEa@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.5179415,
+                        "lng" : -71.4105799
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.7 mi",
+                        "value" : 1110
+                     },
+                     "duration" : 
+                     {
+                        "text" : "3 mins",
+                        "value" : 185
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.5276194,
+                        "lng" : -71.40240009999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eBruce Freeman Rail Trl\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "_mobG~}yrL}D_Cy@e@_@SaDgBAA}A{@AAk@[uDqB_CkA]Qc@WaAi@wAw@g@[aDiBQKMI_BgAWQcAw@]Yq@i@i@c@y@q@SKCAEACACAAAEEQS"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.5187172,
+                        "lng" : -71.4084778
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.3 mi",
+                        "value" : 561
+                     },
+                     "duration" : 
+                     {
+                        "text" : "3 mins",
+                        "value" : 183
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.5320717,
+                        "lng" : -71.3992417
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBruce Freeman Rail Trail\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : 
+                     {
+                        "points" : "sdqbG~wxrLOUECGEKEQOAA_@[YYUWKKIIOKECuAgAuAgAa@UCACCWO_@SCCCAyBqACAAAIEu@]GCu@_@CAa@SKEc@SQGSIMEa@O"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.5276194,
+                        "lng" : -71.40240009999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "5.7 mi",
+                        "value" : 9247
+                     },
+                     "duration" : 
+                     {
+                        "text" : "31 mins",
+                        "value" : 1837
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.6005779,
+                        "lng" : -71.3479897
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eBruce Freeman Rail Trail\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eBruce Freeman Rail Trl\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Bruce Freeman Rail Trail\u003c/div\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : 
+                     {
+                        "points" : "m`rbGfdxrL[KkA_@{@YEA_AYeBk@CAaA[eBi@gBk@eBk@a@O}Ag@cAW?Ay@Sk@Sc@MCA[OA?_@QQIOEA?a@Kq@QSEa@Gc@IKCWCa@EA?cAKe@Ec@CAAa@Cc@CUCe@E_@CgAMMCkC[c@GA?QAQACAq@EOAa@CAASAMCOESGKAK?KBKDK@QAQGMEeAMc@Ec@EA?a@EeAKA?m@G{@IAAgBQA?a@Ec@GA?a@EC?gBQc@Ea@EgAKA?cAKgAMA?c@Ga@ECA]Ka@Oa@OA?_@MA?YKw@W_@MUMyAw@A?_@U_@S[QEA_Ak@]Ua@S?ACA}@]A?eBm@cA_@_A]C?a@MA?_@KA?a@Ma@KAAcAYa@KeAYi@O[Ga@IA?a@Ia@IA?a@Ic@I?Ac@Ia@G?AcAQc@OA?_@Kc@Ma@McAYeA_@c@OgCo@A?_@KA?_@KSEOG_@O}@_@EC_@UAA_BcASQEEy@w@A?w@w@QM{@wAA?U_@AA?AWa@AAU]?AAAU_@AA?AAAgB{BAA?ASWkAsB]g@yB}CA??AY_@mAeBAAW_@kAeBs@cAACsAqAAAwAuAiAeAc@]{AmAYWCACA]QA?}@e@A?gBw@SEsAOc@EOCSCa@Gc@Gc@Ga@GgAOc@GGAYEmAMeBSO?{BSc@EiAKa@Ga@Gc@GmCa@YEk@GaI_AmBU{Gm@gBWc@Im@I{@Qa@KoBc@ICyAm@a@Q_Aa@a@Y}B{AA?]WECwByA_Ao@w@k@iDgB_@Sg@Y{@a@_@SaAe@a@SA?aDaBa@Q_CoAg@SsAeACAA??AKGKMCCs@y@CCMOIKACAAWa@U]AEYa@?AOUo@uAUe@CC?AQ_@CEQa@CC?AeBsDoBiEAEQa@CEi@mASa@AC?AAAeB{DCC?AUe@a@}@CKAEA?_@mAw@eCOc@AEMe@CEEOqAqFAE?AcAeEQ}@AE?A_BsHAEEUS}@?EAAe@eCMm@GYCKAE?AKe@AEA?gAwEAEOq@cAsEAEc@mBIU?AOc@AC?AQg@AAu@{B?AOa@AEA?Mc@Oc@EKcBiEoAcDCGw@iBa@g@sAcBKSo@q@m@q@OMOMAAGGWQA?QIGCCCCAY[AAY]QSYc@aAyAGKmByCAAGMCMCMGQKOMYMMWWMIGGAA?A?A?A@E@E"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.5320717,
+                        "lng" : -71.3992417
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "69 ft",
+                        "value" : 21
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.6006704,
+                        "lng" : -71.3478047
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eBruce Freeman Rail Trail\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : 
+                     {
+                        "points" : "sl_cG|cnrLBMAACC?AACA??AKI"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.6005779,
+                        "lng" : -71.3479897
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.8 mi",
+                        "value" : 1311
+                     },
+                     "duration" : 
+                     {
+                        "text" : "4 mins",
+                        "value" : 248
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.6082522,
+                        "lng" : -71.33567859999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eBruce Freeman Rail Trail\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : 
+                     {
+                        "points" : "em_cGvbnrLKMAAAACACAqAeACAAC?AI[CIO_@?CO]KWMWSYs@iAs@gAWc@iAgBuCqEYe@Ya@q@gAWa@Yc@Wa@cBkCe@{@}@{AWc@Wc@Wc@Wc@Wc@OUGOUe@O_@CGSg@Sg@Ui@?ASe@Sg@Ug@Sg@ACQc@Si@Qg@Si@Sg@mAcD_@gAm@{A"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.6006704,
+                        "lng" : -71.3478047
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.5 mi",
+                        "value" : 857
+                     },
+                     "duration" : 
+                     {
+                        "text" : "2 mins",
+                        "value" : 144
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.612587,
+                        "lng" : -71.3270244
+                     },
+                     "html_instructions" : "Continue straight to stay on \u003cb\u003eBruce Freeman Rail Trail\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : 
+                     {
+                        "points" : "q|`cG~vkrL{@yBSg@oAcD_B_EMYo@_BoAoDgAeCkBuEO[Sg@A?Sg@Ug@CEO_@AASe@i@mAKUGO?AACOa@CEGSGMCG?AGQEIAEAAIUACAEA?Um@ACAEAEAE"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.6082522,
+                        "lng" : -71.33567859999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "213 ft",
+                        "value" : 65
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 42.6128866,
+                        "lng" : -71.3263596
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : 
+                     {
+                        "points" : "uwacGz`jrLOSi@yAAU"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 42.612587,
+                        "lng" : -71.3270244
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : 
+         {
+            "points" : "kbqaGhv|rLuEcBgEw@yKyA{M{AeNgBqM_B{Ck@sA_@eBo@yGmDsJgFcNiHqC_Ae@Ea@[mCgAqIeD}MkFeTgIoI_DuLyEeBm@kCi@iBUsDQoCMaBO}AYsAK{FMmCMyDWkDIcEKiCOcC_@kDgA{JsCeBg@[IwBgAcBy@kFwBqIuDmIsDwDcBoBiA}CsBg@c@{GkF}HoGiD{C_IyFyF_E_JaG{FgBiB_@i@AaDGyCAeKd@eA@eAE_HLmBEgCYeAUsDo@wF{@oEy@aIiAsGiAsCe@{Dy@u@YgA[eAM[Y_CkAkAc@kBu@_DkAkEiByF}A_AOuCSkBGgBOkBN]?eANiB`@iCx@_Ah@aAr@uAjAo@r@qCdCoCzBg@j@WZM[Gx@KlBK`DCd@Qr@]x@SyAKu@KG]WOQa@uAKe@yAbAm@V[PAP?Hk@b@GFe@XsAl@_@TcCvAkPtJiCzAiAp@k@b@Yb@s@h@}BbCe@v@cBzDoF~P{CvJ}AdF_AnBuA|BuAbBqCbC_GvCmAl@u@j@_@`@w@b@oB`AsCrAiD`By@VgA^_@XgBnAkBbB_DfD{@`AUd@YTqBdBgAr@mCpA{KpDeR`GuFbAoEf@sNhA{NlA{Fd@kAPi@AsAFsDGaIk@eE_@oBYi@FQIq@{@_@@aCq@qFiBqDcBuG{DcKaGiHeFsDqC}@q@aCmAiCw@sE{@kU_E{FeAg@AQHa@jAO\\q@Qg@AUJo@]kBEkAQaAMWFk@`Aq@l@UDk@M_@QMQCg@LiAUw@[g@@i@Re@ZWPu@C]Ea@}D_CyAy@aDgBmC{AyPeJaHgEkDmC{BcBOGm@s@g@]{AyAuBaB{DkCaG_DkDwAuKkDqPgFcDoA_E{@wEe@wFg@{Gq@uB[o@JwB]qD]}Gs@sNwAgC{@sBq@qBeA_E_CcBu@gBm@kDkAkDaAoEgAmCg@mDw@qFaBcG}AsB{@aC{AuAoAiAeA}@wAo@eAYc@wC}DiB{C{B}CiBiCwCiEwAwAaHgG_Am@iD}AkC[wFw@yFq@yFe@uFy@uNcBcKeAqASwEeA{DaB}J{GaGgDcCoAiL}FaC{A[[kBaCgCyEgImQaCkF_BcEiAoDiBmHyAsGkE}ScDoN}@iDUo@mByFwDuJw@iBa@g@_BwB}B_Cc@[a@SgAoAqEcHQk@o@iAm@i@Da@IKuBgBs@oBaBsCkHeLyH_MmEuH{BoF{Pqc@uEoLqCyGsA}CyBqFk@}AQYk@oB"
+         },
+         "summary" : "Bruce Freeman Rail Trail",
+         "warnings" : 
+         [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
