@@ -1,0 +1,239 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "EilFIEJheSBCaWtlIFBhdGgsIEVhc3QgUHJvdmlkZW5jZSwgUkksIFVTQSIuKiwKFAoSCV8lTngAUeSJEejy5tnyihr1EhQKEgk1hPxLmFrkiRGAMOSCPAkeBw",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "partial_match": true,
+      "place_id": "ChIJoV37k3BU5IkRSQHaxEy5jbM",
+      "types": [
+        "establishment",
+        "park",
+        "point_of_interest",
+        "tourist_attraction"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 41.7760722,
+          "lng": -71.278891
+        },
+        "southwest": {
+          "lat": 41.6733325,
+          "lng": -71.3644745
+        }
+      },
+      "copyrights": "Powered by Google, \u00a92025 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "10.4 mi",
+            "value": 16675
+          },
+          "duration": {
+            "text": "56 mins",
+            "value": 3362
+          },
+          "end_address": "Independence Park, 419-459 Thames St, Bristol, RI 02809, USA",
+          "end_location": {
+            "lat": 41.6733325,
+            "lng": -71.278891
+          },
+          "start_address": "E Bay Bike Path, East Providence, RI, USA",
+          "start_location": {
+            "lat": 41.7760722,
+            "lng": -71.3644745
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "3.2 mi",
+                "value": 5103
+              },
+              "duration": {
+                "text": "17 mins",
+                "value": 1032
+              },
+              "end_location": {
+                "lat": 41.7384833,
+                "lng": -71.3315684
+              },
+              "html_instructions": "Head <b>south</b> on <b>E Bay Bike Path</b> toward <b>Washington Ave</b>",
+              "polyline": {
+                "points": "mk~}F|jqrLTKbAc@`Aa@@A^O`@Q`@Q^Q@?^Q@A^OLGPG@?`@O^O@?`@OxAk@HC@Ad@U^UVQ\\YHIFGHCVGZKpEkC^YxB_B@AFEVQ\\U?A^U|@o@|CwBXSBA^W^WzAeA?A^W^W|AgA\\UFETO`@W^U^S^W~@i@~@k@NMLI|A_A~@m@|ByAvAaA^W\\W^W^W\\W^W^WDCVQ^W^U~@m@^U|ByA~CqBnBoAHIHCHANCRGFEFEJOFM^]NKlA{@p@_@LGdC}AJGbAs@JKHQLQLIXSp@Yn@[HGBCjA{@JI@?`@YvA_ABC^WzAeA\\W@?xAcAPINQNIJAJCLEfAs@^Ub@[xLcIZU@A\\U@?|B}A~@k@^U|ByAdBkA|AcAXSr@e@BAHGROBA`@QLQJOFEPGJCFEDCDKDIBGTSXMBAb@a@RSNOJKj@k@f@m@BAXY`@e@ZWZOJKDC@G@G?IBM@I@EDGFEBCLIPIFCHGDE`@e@@AV[`@e@r@{@bB{Bp@_AdA}Ab@q@JQz@{ANWFKf@}@DIf@cAXm@@A\\u@JSVm@Pa@BIN[?A?ATi@Pc@L_@BG?A?Ap@kBTw@Pi@Pi@?At@mCT}@^{AXmABK?I@I?Y?E@G@C@E@CDCHE"
+              },
+              "start_location": {
+                "lat": 41.7760722,
+                "lng": -71.3644745
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.4 mi",
+                "value": 2273
+              },
+              "duration": {
+                "text": "7 mins",
+                "value": 418
+              },
+              "end_location": {
+                "lat": 41.7376221,
+                "lng": -71.30445279999999
+              },
+              "html_instructions": "Slight <b>left</b> to stay on <b>E Bay Bike Path</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "o`w}Fh}jrLDIBC?C@E@G?E@M?O?E?G@IFWFQ?A?ADMBQF]D[DQDKBIDKDKBG?_@@QAG?G@GDOFI@OHm@@KFo@JkAJ}@J_B?AFm@B_@D_ABq@L{D?A@g@FgC@_A?mA?Q?o@@uA?yC?A?]AcG?m@?AAaKAm@?A?}D?AAo@AoF?A?_EAm@?AAqF?}B?Q?yAAE?IAMCSAK?I@IDODQ@[Ay@AqA?o@A_B?o@?q@EoICqIEaHCsC?MAM?EAECI"
+              },
+              "start_location": {
+                "lat": 41.7384833,
+                "lng": -71.3315684
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "2.0 mi",
+                "value": 3159
+              },
+              "duration": {
+                "text": "12 mins",
+                "value": 735
+              },
+              "end_location": {
+                "lat": 41.7242864,
+                "lng": -71.2814131
+              },
+              "html_instructions": "Slight <b>right</b> to stay on <b>E Bay Bike Path</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "c{v}FxserLCI?G?E@G@EBEFOBKBG?C?C?G?GAGAIAI?CAM?Y?sC?C?Y?Q?CAmC?AAo@?o@?q@AkC?CCoC?o@A}A?A?aBAqA?M?EA_B?o@Ao@AoC?C?c@?I?o@@o@?e@?I?_@BcB@]CSAGCUCMAEAG?I@GBIBIBI@C?G?G?IAMCOAK?K?G?g@?o@?SAqD?{AAo@?O?[?K?G@E@EBIDK?E@EAKAIAGEMCE?E?E?E@C@M?MAGAKA?EYCM?E?AAGAK?M?KAo@?A?Q?[?o@?q@?Q@U?E@O@O@OB_@@OBUBYBOLaANs@BKJ_@HWFQVy@^y@Vk@^q@LWfA}Bj@gAj@gA@EXa@Vc@Va@V_@XSDGhAoA^c@NQPa@RSRSBAXW`@ULKdAu@ZOj@U^O^S|@SHCRGLAPCFC^Of@EDCN?HAN?RCb@G~BYbAKb@G\\EBADEDAFAt@EHAp@IJAb@E\\Ch@CdA?z@Ab@@r@Bt@DbAHt@JTDJBhBd@f@L^DJ@LFd@RpBl@\\JVFRAf@??H"
+              },
+              "start_location": {
+                "lat": 41.7376221,
+                "lng": -71.30445279999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.6 mi",
+                "value": 926
+              },
+              "duration": {
+                "text": "4 mins",
+                "value": 212
+              },
+              "end_location": {
+                "lat": 41.71643,
+                "lng": -71.2845975
+              },
+              "html_instructions": "Slight <b>right</b> to stay on <b>E Bay Bike Path</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "ygt}FxcarLAV@FD@JBZFH@XH`@JTFj@JjCv@^L@?b@L^L@?`@L^L@?dAZ^J@@VHDBHBTJJBD@RH^?LBB@LDDDDF@B@@B@D@J?LNNDv@TNB`@H@?`@Hb@JTDJBbAV@?b@J`@JlAd@dAZvA^b@L`@LrA`@"
+              },
+              "start_location": {
+                "lat": 41.7242864,
+                "lng": -71.2814131
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "3.1 mi",
+                "value": 4991
+              },
+              "duration": {
+                "text": "15 mins",
+                "value": 900
+              },
+              "end_location": {
+                "lat": 41.6752452,
+                "lng": -71.27910179999999
+              },
+              "html_instructions": "Slight <b>left</b> to stay on <b>E Bay Bike Path</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "uvr}FvwarLvBf@`@JdAXZHD@`@LzAf@JDbAXvHrBb@J`@LvHrB`@LlD~@|Bn@PDnD~@r@Rn@RzBn@pDbA\\HlBh@DBhElA`@LlEpAb@JjDbA`@LfBh@t@RP?N?LBHNHJHDNEJCJ?HDRPJBnA\\nDn@VB@?dA?JBDBDBLLJBP@b@DdAL\\BD@b@FP@N@@?b@BD@\\@\\BD?b@Bz@@V?nB?z@Ab@Af@ArAOPCfAM^C@A@?b@Gb@I^K\\K@AB?bAYt@Sp@W~@_@@A@?BCpAi@l@[^S^SBATIHCBAFCHIDI@CBIBCPCVULKJKNIFGJGRQr@k@FGXY@A\\]RUFEv@{@X[@CJMNOX_@LMNOh@m@f@k@`AkAHGNGDEDGBODOBGHI^GLIHGBIBI?Q@ODIHKNIPG@AHG~BkCZ_@Z]dDuDnByBv@}@Z]Z]X_@v@y@z@eAb@e@nBkBb@_@t@m@lBqAh@U^S\\OfAa@t@WHAF?HAFCHGFGFCP@HADABCBCFEFGDADAJ?H?RAVE|@M~@KLAf@EbAKx@InBSj@EJAz@Ep@AR?^@B?L@R@^DH@F@RFPB"
+              },
+              "start_location": {
+                "lat": 41.71643,
+                "lng": -71.2845975
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "36 ft",
+                "value": 11
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 2
+              },
+              "end_location": {
+                "lat": 41.6752254,
+                "lng": -71.2789696
+              },
+              "html_instructions": "Turn <b>left</b> toward <b>Thames St</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "iuj}Fju`rLBY"
+              },
+              "start_location": {
+                "lat": 41.6752452,
+                "lng": -71.27910179999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 mi",
+                "value": 212
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 63
+              },
+              "end_location": {
+                "lat": 41.6733325,
+                "lng": -71.278891
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Thames St</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "euj}Fpt`rLN@`BLPB\\?B?RA`AG~ASFAVC"
+              },
+              "start_location": {
+                "lat": 41.6752254,
+                "lng": -71.2789696
+              },
+              "travel_mode": "BICYCLING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "mk~}F|jqrL`HyCfCcA|CkApAq@t@k@PQ`@KZKpEkCxCyBHGtA_AtKsH|CyB|AcAzIoF|DgCvByAzB_B|FwDvKeHv@QNKR]n@i@~B{ArCeBnA{@T]Z[jAm@x@c@|AiAvGsEzAcAPINQNIJAXIdQiL|@m@~OiKzAcAVQ`@QLQRU\\KLIJUX[\\OrAqApBuB|@}@f@[FK@QLe@j@]PKf@k@nB_CtC{DhBoCvAeC|AwCdAyB|@uBx@}BjBwFt@oCrAsF@s@FUXWBW@k@b@uBTcAJWBg@@i@LYJ}@`@eEVoDVoHHoD@mC@wCA}LEqUEcZCwBE_@@SJa@?uACqGOu^EuDIa@FYNg@A[CWA_ECqIIcREkK@oCDkDM_AA_@La@Ag@Eo@?kBCmI@u@Ja@Cc@IS?KBe@QkACiB?oCD{@R_C\\uBNk@Pi@v@sBlCsFvAoCZg@fAeB^[hBsBNQPa@f@g@lA{@dAu@ZOjAe@^S|@S\\K^Ef@Sl@IXAfEe@hC[JG|@GjBSfAG`CAvADxBNjAPtBh@fARXHd@RpBl@t@Rz@AA`@FHf@JzA^j@JjCv@`@LfBh@pDhAz@Zl@BPFNRHBJ?LNfAZp@L|AZtBf@nBp@|Cz@dAZjEhAhCp@lEtAtT`G~IbCnKvC`XtHjJnC`@?LBHNRPZITDRPJBnA\\nDn@XBpABJFXPt@FlCZnCN~ADfC?~ACf@ArAOxAQ`@EhB]b@MxBm@pBw@xAo@pBeAj@STa@TGd@a@n@e@hB_Bz@{@fDwD|CmDTMHWHWHI^GVQFS@a@NU`@QJI|I_K~EsFpDeErCkCt@m@lBqAhAi@dBq@~@YPA`@WZ?HEXSn@CbDa@tGo@v@GlBGdABdAJd@JBYN@rBP`@?tAIfBUVC"
+      },
+      "summary": "E Bay Bike Path",
+      "warnings": [
+        "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+      ],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}

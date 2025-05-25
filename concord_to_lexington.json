@@ -1,0 +1,378 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJ9SKkJkCa44kRkKR4K5p3zlg",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJy1hS39qd44kRzRM2FsiFNoU",
+      "types": [
+        "locality",
+        "political"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 42.4860973,
+          "lng": -71.2271531
+        },
+        "southwest": {
+          "lat": 42.4473537,
+          "lng": -71.3492806
+        }
+      },
+      "copyrights": "Powered by Google, \u00a92025 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "8.2 mi",
+            "value": 13194
+          },
+          "duration": {
+            "text": "43 mins",
+            "value": 2605
+          },
+          "end_address": "Lexington, MA, USA",
+          "end_location": {
+            "lat": 42.4473537,
+            "lng": -71.2271531
+          },
+          "start_address": "Concord, MA 01742, USA",
+          "start_location": {
+            "lat": 42.46039340000001,
+            "lng": -71.3489196
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "194 ft",
+                "value": 59
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 12
+              },
+              "end_location": {
+                "lat": 42.4606159,
+                "lng": -71.3487425
+              },
+              "html_instructions": "Head <b>southeast</b> toward <b>Main St</b>",
+              "polyline": {
+                "points": "m`dbGvinrL?ABEBG@G@G?G?CACACACCCCACAC?A?C@CBKHKJA?"
+              },
+              "start_location": {
+                "lat": 42.46039340000001,
+                "lng": -71.3489196
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "292 ft",
+                "value": 89
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 15
+              },
+              "end_location": {
+                "lat": 42.4613131,
+                "lng": -71.3492806
+              },
+              "html_instructions": "Exit the traffic circle onto <b>Monument Square</b>",
+              "polyline": {
+                "points": "{adbGrhnrL[T{AdAQN"
+              },
+              "start_location": {
+                "lat": 42.4606159,
+                "lng": -71.3487425
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.4 mi",
+                "value": 569
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 112
+              },
+              "end_location": {
+                "lat": 42.46615329999999,
+                "lng": -71.3479112
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Monument St</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "efdbG~knrLIAMCICOMKMy@_AUUWUKGIGUOCCIEYQq@a@?ACACAg@GUAoBOy@IA?MAQCc@C]AqA@O?G?k@?O@g@@sAFe@D"
+              },
+              "start_location": {
+                "lat": 42.4613131,
+                "lng": -71.3492806
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.9 mi",
+                "value": 3124
+              },
+              "duration": {
+                "text": "10 mins",
+                "value": 572
+              },
+              "end_location": {
+                "lat": 42.479814,
+                "lng": -71.314765
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Reformatory Branch Trail</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "mdebGlcnrLQi@a@wAOi@Og@?Cc@qA?As@{BACs@{BQi@?AQg@Qm@Og@Qi@AAOg@u@_CQi@?Aa@qAA??COe@gAmDQe@?AQi@s@}BQi@?AAAa@qAQi@?Cs@{BA??Aa@qAWy@]eASk@a@oA?AAA{@qCk@kBOi@AAIYs@cCGQw@oBi@}AK[ISSm@}ByGWs@uAeEAGSm@Si@qBgGKYk@cBu@{BI[So@Oe@M_@GUAA?AGOUu@Sm@Og@Yw@Mc@AA?A[{@Ss@Uq@AAQi@?C?AEII[EIK_@CGOa@?A?ACEW{@Uq@Uq@Oe@c@gA{@sCu@}BgAiDQi@s@_Cm@kBGQAEY{@_@iAI]]kA?AKa@Mk@g@wBEYI{@Eo@AWAEIsAAEKm@AIEIOIEEEEACAE?G?G"
+              },
+              "start_location": {
+                "lat": 42.46615329999999,
+                "lng": -71.3479112
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 mi",
+                "value": 247
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 120
+              },
+              "end_location": {
+                "lat": 42.4796125,
+                "lng": -71.311804
+              },
+              "html_instructions": "Turn <b>right</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "yygbGftgrLFKF]F]DO@]BsA@o@@S?[?q@@o@?o@?CAoC"
+              },
+              "start_location": {
+                "lat": 42.479814,
+                "lng": -71.314765
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.5 mi",
+                "value": 2425
+              },
+              "duration": {
+                "text": "7 mins",
+                "value": 399
+              },
+              "end_location": {
+                "lat": 42.4855357,
+                "lng": -71.284003
+              },
+              "html_instructions": "Continue onto <b>Reformatory Branch Trail</b>",
+              "polyline": {
+                "points": "qxgbGvagrL?WGmBAAAo@AQE]Gm@]kC?AAOQmAKm@Ii@m@yDO}@Ga@Y_BGa@Ku@a@oCAICMk@qD_@yBKm@Km@EWi@_DIi@WqAKm@AA?AKi@ScAUyAEY?CKk@?CSgAM_AGs@Ki@YqBQcAKo@o@uDw@aFKm@Km@YeBg@oDUyAKq@Im@EUEWMm@e@gCGUCMCYMkAMaAIm@Io@ACCk@CSGkAMyBAM?GCo@Ci@Es@?CEg@KgBCUEgBCk@?Q?GEm@I_BCg@IyBC_@AUKgCCc@Cs@?UCEACE@CBCFSVEDCA"
+              },
+              "start_location": {
+                "lat": 42.4796125,
+                "lng": -71.311804
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "72 ft",
+                "value": 22
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 3
+              },
+              "end_location": {
+                "lat": 42.4856229,
+                "lng": -71.283778
+              },
+              "html_instructions": "Turn <b>right</b> to stay on <b>Reformatory Branch Trail</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "s}hbG~sarLA?CCEOCW"
+              },
+              "start_location": {
+                "lat": 42.4855357,
+                "lng": -71.284003
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.3 mi",
+                "value": 508
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 86
+              },
+              "end_location": {
+                "lat": 42.4860973,
+                "lng": -71.277637
+              },
+              "html_instructions": "Slight <b>right</b> onto <b>Railroad Ave</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "c~hbGrrarLDQ?G@C?E?S?IEeAMmC?QCa@?E?GAMCw@M{BCYCm@GwBGqBCu@MoCIuBCm@CU"
+              },
+              "start_location": {
+                "lat": 42.4856229,
+                "lng": -71.283778
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "46 ft",
+                "value": 14
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 28
+              },
+              "end_location": {
+                "lat": 42.4859784,
+                "lng": -71.2775693
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>South Rd</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "caibGfl`rLVM"
+              },
+              "start_location": {
+                "lat": 42.4860973,
+                "lng": -71.277637
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "2.6 mi",
+                "value": 4246
+              },
+              "duration": {
+                "text": "14 mins",
+                "value": 854
+              },
+              "end_location": {
+                "lat": 42.4614148,
+                "lng": -71.2393234
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Minuteman Commuter Bikeway</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "k`ibGxk`rLAWBGFADADEDG@K?AAe@?]?k@F_B@SH{ALeA@GR}@Rs@FS?C`@gAL_@NYJSXg@~@kA~@mAHIxAeB`EyEZ_@RUBCxBaCxB_C`@e@LO`EyEb@g@hAsA\\_@pA}AZ]Z_@Z]lB{BrA}AjCyCX_@rA{ApA{Av@_AV[^a@Z_@Z]Z]Z]VYBEZ]Z_@v@}@Z]t@}@vAaBXc@pA}At@}@d@k@v@gBFKLYTg@pAuC|@aC\\}@Vw@BEPg@v@uB@Eb@mA@ENa@BENc@@EL]Vs@b@kATo@Pa@Pi@BE?ANa@Ro@Ri@`@kA@EJWFQPi@Lc@To@Pi@b@uAPi@Pi@Pi@Pi@Pi@La@BGHQHW@CPc@?APe@\\u@f@oAZs@`AcCv@}A`@y@JOVc@Vc@n@eAZa@Z_@NQnA_BDEX_@Z_@X_@Z_@Xa@HIPSX_@Z_@pA}ABCT_@n@gAx@uAVc@BGf@cATe@Te@BELe@Nk@rAeFPqA"
+              },
+              "start_location": {
+                "lat": 42.4859784,
+                "lng": -71.2775693
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.9 mi",
+                "value": 1447
+              },
+              "duration": {
+                "text": "5 mins",
+                "value": 320
+              },
+              "end_location": {
+                "lat": 42.4502017,
+                "lng": -71.23051149999999
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Bedford St</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "yfdbGv|xqLLIx@e@p@_@FCh@UXMXMlBw@TKn@WDC^OHEZQ\\SROPOf@e@z@u@VWrBiBLK|BuBz@w@xCyCpAuA^_@VWJKHIDGDCJK`@]`@YLILKRM|@o@JIZSv@k@fAu@POnA}@XSh@a@NKFEp@e@bEwCHEd@[FGLG^UHCTE"
+              },
+              "start_location": {
+                "lat": 42.4614148,
+                "lng": -71.2393234
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 mi",
+                "value": 168
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 41
+              },
+              "end_location": {
+                "lat": 42.4488396,
+                "lng": -71.2298378
+              },
+              "html_instructions": "At the traffic circle, continue straight to stay on <b>Bedford St</b>",
+              "maneuver": "roundabout-right",
+              "polyline": {
+                "points": "w`bbGtewqLBBB@B?B@@A@?B?@CBABC@C@E?C?CTCb@INKRIl@OTGNGHCFCJGLKDEDI"
+              },
+              "start_location": {
+                "lat": 42.4502017,
+                "lng": -71.23051149999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 mi",
+                "value": 276
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 43
+              },
+              "end_location": {
+                "lat": 42.4473537,
+                "lng": -71.2271531
+              },
+              "html_instructions": "Continue onto <b>Massachusetts Ave</b>",
+              "polyline": {
+                "points": "gxabGnawqLRYT]@AZu@\\s@N]L]Zs@`@_Av@iBDMh@mA"
+              },
+              "start_location": {
+                "lat": 42.4488396,
+                "lng": -71.2298378
+              },
+              "travel_mode": "BICYCLING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "m`dbGvinrLHW@OAGKMM?]XwBzAQNIAWG[[oAuAc@]m@a@oAw@k@IaE[aBKuC@w@ByBLsAsEmCsIyAuE}HyVyFoQaE{MwB}F_GaQsG}RyAuEiBqFmA}DaAyCk@cBs@mBkEeNkBcGaBoFaAgEOuAGgAKyAMs@GSUOGIAMFSN{@Fm@DcCBqCA{EMqDk@yEi@uD_ByJw@qFaDwRe@cC{@aF_@{BUsBe@{CeCkOyAqJq@oEaAcFc@uDYmCi@}JUiDImDs@qOCiAEIIDW^IBECIg@DY@g@WgG[wGa@oLMcDCUVMAWBGLCJM@MAcAFkCJoBNmAn@iCn@gBZm@Xg@~@kAhAwAjIuJxGkH|HeJpOmQfJsK~EuFlC_DXc@pA}AzAiB~@sBtBwErBwFtB}FdC_H~AoElByF|CsJXu@`AaCdCgGxAwCb@s@fAiBv@aA~BwC|D_FtAaBdAgBtAaCvAuC\\qArAeFPqAfAo@x@c@jEiBjBw@vA{@hMgLdIiI|AmAjBsApIeGfGiEzAaA^IBBJBHEJO?Gx@Mb@UbAWl@WRQXc@V_@x@iBzAoDfBeE"
+      },
+      "summary": "Reformatory Branch Trail and Minuteman Commuter Bikeway",
+      "warnings": [
+        "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+      ],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}

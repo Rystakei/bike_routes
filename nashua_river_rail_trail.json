@@ -1,0 +1,144 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "partial_match": true,
+      "place_id": "ChIJC6rP6Em444kR9uim1bbSrT4",
+      "types": [
+        "establishment",
+        "park",
+        "point_of_interest"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "partial_match": true,
+      "place_id": "ChIJq5NFbTLr44kRxHntG2Qn2fo",
+      "types": [
+        "establishment",
+        "park",
+        "point_of_interest"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 42.71576950000001,
+          "lng": -71.53190599999999
+        },
+        "southwest": {
+          "lat": 42.5599216,
+          "lng": -71.5897885
+        }
+      },
+      "copyrights": "Powered by Google, \u00a92025 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "12.3 mi",
+            "value": 19773
+          },
+          "duration": {
+            "text": "1 hour 2 mins",
+            "value": 3713
+          },
+          "end_address": "Nashua River Rail Trail Head, 70 MA-111, Ayer, MA 01432, USA",
+          "end_location": {
+            "lat": 42.5599265,
+            "lng": -71.5896327
+          },
+          "start_address": "Nashua River Rail Trail Head, Head,, Nashua River Rail Trail, Nashua, NH 03062, USA",
+          "start_location": {
+            "lat": 42.71576950000001,
+            "lng": -71.53190599999999
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0.6 mi",
+                "value": 904
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 158
+              },
+              "end_location": {
+                "lat": 42.7093248,
+                "lng": -71.5382918
+              },
+              "html_instructions": "Head <b>southwest</b>",
+              "polyline": {
+                "points": "q|ucGlarsLFHJL`B|AhAbAPNrClCJJ`B~AfC`CPPjCfCl@l@dD|Cf@d@VTRRd@t@t@fA^h@HJBJ@DDT?BDL@DFLFHFDH@LEPGJE"
+              },
+              "start_location": {
+                "lat": 42.71576950000001,
+                "lng": -71.53190599999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "11.7 mi",
+                "value": 18867
+              },
+              "duration": {
+                "text": "59 mins",
+                "value": 3529
+              },
+              "end_location": {
+                "lat": 42.5599216,
+                "lng": -71.5896133
+              },
+              "html_instructions": "Continue onto <b>Nashua River Rail Trail</b><div style=\"font-size:0.9em\">Entering Massachusetts</div>",
+              "polyline": {
+                "points": "gttcGhissLBADADCD?D@DDFDx@bAPPz@`APTBF@H?J@FHJZL\\JVL\\LJALAd@KlAB|@FJ@V@?@b@BF@XB@?dALb@Db@DlCXRBNB`@DhALpD`@XBfCLtBVb@DpDd@^D@?fALlCZbALx@Pp@P@?^NFBh@R\\Nb@RnA|@^T^V\\V^V|CtB^V\\V~@l@rAv@JF`@RbDdB^TrB~@~Aj@FB`BXLB|Dj@F@b@FdALb@FfALdANlC\\b@Fb@Dt@JzBXb@FhBTb@F`@Fb@DfAN`@FL@TDhBXB?^Fb@HTDpA\\PFNDb@J^L@?`@PVJd@TB@^V^TLHPL\\V~@n@x@v@\\Z\\Zh@f@NN\\ZtBnBr@r@`Az@lEbEd@`@`EzD@Bz@x@rBnB\\\\x@v@p@n@`AbAZ\\p@p@r@|@n@bAHNf@z@r@xA@Bt@jBDHTd@Rf@Tf@Td@Rf@Tf@h@nADJNXRf@Rf@h@nA|@vBTf@|@vB|@vBPh@JXTf@rA|Cf@fAbBhE@?jA`Df@tAPh@Pb@bA~CDLPh@BHL`@bAjD`@rA?@Nh@r@fCPh@@F`@vAL`@BFJ`@BHPh@Lf@b@xAL`@@H^lANh@Rr@Pj@tAnEjBpD@B@@r@p@zArA@@vAlA@@RPFF@@x@p@\\XB@ZV@@d@`@RNB@j@`@NHl@\\RH@@z@^B@B@\\Lh@PfBd@ZDb@D@?dALJ@x@FfAFB?|@FrCVB?bAJB?^B`@DhA?@?X?j@?@?dAAF?bBIZAh@IfAO@?`@G@?NCNE@A^Kb@M`@K@AFAx@WBA^K`@M@?^KfBg@B?`AYB?`AUB?JCt@Kb@GBAHAx@EB?`@ChB@H@`B@@?`@F`@Dp@Jv@Lb@HB?^HdAPB?^Hb@F@?bANb@F@?`@F`@FB?^Fb@F@?`@Dj@Jv@HD@@?l@FV?@?X?j@E@?ZAf@E|@IJC`@EfBW@A`@KBAfD{@@?d@K^Ib@K`@KhBa@`@IjCm@B?dBa@fAW^IhBa@`@IBA^I~@SDA@AbAUlA[XEB?`AOb@GB?x@IbBKP?@?`@?n@@z@Db@B@?`@@P@PB`@Db@FB?fBR`@DB?F@VDhB\\hBZ@?@?^H`@JB?^H`@Jb@HFBXFB?^H`@Hd@Jf@Hb@HdAPb@H^F@@b@Bb@BR@N@b@@b@@T?p@?@?~A@pAAb@?b@?J?V@b@BfAFD?ZB@@`@BVBJB@?`@Fr@LPD@@^Jb@L\\Hd@R`@P`@Rh@V^R`@RFDTP^V^V|@n@B@x@l@^VZT@B\\ZZ\\XZrAbBX^BBT\\Vb@X`@Xb@PVDHhAjBVb@RZ\\j@Vb@Vb@T^@@r@dAT\\vA~ATXDBZ\\\\ZNNLH^R^TDBXR^TDB\\FdAN\\DD?VBb@DXBH?b@Ab@?H?XC`@E^CBAb@K`@Ib@KTEJE`@O`@M`@OHC|B}@@?^Q~Aw@@A~@k@nAw@NK^W^UPMhA}@^WPOJIz@u@\\Yd@_@hBqBDElBmBFGRUZ_@h@m@~@sAXa@p@cA\\k@NWNU~AeCBEVc@t@sAd@aATe@Te@FKpAmCBGt@gBBGrA}Ch@}@d@m@VYb@e@^]TOFETQNIVWVI`@MFCz@IjA?x@It@F@?fBX`@Fb@Fb@FLBzATb@FxATxBZJ@VDb@FrEr@dANb@FPDzB\\`@Hb@Fb@HhBX`@HfAP`@Fb@Fb@Fb@H`@Fb@Fb@Fb@F`@FlC`@vFx@fAP`@FJ@VDrEp@b@Fb@Fb@FdAPb@FhBVdAPN@RDb@Fb@HrEp@`@HfANdAPb@Fb@H`@F`@F@?b@FlC`@`@Fb@Hb@Fb@FjC`@b@Fb@Fb@FfAP^D`@F@?bC^F@@?`@Fb@F`@F@?dAPlC`@lC`@`@F@?`@Fb@FnDj@@?`@Fv@JzCf@b@FD@pAX|@Tx@ZFBv@^@?@?vBrADD\\X\\ZZV@@?@Z\\V^@@Vb@?@\\l@p@nAb@x@Vd@Td@Vd@Tb@?@l@hA?@j@dAVh@Vb@?@bAnBn@lAl@dA@?l@fA@?Vb@Vb@f@|@FH?@b@t@h@j@Z\\BBXXJJn@d@^VBB\\P~A|@`@LfBd@?@`@JdAXn@PTFbAX@?`@JdAX`@J`@J@?`@L`@JZHvEnAjD~@@?bAV@?VH~Ah@NDh@JZF@?NBt@FJ?dCEb@AXAj@A@?b@A`@AhAGhBK"
+              },
+              "start_location": {
+                "lat": 42.7093248,
+                "lng": -71.5382918
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "7 ft",
+                "value": 2
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 26
+              },
+              "end_location": {
+                "lat": 42.5599265,
+                "lng": -71.5896327
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Main St</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "onwbG`j}sLAB"
+              },
+              "start_location": {
+                "lat": 42.5599216,
+                "lng": -71.5896133
+              },
+              "travel_mode": "BICYCLING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "q|ucGlarsLFHlBjBzFlFzSbSRRd@t@tApBLVFZNd@NNH@LE\\MHCJCJFrAzAlAvADP@RHJZLt@X\\LJAr@MjCJfAHpD^rEf@zFn@`DPjJhAzGv@jBb@`@NrBz@hL`IrCdBl@ZbEzBrB~@fBn@nB\\nHbAxPvBnJlAbDf@x@NbBd@tA^bBt@~AdA|AfAvArAtBnBxLbLbPpO|A`BdBnBx@rAzAtCrA~CrA|CdFtLrA~CnA`D|CfHdBhErBvFlBzFfB`GdBfGhBhGvCdKtAnEjBpDBDhFtEvCbC~@t@z@j@`Af@dAd@fA^fBd@ZDd@DpANbEV~Eb@`AHjA?lCAjBIdAKlBW`AWnEqAlCs@fCo@hBWjAI`@ChB@jBBdALzGhAvEn@rEl@dAFZ?pBMhAMhC]nEkAdLgC`K{BjCm@fBa@dAOf@G|CUdB@bCJhBRpCXrF`AnDt@xE~@hCb@|AJlBDdF?rA?bCLdAHfANdAR`@L`AVfAd@jB~@~AbAzCvBz@l@^^t@x@lBbCjAfB|E`IbBjClB|BZ\\x@x@\\X~A`Ad@XbBV~ANb@BfAAdBMlBc@dBi@jDqA~BiA`Am@~CqBlCsBjCyBdFmFn@u@hBaCxBiDjCeEzAuCr@wAtAuCx@oBrA}CnAkBz@_At@m@\\Wf@a@x@WbAMjA?x@Iv@FpEp@fFv@`Ej@tPjCbK~A|RtC~]jFnX`EfL`B~S`DvFz@tCp@zB~@~BxAxApAt@~@t@rAbCtEfC|En@nA`DbGpCvE?@b@t@h@j@Z\\\\\\z@p@^V`@T~A|@`@LfBf@`@JjCr@fBd@nEjAdNpDhCx@vAV`AFhDGfACnCKhBKAB"
+      },
+      "summary": "Nashua River Rail Trail",
+      "warnings": [
+        "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+      ],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}

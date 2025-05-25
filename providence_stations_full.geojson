@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "stop_name": "Wickford Junction", "stop_lat": 41.581289, "stop_lon": -71.491147 }, "geometry": { "type": "Point", "coordinates": [ -71.491147, 41.581289 ] } },
+{ "type": "Feature", "properties": { "stop_name": "TF Green Airport", "stop_lat": 41.726599, "stop_lon": -71.442453 }, "geometry": { "type": "Point", "coordinates": [ -71.442453, 41.726599 ] } },
+{ "type": "Feature", "properties": { "stop_name": "Providence", "stop_lat": 41.829293, "stop_lon": -71.413301 }, "geometry": { "type": "Point", "coordinates": [ -71.413301, 41.829293 ] } },
+{ "type": "Feature", "properties": { "stop_name": "Pawtucket/Central Falls", "stop_lat": 41.878804, "stop_lon": -71.392048 }, "geometry": { "type": "Point", "coordinates": [ -71.392048, 41.878804 ] } },
+{ "type": "Feature", "properties": { "stop_name": "South Attleboro", "stop_lat": 41.897943, "stop_lon": -71.354621 }, "geometry": { "type": "Point", "coordinates": [ -71.354621, 41.897943 ] } },
+{ "type": "Feature", "properties": { "stop_name": "Attleboro", "stop_lat": 41.940229, "stop_lon": -71.285521 }, "geometry": { "type": "Point", "coordinates": [ -71.285521, 41.940229 ] } },
+{ "type": "Feature", "properties": { "stop_name": "Mansfield", "stop_lat": 42.032787, "stop_lon": -71.219917 }, "geometry": { "type": "Point", "coordinates": [ -71.219917, 42.032787 ] } },
+{ "type": "Feature", "properties": { "stop_name": "Sharon", "stop_lat": 42.124553, "stop_lon": -71.184468 }, "geometry": { "type": "Point", "coordinates": [ -71.184468, 42.124553 ] } },
+{ "type": "Feature", "properties": { "stop_name": "Canton Junction", "stop_lat": 42.162024, "stop_lon": -71.153828 }, "geometry": { "type": "Point", "coordinates": [ -71.153828, 42.162024 ] } },
+{ "type": "Feature", "properties": { "stop_name": "Route 128", "stop_lat": 42.210308, "stop_lon": -71.147134 }, "geometry": { "type": "Point", "coordinates": [ -71.147134, 42.210308 ] } },
+{ "type": "Feature", "properties": { "stop_name": "Hyde Park", "stop_lat": 42.25503, "stop_lon": -71.125526 }, "geometry": { "type": "Point", "coordinates": [ -71.125526, 42.25503 ] } },
+{ "type": "Feature", "properties": { "stop_name": "Back Bay", "stop_lat": 42.34735, "stop_lon": -71.075727 }, "geometry": { "type": "Point", "coordinates": [ -71.075727, 42.34735 ] } },
+{ "type": "Feature", "properties": { "stop_name": "Forest Hills", "stop_lat": 42.301065, "stop_lon": -71.113491 }, "geometry": { "type": "Point", "coordinates": [ -71.113491, 42.301065 ] } },
+{ "type": "Feature", "properties": { "stop_name": "Ruggles", "stop_lat": 42.336608, "stop_lon": -71.089208 }, "geometry": { "type": "Point", "coordinates": [ -71.089208, 42.336608 ] } },
+{ "type": "Feature", "properties": { "stop_name": "South Station", "stop_lat": 42.35141, "stop_lon": -71.055417 }, "geometry": { "type": "Point", "coordinates": [ -71.055417, 42.35141 ] } }
+]
+}

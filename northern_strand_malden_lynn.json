@@ -1,0 +1,211 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJrYWq7dVz44kRyDgtAu-ETSY",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJr-WCbTIO44kRU0hrtyE-SYs",
+      "types": [
+        "locality",
+        "political"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 42.4697816,
+          "lng": -70.9568993
+        },
+        "southwest": {
+          "lat": 42.4304983,
+          "lng": -71.0463115
+        }
+      },
+      "copyrights": "Powered by Google, \u00a92025 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "6.6 mi",
+            "value": 10634
+          },
+          "duration": {
+            "text": "37 mins",
+            "value": 2249
+          },
+          "end_address": "Lynn, MA, USA",
+          "end_location": {
+            "lat": 42.4697816,
+            "lng": -70.9568993
+          },
+          "start_address": "Northern Strand Community Trail, Malden, MA 02148, USA",
+          "start_location": {
+            "lat": 42.4304983,
+            "lng": -71.0463115
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "1.1 mi",
+                "value": 1825
+              },
+              "duration": {
+                "text": "7 mins",
+                "value": 419
+              },
+              "end_location": {
+                "lat": 42.43277,
+                "lng": -71.0244244
+              },
+              "html_instructions": "Head <b>east</b> on <b>E Coast Greenway</b>/<wbr/><b>Northern Strand Community Trail</b>/<wbr/><b>US Bicycle Rte 1</b> toward <b>Maplewood St</b>",
+              "polyline": {
+                "points": "se~aGlfspL?[C}@Eo@MgGAa@AUCSCo@u@gVAoACq@Ao@G_BCq@OqF[{KCq@E_Bi@wR?COgESeE?Aa@}DIm@?AO{A?ASgBi@gEEQyAeGAG@EDQ"
+              },
+              "start_location": {
+                "lat": 42.4304983,
+                "lng": -71.0463115
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "151 ft",
+                "value": 46
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 38
+              },
+              "end_location": {
+                "lat": 42.4330815,
+                "lng": -71.02406359999999
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Lynn St</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "ys~aGr}npLIKe@k@MO"
+              },
+              "start_location": {
+                "lat": 42.43277,
+                "lng": -71.0244244
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "3.5 mi",
+                "value": 5653
+              },
+              "duration": {
+                "text": "18 mins",
+                "value": 1097
+              },
+              "end_location": {
+                "lat": 42.4601176,
+                "lng": -70.9888075
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>E Coast Greenway</b>/<wbr/><b>Northern Strand Community Trail</b>/<wbr/><b>US Bicycle Rte 1</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "wu~aGj{npLBG?CAGU{@KYWo@e@qAMc@mByDs@uAUe@We@Uc@m@kAg@cA[k@Q]EG?AQ[q@qAWe@GMGOCGAEAKOc@e@{@IQoAcCiA}Be@_AEEiA{AQUg@g@USYUy@g@y@_@s@W[KaAWi@Iw@E]?{@@K?oD@I?MFC?sA@{AAsDAc@?c@?]AE?c@?c@?KAiA@U?c@?c@?kBCA?a@BsA@aAAgBCC@c@@A?S@O?a@?A?a@?C?mCDA?kCX_CX_Dh@aATK@E@mB`@A@c@Ha@H_@HcBXoAVa@HeATc@Hc@Ha@JiB^g@JaALi@DW@A?KBQ@O@yABa@?oAIGAq@EwBa@uAWk@Wg@Se@Oa@S[Qg@Yq@e@_@WwCmCAAUUQSo@y@AAY_@?AA?g@mASg@?ASe@?AMYEM_@wAa@}AQuAW{BAQEo@OeCAkB?O@a@BmEBc@Do@Bo@RsDFmAHsALqBNkDDaA^_HH_BhAcT@a@Fy@?CBc@D}@@KLcC@a@Do@T_E@OH_BH_CJwB?ALsBL{B?ABo@p@qLDm@?ABm@TaE"
+              },
+              "start_location": {
+                "lat": 42.4330815,
+                "lng": -71.02406359999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.2 mi",
+                "value": 1890
+              },
+              "duration": {
+                "text": "6 mins",
+                "value": 386
+              },
+              "end_location": {
+                "lat": 42.4617725,
+                "lng": -70.9667884
+              },
+              "html_instructions": "Continue onto <b>Community Path of Lynn</b>",
+              "polyline": {
+                "points": "w~cbG`_hpLHmB?K?I?ABK?K@GDw@@O@W@M?MBQ@Q@I?G@I?Q?O@M?E?A?C@M?A@G?G?C?EBW?CBU@O@M?E?E@K?K@K@M@S?G?M@Q@G?E@M?E@I@I?G@M@KBU@[@O@Y?EB]?C?C@IBg@B[@U@U@OBg@B[?I@K@QDeA@Q@KBc@@Y@W@S@Q@KLmCFwA@GDoA@QBo@Bo@@g@Bm@@_BAaBE{@M}@a@wDQkAmAeGOq@[yAMk@S_Ak@}BiA}EI]Ke@}@qD[sA]uAw@yCSgACIGg@Gc@Ea@Am@AI@u@@W@U@ODOBUDSHYDKN]P["
+              },
+              "start_location": {
+                "lat": 42.4601176,
+                "lng": -70.9888075
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "325 ft",
+                "value": 99
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 93
+              },
+              "end_location": {
+                "lat": 42.4624146,
+                "lng": -70.9659559
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Western Ave</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "aidbGlucpLOQ[_@g@k@IMMSCECECGGQ"
+              },
+              "start_location": {
+                "lat": 42.4617725,
+                "lng": -70.9667884
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.7 mi",
+                "value": 1121
+              },
+              "duration": {
+                "text": "4 mins",
+                "value": 216
+              },
+              "end_location": {
+                "lat": 42.4697816,
+                "lng": -70.9568993
+              },
+              "html_instructions": "At the traffic circle, continue straight to stay on <b>Western Ave</b>",
+              "maneuver": "roundabout-right",
+              "polyline": {
+                "points": "amdbGfpcpLDW?C?IAGAIAE?ACIEIEICEAACCCCEAC?EAKBk@a@CC[g@QUa@q@oAaBw@cAeB{ByAkB_AiAkBcCoA}Ag@q@iAwAk@s@SY]a@qAaBi@s@{@gAiAwAoCkDaByB"
+              },
+              "start_location": {
+                "lat": 42.4624146,
+                "lng": -70.9659559
+              },
+              "travel_mode": "BICYCLING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "se~aGlfspLWqKGkAy@wWEaC]sLoAed@c@sK{@iI}@qH_BwG?MDQIKs@{@BKWcAc@iAs@uBoE{IkBsDwCuFKWCQOc@e@{@yAuCoB}DoAaBy@}@o@i@sBgAoAc@aAWi@IuAEaGBQFoD?wEAkBAoC?sDCc@BuC?qC?mB@oCDkGr@_Dh@mAVyCn@aARsDp@oDr@kCj@g@JaALaAFMBa@B{BBwAKq@EwBa@uAWk@WmAc@}@e@yA_A_@WwCmCWW}AoB}@wBSi@Sg@aAuDk@cFEo@OeCAkBHcHn@uLbA_S|A_Zv@gO`@gJZsFz@qOb@iJNkCJmBBw@RiDNsCd@uIx@qQJyCDmCG}Co@uFQkAmAeGk@kCa@kBkC_LoDuNg@}CGoA?_ABm@F_@Hi@Ne@`@y@k@q@q@y@QYGMGQDW?MCQK[OUSGKBo@e@m@}@a@q@oAaB}C_EyCuDmHkJoDqEaLyN"
+      },
+      "summary": "E Coast Greenway/Northern Strand Community Trail/US Bicycle Rte 1",
+      "warnings": [
+        "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+      ],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}
