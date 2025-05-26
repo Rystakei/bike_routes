@@ -1,0 +1,405 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "partial_match": true,
+      "place_id": "ChIJbYcNJ9pm-4kRYWhjnx_rh94",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "partial_match": true,
+      "place_id": "ChIJuRapNQA3-4kRH3jJ0C46NJs",
+      "types": [
+        "establishment",
+        "park",
+        "point_of_interest"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 41.9257952,
+          "lng": -69.9812369
+        },
+        "southwest": {
+          "lat": 41.677675,
+          "lng": -70.2492384
+        }
+      },
+      "copyrights": "Powered by Google, \u00a92025 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "28.5 mi",
+            "value": 45803
+          },
+          "duration": {
+            "text": "2 hours 25 mins",
+            "value": 8729
+          },
+          "end_address": "Cape Cod Rail Trail Western Terminus, Cape Cod Rail Trail, West Yarmouth, MA 02673, USA",
+          "end_location": {
+            "lat": 41.677675,
+            "lng": -70.2492384
+          },
+          "start_address": "365 Lieutenant Is Rd, Wellfleet, MA 02667, USA",
+          "start_location": {
+            "lat": 41.9257952,
+            "lng": -69.9968999
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "5.9 mi",
+                "value": 9466
+              },
+              "duration": {
+                "text": "28 mins",
+                "value": 1680
+              },
+              "end_location": {
+                "lat": 41.843508,
+                "lng": -69.9820568
+              },
+              "html_instructions": "Head <b>southeast</b> on <b>Cape Cod Rail Trl</b> toward <b>Lecount Hollow Rd</b>",
+              "polyline": {
+                "points": "gs{~FrgfjL\\[FEp@q@Z]DEp@s@\\]JIn@k@PQb@e@HIFENK@?TSDGTWRUn@m@XQBCnAkA`@_@pBoBl@k@j@k@NMh@i@\\[Z[ZYRSJORU`@a@HIdA_AFIn@o@jAgAr@o@RSHGNQJK@C`@g@^_@RSVU?A\\YJGROPOJI\\Y^YxAkALQDEHC\\Y|@q@\\W\\Yh@a@|AiAz@q@^Y\\W^W\\Y\\YDCVU\\[\\[\\W^W\\YPMLG`Ai@XOf@SbAa@`@OJETG`@Kb@K^Kd@GdAQn@KRCB?r@El@CF?x@A~AEnCAjBCh@?\\Ab@AfACb@AfACLA|A?fAAb@?bDCPAH?FAZAhBCb@?b@?T?hCCP?b@AD?\\ArDGb@Ar@AzACh@A\\?b@?J?nBCv@ARAl@?D@F?LBTBR@d@@D@Z?F?b@AZ?XENCJCREf@EDAl@AR?fACb@?tEGb@AfAAt@CP?b@?|AAL?b@AnCEb@Ab@?ZAF?r@?zAC^?J?ZAb@Ab@?`@A@?h@AlDIfACfACh@A\\?rB?ZAdAAl@AhDER?r@AlBC`@?r@AzACV?z@AP@TBRFB?R@J?v@?vAAD?^?l@Cx@KFAVE^ErBCN?ZBZAr@?t@Ab@Ab@AD?\\AfAAfAAfACb@Ab@?b@AfACb@?b@Ab@AfAAb@Ab@Ab@?b@AfAAnCEfAAfACfAAfAAJAxDEzBCfACb@?b@AjBCb@?fAAfACnCCb@Ab@?jBCb@AnCCb@Ab@Ab@?F?bBCb@Ab@?fACfAAb@AV?B?F?hBGb@A|AEtAAb@?rDCb@AvECjBCnCAxHGfBChBCfAAjBCb@?nCEfAAfAAb@Ab@?b@Ab@?b@AfAAb@Av@AN?b@Ab@A\\?DAb@?fAAb@Ab@Ab@?fAAl@AlACp@A@?`@?~@AnA@\\?f@AV?n@CjAE^AfAAb@AZAF?fACv@CN?fA?b@AJ?z@?b@Ab@?jBA\\?D?p@APBB@FBFBHAFA@?LGNK"
+              },
+              "start_location": {
+                "lat": 41.9257952,
+                "lng": -69.9968999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "3.1 mi",
+                "value": 5030
+              },
+              "duration": {
+                "text": "15 mins",
+                "value": 890
+              },
+              "end_location": {
+                "lat": 41.79897039999999,
+                "lng": -69.98740269999999
+              },
+              "html_instructions": "Continue onto <b>Cape Cod Rail Trail</b>",
+              "polyline": {
+                "points": "}pk~FzjcjLLIFCBAF??@D@LBLF@?D@F?F?D?DADAZK@?NCFADAHAF?B@LLBBVT@?LFNBJ@HELI@ADEDCBADAH?F?HBF@H@F?FAXKNGDAD?FAF?HDF?L@R?t@Ab@?b@Ab@Ab@?fACb@?`@Ap@KVAj@CNAVETEFCZEHCVARCT@^B\\DXDd@BJ?b@?lAA\\C\\AfAAb@?b@Ab@?b@AjBAb@Ab@Ab@?b@AjBAb@Ab@?~BEfAAfAA|@AH?b@AfAAfAAjBCb@?rBEb@Ab@?jBEb@?b@Ab@AfAAb@A`@A@?nCCb@Ab@?b@Ab@?b@Ab@?p@Ax@AjBCfAC@?n@AT?R?N?F?J@L@RBL@D?H?DCLINIDCF?F?D@F@FBRHF@N@rAFx@DL@TBjBPXDj@HfARvATr@Nb@JhCh@fARLBdEr@`@FPDPBf@LHBFDHHJDF?H@JCJCJGJAH@JDJJDDBBDBVDfAPb@FtF|@fAPB@VD\\Dr@Pv@Nb@H^HjBZb@HlCd@`@HnDl@pDn@jCd@hBZhB\\b@F`@Hb@HhBZ`@Hb@Fb@HhBZdARdAPdARhBZb@HZFnARdARdAPb@Hb@H`@HJ@VDb@HfBZb@Hd@H^HfAP`@HdARb@H"
+              },
+              "start_location": {
+                "lat": 41.843508,
+                "lng": -69.9820568
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.7 mi",
+                "value": 1139
+              },
+              "duration": {
+                "text": "4 mins",
+                "value": 260
+              },
+              "end_location": {
+                "lat": 41.7895086,
+                "lng": -69.9918168
+              },
+              "html_instructions": "Slight <b>left</b> to stay on <b>Cape Cod Rail Trail</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "qzb~FfldjLXFb@Fb@H`@FLBTB^FB@@?J@?@TB~@NF@dARdARzAVp@Ll@LD@bBTrAPLJn@Lx@LdARTDn@Jt@LPDf@J`B`@HBVL^R`@RzAt@bAr@HFz@p@TRBBh@d@JJh@f@j@p@@@PTDFNXFHJPVb@DHBH"
+              },
+              "start_location": {
+                "lat": 41.79897039999999,
+                "lng": -69.98740269999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "335 ft",
+                "value": 102
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 18
+              },
+              "end_location": {
+                "lat": 41.7889651,
+                "lng": -69.9927836
+              },
+              "html_instructions": "Slight <b>right</b> toward <b>Cape Cod Rail Trail</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "m_a~FzgejL?F?BBDp@~ALRLPXf@"
+              },
+              "start_location": {
+                "lat": 41.7895086,
+                "lng": -69.9918168
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.6 mi",
+                "value": 938
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 173
+              },
+              "end_location": {
+                "lat": 41.7844541,
+                "lng": -70.00230940000002
+              },
+              "html_instructions": "Continue onto <b>Cape Cod Rail Trail</b>",
+              "polyline": {
+                "points": "a|`~FzmejLNVP\\Th@Xx@BFRb@?@Zv@Xz@@D\\|@^z@?@Rd@Pf@DJHTBFf@nAb@hAh@rARj@N^Vn@n@|AZx@BFd@fABFL\\b@hAFN\\v@`@hAJV@FJVTl@^|@v@nBLh@XvABFRhA"
+              },
+              "start_location": {
+                "lat": 41.7889651,
+                "lng": -69.9927836
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 mi",
+                "value": 317
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 67
+              },
+              "end_location": {
+                "lat": 41.7863549,
+                "lng": -70.00506349999999
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>West Rd</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "y_`~FligjLa@RWLWNOLA@UTCDMPKLINQ^Q\\Sf@ABCBCF?@GLCFGNO\\Yn@EHO\\Sf@k@rACF"
+              },
+              "start_location": {
+                "lat": 41.7844541,
+                "lng": -70.00230940000002
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 mi",
+                "value": 169
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 35
+              },
+              "end_location": {
+                "lat": 41.7851045,
+                "lng": -70.004425
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Cape Cod Rail Trail</b>/<wbr/><b>Salty Ridge Rd</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "uk`~FrzgjLLNNPJDF?FAl@Y`@MTIHEROJKHKLYL]BIDC"
+              },
+              "start_location": {
+                "lat": 41.7863549,
+                "lng": -70.00506349999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "6.5 mi",
+                "value": 10459
+              },
+              "duration": {
+                "text": "33 mins",
+                "value": 2009
+              },
+              "end_location": {
+                "lat": 41.7224106,
+                "lng": -70.0865505
+              },
+              "html_instructions": "Turn <b>right</b> to stay on <b>Cape Cod Rail Trail</b>/<wbr/><b>Salty Ridge Rd</b><div style=\"font-size:0.9em\">Continue to follow Cape Cod Rail Trail</div>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "{c`~FrvgjL@?F?FBRLv@l@`@`@z@v@b@b@FVJ\\b@dABDd@hAJR`@t@r@`AX`@`@l@PPZ^FFr@l@\\XHHPXl@lAR^?@Nf@Pv@H`@Jl@@DHd@F^BLJz@JpADl@?BDd@@DJdBDf@Fn@J|AHbABZBn@Dl@J~ABVFfADl@Dn@Dn@Bl@?@Dn@Dl@Dd@?HFn@@R@Z@T@V?@AV?B?B@HBNDNBLDVLlBDf@PrCRnBDVHh@Ln@BLVhABJZjA\\tA^vALj@^tA\\vANj@Lj@Nj@ZvANj@Lj@Nj@Lj@J`@Pr@Nj@Nj@Nj@Lh@V`AFTLj@Nj@^tALj@Nj@Nh@BH`@`BJ^l@`CLj@BDLb@Nj@Nh@Nj@Nh@Nj@L^DF?@LNHDBBNHHFDBHFDD@D?H?NCd@Cl@?@A\\?L@HBLRz@J`@^|A\\tANj@FTv@tCPr@Jb@Nj@BJXhA\\pA@D\\vAFVDRT|@d@nB^vARv@H\\Nj@Lj@Nj@Lj@H^DJ\\tA^vANh@BJJ^l@bCLh@Nj@Nj@l@`CFTFT`@|AJh@BLH^j@bC@BLd@Nj@d@fBd@pBn@jCL`@DNTx@Vt@L\\BHRf@f@jAl@nATd@P\\Zj@Td@l@hAVb@Td@`@t@z@zAVb@PZBHVb@Td@Vb@Td@f@~@\\l@`@t@JRVd@Tb@Vd@BFR^R\\@BTb@DFVl@LVVb@BFP\\Vb@P\\BFVd@HNJRh@~@Xj@@@LTFJh@|@Vb@Vd@l@fALTjA~BP^BD|ArCLTHLNV`@l@V`@PVz@hAZ`@X^JN|@vAXb@V`@hAhBLPJNX^nA`Br@`AX^X`@t@`AX^nA`BDFNR\\d@RXDFb@l@ZT^ZDFBP?N@RDPFJFFHBFBLJJLR`@Rd@Vh@f@fAHPLRVb@HLh@t@`@l@V`@h@l@BDbAz@j@d@FD\\T`@T\\Rf@T`Bl@`@N`@LbA`@`@NFBXJ`@NbA^fA`@TJf@TZL`@LNFPF`@N`@N`@N`@P`@NbA^`@NbBn@dBn@dA`@dDxAvAn@JD@?PJl@TbA`@hDpANFfC`AbA^`@NdBn@dBn@bA^`@NfBp@~@`@bBt@`Ad@f@Rd@PVJ`@N`@NdBn@~@^@?bA`@bA`@|@^B@dA\\DBZJt@Vl@X`@RB@\\JXJjAb@^PHBVJdA\\`@NLDr@\\`Ab@`@Rd@RXRf@\\t@j@^XZZx@t@XX`@`@@Bt@r@BD\\X\\Z\\X@@v@j@BBn@^NH\\Pb@RB@\\JLDj@Nl@LD@`APB@n@NRDp@R@?^L`@NdAd@\\NZNDB|@l@RLj@^p@b@l@Z`@P^RRJLDTHF@L?JAF?HBDBFFLFHPLJ@@HFVFH@VDD@\\HD@ZHb@JNF|@TJDl@Pj@RNFPFVFbA\\l@PLBTH`@J`@LNBd@NNFVHHBt@VXL`@RHDFBH?FAJC"
+              },
+              "start_location": {
+                "lat": 41.7851045,
+                "lng": -70.004425
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.4 mi",
+                "value": 660
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 181
+              },
+              "end_location": {
+                "lat": 41.71694189999999,
+                "lng": -70.0842577
+              },
+              "html_instructions": "Keep <b>left</b> to stay on <b>Cape Cod Rail Trail</b>",
+              "maneuver": "keep-left",
+              "polyline": {
+                "points": "a|s}F|wwjLFCFBNDVLPBP?J?L@b@?t@@f@AD?~@I@?`@EBA^GVEr@Or@Sl@Q`@O`@OFCz@]`Ae@p@c@d@[DC^YHGRQTUDE\\]b@e@^a@NQFGTQ"
+              },
+              "start_location": {
+                "lat": 41.7224106,
+                "lng": -70.0865505
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "2.1 mi",
+                "value": 3341
+              },
+              "duration": {
+                "text": "11 mins",
+                "value": 665
+              },
+              "end_location": {
+                "lat": 41.688879,
+                "lng": -70.08914349999999
+              },
+              "html_instructions": "Keep <b>right</b> to stay on <b>Cape Cod Rail Trail</b>",
+              "maneuver": "keep-right",
+              "polyline": {
+                "points": "{yr}FriwjLLIDGDIFSNWNWj@q@v@y@X]@A\\]p@a@dAg@|@_@LEbA]RGNE`@K`@Gb@GZEFAb@CjBQj@EF?B?JHNJFBHBD@PB\\D`@DPBb@J@?^L`@NFDXJ^P^R^TTNr@`@TN^TPJNF`@PLFPFtAd@r@PTFp@FRDn@D@?b@Ab@?j@?D?ZFNDR@NAbAMt@K@?b@Ev@Gp@Eb@Cb@Eb@CfAGb@ELARA~@MF?b@Cb@Cb@Cb@A?Ab@Cb@EdAKb@C@?VAlAIb@Cb@C`@ClCMVAb@CTAL?HAVANATGPKDAF?D@D@HDD@D@VBZ?T@V?H@b@FN@RBx@HrAV`@Ht@Lp@Rb@Lt@TnAj@FBXNz@b@dAl@@?nAz@lBdArC`BLH\\VJFx@f@XP^RtBfALH^R^T^Tn@^NH`Ah@^RPJLFr@`@LH^RJHf@Zl@\\z@j@vBlBPV?B?@?@?@@B?@?@@@@@?@@@?@@@@@@@@@@?@?@@@?@?@?@?@?@A"
+              },
+              "start_location": {
+                "lat": 41.71694189999999,
+                "lng": -70.0842577
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "2.5 mi",
+                "value": 4041
+              },
+              "duration": {
+                "text": "14 mins",
+                "value": 817
+              },
+              "end_location": {
+                "lat": 41.68891,
+                "lng": -70.13644289999999
+              },
+              "html_instructions": "Slight <b>right</b> to stay on <b>Cape Cod Rail Trail</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "ojm}FbhxjLVd@R\\DDl@fAR\\Xh@FJFLFJ?@JRFLDLHZLf@BFFPJT@@P^Nn@NbADr@BTJ|ADn@?DDf@HpA@LBn@Dn@Bb@?JDtAJ|AFx@Bd@Dl@Dv@Bf@R~D@NVjDJ~ADn@Df@?DPnCDt@JdBDn@Dn@@RL`CJvADn@@PXzEBh@Dr@Dn@Dn@Bj@@BNlCDbCA~@?n@AdBCXCLCHELAH?JDn@B^@N?NGZCJI`@?@Ij@Gn@c@xDGl@Il@YjCIn@YjCIl@c@xDGn@Il@[rCq@jGIn@YjCSnBQ`CMtAAHEl@C\\O|BCpACn@I`EE~A?ZGrBCn@An@Cn@OnFA^C~@A^ANCt@AxA?N?JBN@@@HBN@LAFCNIXEVAPCnACt@An@E~AGxCAd@Cn@K~DCn@An@E`AA\\GnCCn@An@K~DCn@EzAGrCCn@An@Cn@?H?`@?NDR@JAJGNKH"
+              },
+              "start_location": {
+                "lat": 41.688879,
+                "lng": -70.08914349999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.7 mi",
+                "value": 1090
+              },
+              "duration": {
+                "text": "4 mins",
+                "value": 218
+              },
+              "end_location": {
+                "lat": 41.6898862,
+                "lng": -70.1493835
+              },
+              "html_instructions": "Slight <b>left</b> to stay on <b>Cape Cod Rail Trail</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "ujm}FvoakLGBCBADLdA@HD`@@LAJCLIRAH?N?F?D?FALCL?B?H@d@Bh@@L?RANGZEZAh@IvBCx@QdFCl@Cn@QvE?VCn@Cn@Cn@Cn@G~AAVAVCn@O|DCn@Cn@AREjAQlEEpACn@Cn@Cn@I~ACl@"
+              },
+              "start_location": {
+                "lat": 41.68891,
+                "lng": -70.13644289999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "4.4 mi",
+                "value": 7114
+              },
+              "duration": {
+                "text": "23 mins",
+                "value": 1400
+              },
+              "end_location": {
+                "lat": 41.6843344,
+                "lng": -70.22952339999999
+              },
+              "html_instructions": "Slight <b>right</b> to stay on <b>Cape Cod Rail Trail</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "ypm}Fr`dkLIf@Il@ADCn@A\\GpBANA^Cn@Cn@AZARErA?DCh@ATA@G~AAj@ABCn@?BAj@APAP@J?H@d@?D?d@ABAn@Cn@Ch@?DCr@Ch@AXEr@G`@CLALAXA\\EdAE|@?J?P?`@@LAr@E|@EpACh@IrBEfAE~@ATAPEp@OxAGn@Gn@AFUxACTMl@]hBGZCLA@_AvCQl@_@pAOh@q@~BEJI^Ml@Kj@EL[rBUbBG^ALM|AEn@AHAd@An@CbB?j@An@?n@AfAAV?PAz@?p@B~@@f@?FBn@@\\BPFn@Dj@Fj@Ht@PxANfAJbABTVtBP|AFl@Hn@Db@@HHn@XhC`@pDJv@Hl@Hl@@ND\\X|BPvA\\tC@FFn@Hh@`@hD?R?X?N?P@TBJFRNRJNDLDR@L@R?D?RAT?PBZF^BNHl@Hl@BXBRHn@?DFf@BRBXTrBDVFn@@BFh@L`ANt@?P@TH|@BHHj@P`BNlA@JHl@DZBPHn@Fl@Dj@@BD\\FVFNHL@@JJDN@DHXHf@@X?LAVCV?N@RNhAFl@DXBRZjC?@BXBR@R?T@R?PBP@JBVHt@ZfC?BHl@RjBD^l@hFFb@@HFl@BNLfADd@BL@HFj@Ff@BVDTBZBPJt@Ff@Fl@BRJz@BJP|AF^@LJbALfANpA@JFh@?BJv@@NBT@DBTNnAF^DZHt@BHNvAF`@Fj@@RBTF`@Fd@B`@BX?Z@L@TLlALbA@JHp@Fj@Fl@Hl@Fn@@BBPBLBFBJJRBFFLFT@BF\\F^BPD\\BPNzABND^@JD`@Fl@?@@XB\\@VBf@@r@@^?`@?n@?@Cx@Ad@Ab@Cl@Gz@AJEb@Gl@EZGZG`@EVKf@Kf@I\\K`@I\\KXQf@K\\KTK\\Qh@IR[|@Wr@EPCH?BAD?F?H?J@JBPHZBLDHDDDDDBFDPHB@JFNFJDJFHFFDLLB@B@@@B@LDJBN?TBF?PBFBNDRFTHHDHBL@F@B?B?D?B@B@DBDDBB@BBD@F@H@F@F?R?P?F?HCRALCLANEPCJCHCHEHABILKPA@KL[\\EFCBCBADAF?F?J@^AZ@P?B@B@B@@?@@B?J?Z@R@t@@T?L@L@NBJ@B@FDJDNHLHLFDB@B@F?H?J?@?J@D?BBBFDJBN@RDd@@J@BBLHN@D@D@D?F@`@?ZAZAj@ANAT?B?b@AXA\\?`@?L?P?r@AX@f@?F?n@?n@?@@n@@bA@V@LDZ@F@J@X?HAn@?N?^Ad@?HABAPENAFCHEVAHADCP?P@XBZ@DBXBL@JFL@J@JA^Gv@Gx@HZ"
+              },
+              "start_location": {
+                "lat": 41.6898862,
+                "lng": -70.1493835
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.2 mi",
+                "value": 1937
+              },
+              "duration": {
+                "text": "5 mins",
+                "value": 316
+              },
+              "end_location": {
+                "lat": 41.677675,
+                "lng": -70.2492384
+              },
+              "html_instructions": "Slight <b>left</b> to stay on <b>Cape Cod Rail Trail</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "anl}FnuskLHNFXPZPLTH^L@?b@EH?XGVEHAfAMPCPAb@AD?\\BTTTp@BHFb@VxAF`@`@lDDVHl@DZH~@Lt@H^@DFZPfAFh@Jf@Jl@FZTlBBTFl@Jh@FZBPHd@Fb@F`@Fh@DNBPHXBJD\\Fr@?RBZ?FD\\@FLn@Hh@DRPdAJl@Hb@@HHl@\\hCF^BLJl@XxAJj@Ll@DXDRhBjM|CpTr@dF\\bC"
+              },
+              "start_location": {
+                "lat": 41.6843344,
+                "lng": -70.22952339999999
+              },
+              "travel_mode": "BICYCLING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "gs{~FrgfjLtEsE~CsCjQwPzL}LzCmC~E_EpPqMvEyCtGwBnDi@lBIhQUnVW~Za@~CNbBAhAStMWrMOnU]x^_@~@LnD?`Ia@~FChLQ`_@e@jb@g@tW_@ziAgAnW[jHKvIA\\Ff@U`@O`@NdAM^Gb@Lj@`@ZDVOPM`@@`@@t@U|CBrDGnCOnDa@vEP|HKv[]n\\c@rQOt@Fl@WZAj@PjDPfEd@|SzDlB^f@Xh@EVITFZXxJ|ApHtA~h@fJdn@tKvF`A`Et@vDf@|@XdEr@pE`AbBx@~ChBdAx@nAhAhBpBjA|BbA|BhAnB~BjGtJtVfDpIn@dBvAlDf@`CVpAy@`@_At@_BzCm@tAcA~Bo@zA\\`@RDt@[tAm@p@oARMtB`B~AzARt@xAhDpCfEhBfBf@b@~@fBb@hAh@lCx@xHx@pLpAxSFhB\\bDp@bIpCvLdD`NbGdVrFlSdAx@Fd@IrBrBbJhDvMpGvW`Iz[nDlN~@vC~BhF|FtKpD|G|GnMpIpOtFjKfGzIrHtKfGfIxAdBd@b@B`@Vx@j@`@`DpGlCrDzBlBdCtAhFlBnHrCfFlBjFnBhLzErMdF~PrGtL|EvIfDvQfHhCxAjDvCpEhEbEbC`GtAlFlB`H`EvAn@h@?d@Vb@f@bDr@lF`BnGjBtDxAd@I`AZnA@bDIfAOlD{@jAc@tEcC`DwClAmA`@o@bC{CjB_BtEkBfBa@nGk@l@\\vAPvA\\bBr@`FtCvCfAnCf@xBB|ALlHm@xHm@zOaA~G[t@UZJdDRbEn@`EdAlDbBdGnDtL`HrNhIz@j@hCdC?HFNTJpCvEz@rBhAhDz@zKvBz_@bCra@PnCTpGAnBMvCGb@JnBUjAeCxTqD`\\u@pI]zGe@pR_@~OFf@?t@Op@E`BS~Ig@dRi@~SCjBF^IZYVV~BQv@?d@@zCQpBc@dMm@~Pg@|M_@~J[dFa@rIUzFUrGCjE_@jGQhG_@vLq@zIeAfGmAbE}CnL_AdGWdDMdLH|HpAtLnE``@x@dHj@`GDbAh@dAJrCp@hFtBxQ`AfITzBZv@\\z@HfBLdCl@fFNpCnA~KjC`UlFrd@h@xGt@lGp@tBp@xFXhEAfGk@bHqA`GeChHInAPz@VXzAv@p@`@vB\\lAV^b@@dB_@fBkA|AErBVvEVp@XV^?XLb@bCB~CGdLPjECvD[lBFlAP`AEnB@tAPh@b@h@t@VhAMzBYxA?n@pAhAlI`AxGzAtK~@|FVtAJjBlAjHfBbLrJbq@"
+      },
+      "summary": "Cape Cod Rail Trail",
+      "warnings": [
+        "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+      ],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}

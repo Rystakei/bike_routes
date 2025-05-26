@@ -15,6 +15,9 @@ const trails = [
   { file: 'east_bay_bike_path.json', label: 'East Bay Bike Path', color: 'red' },
   { file: 'blackstone_river_bikeway.json', label: 'Blackstone River Bikeway', color: 'turquoise' },
   { file: 'northern_strand_malden_lynn.json', label: "Northern Strand - Malden to Lynn", color: '#2ECC45' },
+  { file: 'cape_cod_rail_trail.json', label: 'Cape Cod Rail Trail', color: '#23ECD9' },
+  { file: 'pennypack_trail.json', label: 'Pennypack Trail', color: '#23E7D9' },
+  { file: 'farmington_canal_heritage_trail.json', label: 'Farmington Canal Heritage Trail', color: '#2ECC40' }
 ];
 
 function loadTrail(trail) {
@@ -115,6 +118,35 @@ function calculateProgressWithCoords(riddenLatLngs) {
 // === Load All Layers ===
 const commuterRailPurple = '#800080';
 trails.forEach(loadTrail);
+
+// === Shoreline Greenway Trail (GPX)
+new L.GPX('shoreline_greenway_trail.gpx', {
+    async: true,
+    polyline_options: {
+      color: '#FF6347', // tomato red, change as you like
+      weight: 4,
+      opacity: 0.7
+    },
+    marker_options: {
+        startIconUrl: null,
+        endIconUrl: null,
+        shadowUrl: null,
+        wptIcons: false // This hides the "Marke" point markers
+      }
+  })
+  .on('loaded', function(e) {
+    const center = e.target.getBounds().getCenter();
+    L.tooltip({
+      permanent: true,
+      direction: 'right',
+      className: 'route-label'
+    })
+    .setContent('Shoreline Greenway Trail')
+    .setLatLng(center)
+    .addTo(map);
+  })
+  .addTo(map);
+  
 loadRiddenSegment('current_minuteman.json', '#0074D9');
 loadGeoJSONLine('fitchburg_line.geojson', commuterRailPurple);
 loadStations('fitchburg_stations.geojson', commuterRailPurple);

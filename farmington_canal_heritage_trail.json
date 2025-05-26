@@ -1,0 +1,1480 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJ5XCAOkTY54kR7WSyWcZUo_Y",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJZwQwqE4e54kRO7G-FJOhBfw",
+      "types": [
+        "route"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 42.1290111,
+          "lng": -72.7431386
+        },
+        "southwest": {
+          "lat": 41.3082974,
+          "lng": -72.93468589999999
+        }
+      },
+      "copyrights": "Powered by Google, \u00a92025 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "63.2 mi",
+            "value": 101633
+          },
+          "duration": {
+            "text": "5 hours 37 mins",
+            "value": 20192
+          },
+          "end_address": "Westfield River Walk, Westfield, MA 01085, USA",
+          "end_location": {
+            "lat": 42.1290111,
+            "lng": -72.7476897
+          },
+          "start_address": "New Haven, CT, USA",
+          "start_location": {
+            "lat": 41.3082974,
+            "lng": -72.92793859999999
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0.3 mi",
+                "value": 432
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 91
+              },
+              "end_location": {
+                "lat": 41.31172,
+                "lng": -72.92557140000001
+              },
+              "html_instructions": "Head <b>northeast</b> on <b>College St</b> toward <b>Phelps Gate</b>",
+              "polyline": {
+                "points": "{_c{Frvb|LIGuBwAqA{@WQ_C{AII]UMI]Wi@]yAaAm@c@CCw@E"
+              },
+              "start_location": {
+                "lat": 41.3082974,
+                "lng": -72.92793859999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 mi",
+                "value": 239
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 68
+              },
+              "end_location": {
+                "lat": 41.3138212,
+                "lng": -72.9250325
+              },
+              "html_instructions": "Continue onto <b>Prospect St</b>",
+              "polyline": {
+                "points": "guc{Fxgb|La@@gAQoEy@oAUMEKE"
+              },
+              "start_location": {
+                "lat": 41.31172,
+                "lng": -72.92557140000001
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 mi",
+                "value": 214
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 50
+              },
+              "end_location": {
+                "lat": 41.3151847,
+                "lng": -72.9267641
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Canal St</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "kbd{Fldb|LANABAJAJABCDGFGHMN}@bAe@h@MP[ZYVc@`@CDCBGHAFEN"
+              },
+              "start_location": {
+                "lat": 41.3138212,
+                "lng": -72.9250325
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "23 ft",
+                "value": 7
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 1
+              },
+              "end_location": {
+                "lat": 41.3152426,
+                "lng": -72.92672519999999
+              },
+              "html_instructions": "Turn <b>right</b> toward <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "{jd{Ffob|LKE"
+              },
+              "start_location": {
+                "lat": 41.3151847,
+                "lng": -72.9267641
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "174 ft",
+                "value": 53
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 9
+              },
+              "end_location": {
+                "lat": 41.31565,
+                "lng": -72.9268666
+              },
+              "html_instructions": "Turn <b>left</b> toward <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "gkd{F`ob|LEHCFABA@E@IFC@G@O?IAEAGE"
+              },
+              "start_location": {
+                "lat": 41.3152426,
+                "lng": -72.92672519999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.6 mi",
+                "value": 953
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 198
+              },
+              "end_location": {
+                "lat": 41.3237073,
+                "lng": -72.9306703
+              },
+              "html_instructions": "Slight <b>left</b> onto <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "ymd{F|ob|L]PWNMF[PQJSJwAh@eExAwKzDIB_Ct@a@LcA\\qA`@[JcAd@_@TWN[Lo@L}@JC@]NC@]Pm@Zq@VG@"
+              },
+              "start_location": {
+                "lat": 41.31565,
+                "lng": -72.9268666
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.3 mi",
+                "value": 553
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 100
+              },
+              "end_location": {
+                "lat": 41.3284279,
+                "lng": -72.9326478
+              },
+              "html_instructions": "Continue straight to stay on <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "e`f{Ftgc|Lq@TeAXu@XeBZA?MBYRULSL_@T[Hs@TUDQBWDi@H]HQDw@^YNo@PkBr@c@Nk@J"
+              },
+              "start_location": {
+                "lat": 41.3237073,
+                "lng": -72.9306703
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.1 mi",
+                "value": 1829
+              },
+              "duration": {
+                "text": "7 mins",
+                "value": 407
+              },
+              "end_location": {
+                "lat": 41.344418,
+                "lng": -72.9324566
+              },
+              "html_instructions": "Turn <b>left</b> to stay on <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "u}f{F`tc|LEVORMFMFMBM@[AM?KB{ExAiE~@qEx@QDoCj@c@HC@]FwDn@]BiADe@@mCCkBCw@Ic@GgAMeBM{AU_Dg@aHeAsAOmB[YEw@MgAKi@GeAM{@M]Kc@Ou@ScAa@mBcA"
+              },
+              "start_location": {
+                "lat": 41.3284279,
+                "lng": -72.9326478
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.8 mi",
+                "value": 2846
+              },
+              "duration": {
+                "text": "9 mins",
+                "value": 520
+              },
+              "end_location": {
+                "lat": 41.36758440000001,
+                "lng": -72.9182538
+              },
+              "html_instructions": "Keep <b>right</b> to stay on <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "keep-right",
+              "polyline": {
+                "points": "saj{Fzrc|Lw@]w@YKCCA_@SAA]Su@c@_@SIEGE}@g@]QKEUM_@UUMIEy@]i@Y[QCAaB}@aAg@_@S_@ScDeB_@S_@S]Sc@UaCoAaB{@QIOIUKi@[g@Y{As@_@QUKKGKG[OWQKIQOECCGCCACACEICECGEEOIKGm@[sAs@a@SaDcBa@S_@SaB{@KGs@a@]FY@]Q_@Qa@SGCy@c@_@SGCWOa@S]WWWUMIE_@SaB}@_@S_@Sa@S_Ai@EAYQcCmAaAg@u@a@wA}@q@_@iCuA_@UyAw@g@YKGaDaBaAg@cCoA_@SmAk@MIQISKCCCAEAOKCAKE_@UC?]OGEMGECCCWMe@W_@SWMYOEAC@E@"
+              },
+              "start_location": {
+                "lat": 41.344418,
+                "lng": -72.9324566
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.0 mi",
+                "value": 1647
+              },
+              "duration": {
+                "text": "5 mins",
+                "value": 309
+              },
+              "end_location": {
+                "lat": 41.3772337,
+                "lng": -72.9145585
+              },
+              "html_instructions": "Turn <b>right</b> to stay on <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "krn{F`z`|LEICGCEgBeACA_@SaAg@aB{@_@Sa@S_@U_@Sa@S_@S_@SOIEEEK?U?M@OPe@Vy@@ICK?AMYI[Gc@Ii@ESKQEG[][]w@}@[]_@c@q@w@[][][]Y]m@k@UWIGEEECOY[o@CGc@iAWk@CEw@{@aAcAIKCCCCWYCCa@c@UW[YECE?E@CDEDADQZgAxBWd@OZEFQ`@CDUh@y@pBIRITGVQf@AHKd@ALABC\\AP?F?V?B@D?D?F?V?T?ZAJCNCRAB?@ABCFGNCDABA?ABC@OHq@FYBE?C@YBE?C?YBE@"
+              },
+              "start_location": {
+                "lat": 41.36758440000001,
+                "lng": -72.9182538
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "7.5 mi",
+                "value": 11998
+              },
+              "duration": {
+                "text": "40 mins",
+                "value": 2372
+              },
+              "end_location": {
+                "lat": 41.4781442,
+                "lng": -72.9221759
+              },
+              "html_instructions": "Continue straight to stay on <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "unp{F~b`|LC?WBA?a@DM?]@U@M?Y@IBS@c@BeABY@oCFc@@I?kBD}@BI?Y@c@@I?Y@c@@c@@E?A?A?Y@U?g@@W@c@BUBq@@a@@c@@A?a@BgABc@@A?c@@a@@A?a@@A?iBFC?_@@c@Bc@@c@BW@K?kBDc@@c@?c@@c@@c@@c@@c@@c@@c@@c@@gA@c@@c@@_@@C?a@@A?O@E?K@A?c@@a@?a@CeABc@BgABO?S@c@@a@@c@BgAB[@G?c@@c@@G?[?O?SAY?qAEC?cAMYCIAa@Ic@IeAQc@IGAaBWa@Ic@IYEIAa@I_BWIAc@Ic@Ga@Ic@GeAQc@Ic@Ia@IC?_@Ga@IGAeCa@mCc@c@GOCaEu@i@K[GsAUUG_Bc@GCEAMCMGiCkA[Q_@Q_@Ww@i@e@]uBcBCA{@s@_@W{AkA]W{AkA]W_@Yc@]u@m@}@s@{@q@]Y_@Y]Y{@s@oA_AGGCCEAAAC@GDIJCFU|@CFILMJIBI@CAGAIE_@[YUSYa@a@cAw@[WwAy@g@_@_@Yc@]y@q@[_@O_@AIAOAM?KCKAIIQe@}@Ue@Ue@Wc@GMOUYa@KOc@[KEOIKEEA_@SQIOGa@O_@Qu@[MCgAQg@KeBCGAg@A]BkBNc@BA?a@Ja@LeAVeAVYHi@NeAXa@LiCr@c@La@Ja@LYHOLq@^E@eAZKCSGGCECIGMKGEGCCAGAMAG?G@C?CAC?A@_@LSLGBCFABINABC@YN}@\\OFONCBWRs@XQDeATc@Ja@Hc@Ja@HSFm@\\{A`As@j@e@n@GFOZIPM^IXKVc@r@?@A@Y`@U\\e@d@y@n@[P_@TA@mAb@UDc@Hc@Hw@B}@G{A]A?A?_@Ma@Mc@Oi@Sw@[a@QkBs@{@a@o@Ug@MQCYCi@EC?E?q@@u@Di@Hg@PQHg@P[PEBYNq@^o@XOFQJC@A@OFSFq@RK@eAJE@_@@C?e@A]Ci@C}@IIAY?A?E@eA@k@Du@HsB^A??@_@Rc@T_Az@m@v@A@OP[f@]j@a@d@q@j@A?]X_@VMJqA|@kAz@m@`@MJ[PUJA?_@Pq@Zs@Pk@JYDA?a@Hu@L_CXkBVq@Jw@Na@HgAPgBZ?@gBd@k@L{@ZeBj@cA^mExAMDSFa@LgBh@a@La@LEB]FUFK@i@D]?Q@QAYAIAc@CE?wBa@MCy@Oq@CM?u@BC?}@LgARi@LkCl@a@H?@c@Ha@H{Cl@SBc@DkBRC?y@Ho@JK@WH_@HA@}@^eAl@IFu@b@WPiAh@MFSFc@Nw@Pe@HI@a@FQBQByATWDc@B_@Fk@B]@c@Bc@@Q@QBc@Dw@Lg@NGDULIFULIF]VA?KHq@b@]RA@[LE@?@c@L_@N]NqBr@}Aj@iE~AA?_@NMBSJa@N}Bx@KDcBp@a@Pa@Na@Na@PYJwG`CcA^cA^eBl@aA^cA^a@NmBp@[JeBh@KD{A\\[Hk@Fm@HWBeAFiAAa@AA?c@Ec@GMASEgAQYGkAa@OEQIa@QcBw@WMkAg@_@Qa@Q[MOIACEo@AEME"
+              },
+              "start_location": {
+                "lat": 41.3772337,
+                "lng": -72.9145585
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "9.0 mi",
+                "value": 14528
+              },
+              "duration": {
+                "text": "46 mins",
+                "value": 2787
+              },
+              "end_location": {
+                "lat": 41.5999322,
+                "lng": -72.8835457
+              },
+              "html_instructions": "Turn <b>left</b> to stay on <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "ked|Frra|LMLIDGBE?A?E?OEKEcA_@a@Oa@Qa@Oa@Os@WOGgC_AmFmB_@Oa@OiDoAgC_AeBo@eA_@uAo@iAs@_@W_Ak@WQe@]g@[WS]W]Y_@YyBcB{@q@uFiE]Y]W_@Y{@q@}@q@]Y}@q@]YGEWO_@SOIs@Ya@OKGy@UsAUUEaAKw@Cs@CcAAW@y@FuAJoCPeAHqDZ{AJ{BTeAJc@Dc@FiBPk@@_AFgALM@CBKFMFSDC?mANO@E@IDYPSHC@GBWDUBO@C?GDGDGDEJIRELCHKNKFKBI?K?QAy@Ga@EM?SBOBOBQBI?G?O?MCQE[M[MAA]IQAS@c@BqAHg@DW?IAEAECAAACAE?G?GAQAECCIA{@F]?YCa@Ko@Wc@Sa@QkA{@SUa@c@g@u@MMACe@g@a@g@a@_@WUGGACAGAGCIQOi@YKIIKQYS]_@i@]e@OSGIQWKMMQKMSYUWEGWSGI[UYQYQa@Qe@QIC[I_@GCA]G_@CEAYA[@[?Y?Q?Q?S@O?c@@G@[AC?s@BO?k@@Y@O?w@BG?[?c@@A?e@@_@@S?W?s@@_@?O?m@@_@?m@?Y?aA@A?UAK?c@?OCOCGA_@?G?_@?S@K@_@@C?UAc@?M@M?UDSDM@E?u@@K?U?M@m@?Y@E?]@M?YA_@@I?c@?Y@c@?]?E@e@?[?S@U?o@?W@q@?]@[?A?[@O?]?g@?K?O?[@_@?K?a@@O@S?M?s@?a@?s@@W?o@@[?w@?Q?y@?Q@q@?[?{@AY?_ACQACA_@CA?]EUEe@MKEOGSE_@Ua@Qm@]]Si@_@GEUQIGw@m@[YEEg@e@QQA?MMKQAAIO[[ACSWSWWYOK_@W}@q@GEYSwCyBy@u@kBcBaA{@_@_@][a@a@WU][sCeC][][q@o@}CmC{@s@OOuAcAKIEEc@W]W[Uy@e@MGQKa@SCA}@c@CA[OMG{@_@YMSIMEg@SEC]G[KEAYMCA]MCAUIk@Qa@MKCUISGGAGAWCIAc@GC?_@EEA[Ga@Ge@KE?_AOOCw@GeAK?Ac@CUCMAo@CyAEE?c@A[Cw@Ee@?y@@A?a@B[@G?{Fh@uFj@{BT}@JmBTI@c@Fc@Fa@F_@DC?YDI@sAVsAXi@JG@WDC?yBXoALu@Ha@FaALc@FSBq@J_@Dg@F_@DC@I@WBc@FWBKBYBc@Fc@D]Dc@Da@Fc@Dc@F[BG@SBa@Dc@Fc@Dc@Fa@Fc@Dc@Fc@Da@Fc@Dc@FgALOBc@DI@YDc@DaAJc@DI?y@HC?c@@A@a@Bc@BE?]@I?WBc@BUBq@FI@}@LM@mAJM@c@@E@cA@a@?MASAiAEc@AA?a@Ea@EA?a@GC?_@KAAg@K[GOEA?GASCUGUEc@IE?ICQEEA]Ia@KQEQC[GEAc@K{AYEAeAUg@KkE_AaDo@q@Oi@KEA]Ia@IAAq@QQEQAIC{@Qo@Mo@Ma@Ic@Ks@OQEs@OkASKC_@KC?s@OmAWIAa@KSGOC]GeASg@Ma@IGA[Gc@IA?gAOMCEAKAMCSGc@K]ICAA?a@KgBa@a@Kc@IeAUQCSEI?K?KAG?MEKC_@IWEOEKEOIOIGAICMCm@MICWEeAUu@OsBa@iCi@GCeAWa@KA?_@MC?m@SSI_@QA?u@_@oBaA{A}@y@a@]U?Ae@]{AoAgAgAu@y@cBkBUS[]A?UUEE]_@aAgAcBgBAA[[IKm@m@{@{@]Wa@Sc@k@[]CCw@i@AAGCWQ{ByAmDyBc@UyAaAgC{AkBiA_@U]Uc@[]S}@k@_@U]W_@UkFeDcF{CoBmAmAu@yAaAw@c@qBoA{@i@q@a@g@[_@U_@U]S_BaAGEECEEGKAACASG"
+              },
+              "start_location": {
+                "lat": 41.4781442,
+                "lng": -72.9221759
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.0 mi",
+                "value": 1545
+              },
+              "duration": {
+                "text": "5 mins",
+                "value": 295
+              },
+              "end_location": {
+                "lat": 41.613003,
+                "lng": -72.8777683
+              },
+              "html_instructions": "Slight <b>right</b> to stay on <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "q~{|Fdaz{LMW?ACAAAA?O@EAGCECIEsA{@_@UCCu@e@s@g@KOEEGEQKaDiBYQeB}@aCqAiAk@eAc@iFsBAAGAWIC?cD_AiCi@oB]iAU{A[gB[o@OaBYcAYA?a@KiA[]G?AA?_@IA?w@QgAQm@IA?A?_@EcCWGAEAIG"
+              },
+              "start_location": {
+                "lat": 41.5999322,
+                "lng": -72.8835457
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "72 ft",
+                "value": 22
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 29
+              },
+              "end_location": {
+                "lat": 41.6131419,
+                "lng": -72.8776251
+              },
+              "html_instructions": "Slight <b>right</b> to stay on <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "gp~|F`}x{LCEACAECEACCCE?C@"
+              },
+              "start_location": {
+                "lat": 41.613003,
+                "lng": -72.8777683
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.8 mi",
+                "value": 2971
+              },
+              "duration": {
+                "text": "9 mins",
+                "value": 527
+              },
+              "end_location": {
+                "lat": 41.6397629,
+                "lng": -72.8755125
+              },
+              "html_instructions": "Slight <b>left</b> to stay on <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "cq~|Fd|x{LE?C?C@CBCBEBA@EDEBC@C?UCuAKoBO]Cc@G]C_BOwAOgAMMASCgBO}AOa@EiAIq@ISCyACS?OAuBA_CCi@Ac@?_@?qBC_@?sDC{FGc@AwEEgAAK?{AAC?oCOgAGIAWAsDME?aAEoCMoCMA?a@CqAI_BGc@CgAEA?a@A_EO{@EcES}AGkEOsAGuX_A"
+              },
+              "start_location": {
+                "lat": 41.6131419,
+                "lng": -72.8776251
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "135 ft",
+                "value": 41
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 6
+              },
+              "end_location": {
+                "lat": 41.6397246,
+                "lng": -72.8760052
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Aircraft Rd</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "owc}F|nx{LFbB"
+              },
+              "start_location": {
+                "lat": 41.6397629,
+                "lng": -72.8755125
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.4 mi",
+                "value": 713
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 151
+              },
+              "end_location": {
+                "lat": 41.6444386,
+                "lng": -72.8804096
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Newell St</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "gwc}F`rx{La@EuAKaAK}@IYAOAS@UF]^GHQT{@lAeA~ACFY`@ILORQZEFkAdBEDGJEDGFIJGFIHIJKHEDCBWXGFCBOLA@a@\\g@f@Uf@GPGVGRAFE`@?@?@A\\?P?X@T"
+              },
+              "start_location": {
+                "lat": 41.6397246,
+                "lng": -72.8760052
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.4 mi",
+                "value": 608
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 105
+              },
+              "end_location": {
+                "lat": 41.6498429,
+                "lng": -72.88058410000001
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Redstone St</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "wtd}Fpmy{LaA?MAI@E?A?]BA@MB_@J_@JC@GBk@NsAXE@G@{ATQ@M@Y?W@_@?aAKiAGgAM_@EC?c@Ec@E_@CC?gBMA?q@I"
+              },
+              "start_location": {
+                "lat": 41.6444386,
+                "lng": -72.8804096
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.3 mi",
+                "value": 477
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 111
+              },
+              "end_location": {
+                "lat": 41.6504387,
+                "lng": -72.874895
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Town Line Rd</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "ove}Frny{LKkBKiBOkDUkEa@mICg@KsBGy@"
+              },
+              "start_location": {
+                "lat": 41.6498429,
+                "lng": -72.88058410000001
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.1 mi",
+                "value": 1843
+              },
+              "duration": {
+                "text": "6 mins",
+                "value": 382
+              },
+              "end_location": {
+                "lat": 41.667007,
+                "lng": -72.8752832
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>S Washington St</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "gze}F`kx{LqE?u@?}A?cS@s@@eB?i@?Y@O?G?wA@kE@g@@K?e@?uB@o@@kA?sA@e@?y@@_A@qA@yB@]?S?gA?]?cA?cBDm@@a@@_CHU@uDJsDJ]@[BW?"
+              },
+              "start_location": {
+                "lat": 41.6504387,
+                "lng": -72.874895
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "39 ft",
+                "value": 12
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 11
+              },
+              "end_location": {
+                "lat": 41.6670237,
+                "lng": -72.87514100000001
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Broad St</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "yai}Fnmx{LA["
+              },
+              "start_location": {
+                "lat": 41.667007,
+                "lng": -72.8752832
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.8 mi",
+                "value": 2854
+              },
+              "duration": {
+                "text": "10 mins",
+                "value": 620
+              },
+              "end_location": {
+                "lat": 41.6919854,
+                "lng": -72.8772736
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>CT-177 N</b>/<wbr/><b>Washington St</b><div style=\"font-size:0.9em\">Continue to follow CT-177 N</div>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "{ai}Frlx{LUBoD`@}BXs@HuAPk@FI@mANO?UBq@Fo@BMAIAIAGCA?MEUKMIMGOGEAECI?EAE?C?A?E@E?E?C@E@E@CB_A\\[NE@QFYLSJ[JKDKBSFA?QDC@C?[HKBa@HA?SDgARG@C@A?y@La@H[D_AHSBQ@SBO@a@DMBq@Fc@DsAL[D[BQBw@JYBo@Ji@FOBA?aAJgAL{@LI@qAPq@HA?QBO@[BE?Q@E?YAE?QCUGq@Qy@[y@a@cCiAk@Wc@Us@[q@[QEc@Oo@SEA[KUGk@OICk@Mu@MoASu@Im@Eo@EWCU?cAAk@?]?E?[@S?s@B]@e@BI@c@DI@}@HE?[Fa@FA?c@HSBa@Je@J_ATs@TuAh@aA^QFKA_AZgA`@YJWJYJWLOFA?OFUFQFQDOBODQ@"
+              },
+              "start_location": {
+                "lat": 41.6670237,
+                "lng": -72.87514100000001
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "354 ft",
+                "value": 108
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 21
+              },
+              "end_location": {
+                "lat": 41.692096,
+                "lng": -72.87598210000002
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Northwest Dr</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "}}m}F|yx{LCgA?CEkBGw@CQ"
+              },
+              "start_location": {
+                "lat": 41.6919854,
+                "lng": -72.8772736
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.6 mi",
+                "value": 1035
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 177
+              },
+              "end_location": {
+                "lat": 41.6946741,
+                "lng": -72.8641121
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Plainville Bicycle Travelway</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "s~m}Fzqx{LIBAGMoA[oDGq@Eo@A??EEi@Gm@?AKmAI}@Gm@E_@IgAE[ASGy@C[Gq@QgASeAKm@?AYuAESSgAWwA_@uBEWWyAi@}CKk@CIo@yDUsAQuAAIIw@IkA?o@"
+              },
+              "start_location": {
+                "lat": 41.692096,
+                "lng": -72.87598210000002
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.3 mi",
+                "value": 412
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 76
+              },
+              "end_location": {
+                "lat": 41.698316,
+                "lng": -72.8636205
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Johnson Ave</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "unn}Ftgv{Lm@Qi@O_AMy@Cg@DO@w@DWBK@o@?{@IICuAa@m@OWEKCWAE?[D[B"
+              },
+              "start_location": {
+                "lat": 41.6946741,
+                "lng": -72.8641121
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "20 ft",
+                "value": 6
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 1
+              },
+              "end_location": {
+                "lat": 41.6983399,
+                "lng": -72.8635595
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Hyde Rd</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "oeo}Frdv{LCK"
+              },
+              "start_location": {
+                "lat": 41.698316,
+                "lng": -72.8636205
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.6 mi",
+                "value": 2586
+              },
+              "duration": {
+                "text": "8 mins",
+                "value": 492
+              },
+              "end_location": {
+                "lat": 41.7208993,
+                "lng": -72.8629407
+              },
+              "html_instructions": "Turn <b>left</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "seo}Ffdv{LGBA@A??ACEEQMm@AEEOEIIKEIq@i@]YWU_Au@KCICM?E@E@GDKNGNENGTCJGPGHMJIBI@G?q@Ec@CoCOUAMAyACu@?c@?mB?a@?kB@c@@A?a@?u@@G?[?c@@g@AS@E?kB?S?wA@]?A?C?}A?yBBc@?]@O?}@@sA@W?]?C?yA@cD@gA?a@@q@?iEBc@@wE?wBBeE@E?eB?}A@k@@o@AC?_@CG?[CsAKQAIAoGHqFHS?c@@c@?c@@aBBI?"
+              },
+              "start_location": {
+                "lat": 41.6983399,
+                "lng": -72.8635595
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "26 ft",
+                "value": 8
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 27
+              },
+              "end_location": {
+                "lat": 41.7208982,
+                "lng": -72.86283949999999
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Meadow Rd</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "srs}Fj`v{L?S"
+              },
+              "start_location": {
+                "lat": 41.7208993,
+                "lng": -72.8629407
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.5 mi",
+                "value": 853
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 197
+              },
+              "end_location": {
+                "lat": 41.7285642,
+                "lng": -72.8630155
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>New Britain Ave</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "srs}Fv_v{L]@g@AyB?c@?c@?}@?q@?m@?c@@E@O@C?O@M@E?Q@kAB[@I?Q@uB@gA@sB@c@@oC@c@@S?gC@}@@a@?E?]?G?[AO@"
+              },
+              "start_location": {
+                "lat": 41.7208982,
+                "lng": -72.86283949999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "341 ft",
+                "value": 104
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 14
+              },
+              "end_location": {
+                "lat": 41.7280486,
+                "lng": -72.8619784
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "obu}Fz`v{LLYBI@C@CPc@DKVq@Vm@FS"
+              },
+              "start_location": {
+                "lat": 41.7285642,
+                "lng": -72.8630155
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "5.3 mi",
+                "value": 8514
+              },
+              "duration": {
+                "text": "30 mins",
+                "value": 1808
+              },
+              "end_location": {
+                "lat": 41.8012418,
+                "lng": -72.8358781
+              },
+              "html_instructions": "Turn <b>left</b> to stay on <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "i_u}Fjzu{LWBIBG?KAc@Gc@Ec@GeAKc@Gc@Ec@Ec@Ey@IwBW{C_@{AKc@EQAQC]EE?c@GiBSgAMYC{D]c@EeAKgAKgAKA?a@EeAKgAMiBSc@Ec@Ec@Ec@GaAKC?c@Ec@Ec@Cc@Ec@Ec@Ea@Cc@Ec@EKAWCgAMa@Ee@Ea@Ec@Ec@Gc@EeAKc@Ec@Ec@Ec@Eo@IU@_@GA?GAWEM?KAe@Ea@Cc@Ec@Cc@EgAIMAy@Gc@Ea@Ec@Ec@CUC}Du@eASUEq@GeAIkBOkBMwBSc@EwAMQAc@Gc@E]CEAm@I_BO[EG?gAKa@GgAKmCWc@E_@ECAUEmB_@k@Kk@KCCIOCEEIECMES?W?K?KCc@Qu@WoAm@a@Q_@Qa@QOIq@]_@S_@S]QCA_@ScAc@_@Sa@Q_@SSIMG_@S_@Sa@S_@S_@SA?aCmA_@QA?_@SaAe@?AaAe@a@SaBw@?AKEu@_@a@S_@S_@QQIgB}@IEaAe@cBy@_@Qa@SaAe@a@S_Ac@AAaAe@_@Qa@S_@Q_@SA?_@S_@QA?_@SaAe@CA]O_@Sa@S_Ae@A?aAe@_@Q?AaAe@aAe@_@SA?aAe@]QA??A_@ScCoA_Ag@wAm@?AWKkAm@aAg@?A_@QA?_@S_@QA?_@SaAe@_@QAA_@Q_@QAA_@QA?_Ae@a@S_@QA?_@SaAe@_@QAA_@QCA]Ma@Oa@O_@Oa@OA?_@Oa@OA?u@YMCgBc@a@Mc@Ka@KqF}Aa@MA?_@MgBe@c@Ka@KA?cAY_Cm@m@Oa@KgBe@A?a@Ka@KeAYeAW[Ig@Mc@Ma@Ka@Kc@K_@IAAWGKC?Aa@Ka@KA?a@K[Ig@Oc@Ka@Ma@Kc@KiA[]KeAWcAYA?cAYa@KA?a@Ka@MA?cAYa@Ka@KeAYA?_@KA?a@Ma@KeAYa@KA?{@UUKUEKCA?UGICA?a@Ka@Kc@Ma@K_@KA?A?a@Ia@Kc@IAA[GkASCAqAQw@IKAWCc@EUAcAKOAc@GA?EAk@Ii@IKEa@KA?_@MMC_Bk@w@[CCa@Sw@_@c@UKMSE{@_@UKa@QWMGEaBu@eBy@aAc@uAq@oAk@a@Qa@QEFIDKAMAQEGCC@A@CFKHGFGJGV"
+              },
+              "start_location": {
+                "lat": 41.7280486,
+                "lng": -72.8619784
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 mi",
+                "value": 290
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 40
+              },
+              "end_location": {
+                "lat": 41.803749,
+                "lng": -72.8352785
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Security Dr</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "whc~Ffwp{LQIu@]OIs@]GEQGOGKEEACAc@McAKq@AA?a@HeABA?c@D"
+              },
+              "start_location": {
+                "lat": 41.8012418,
+                "lng": -72.8358781
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.4 mi",
+                "value": 630
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 197
+              },
+              "end_location": {
+                "lat": 41.8080717,
+                "lng": -72.83786010000001
+              },
+              "html_instructions": "Slight <b>left</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "mxc~Fnsp{LUTGBKBiCZI?OAQ?SEEAeAc@iAg@o@YYKMCO?O?O?C@I?QDOFEBOJMFIFGFY`@GJc@v@q@`BUp@u@zBW~@CJELAHCP?LBV"
+              },
+              "start_location": {
+                "lat": 41.803749,
+                "lng": -72.8352785
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 mi",
+                "value": 197
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 24
+              },
+              "end_location": {
+                "lat": 41.8098083,
+                "lng": -72.8377447
+              },
+              "html_instructions": "Turn <b>right</b> toward <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "msd~Frcq{LIHC@C?A?GA[GEAc@KSGk@IYAM?K@S@E@kB@"
+              },
+              "start_location": {
+                "lat": 41.8080717,
+                "lng": -72.83786010000001
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 mi",
+                "value": 159
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 62
+              },
+              "end_location": {
+                "lat": 41.8109754,
+                "lng": -72.8376866
+              },
+              "html_instructions": "Continue onto <b>Farmington Canal Heritage Trail</b>",
+              "polyline": {
+                "points": "i~d~Fzbq{LABA?A@O@I?UBC?C?EBCFCd@AFABABA@A?A?EAGEWOA?AAA?CCSKAAi@YA?_@S"
+              },
+              "start_location": {
+                "lat": 41.8098083,
+                "lng": -72.8377447
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "95 ft",
+                "value": 29
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 4
+              },
+              "end_location": {
+                "lat": 41.81106339999999,
+                "lng": -72.83736329999999
+              },
+              "html_instructions": "Turn <b>right</b> to stay on <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "see~Fpbq{LCYAQCKEI"
+              },
+              "start_location": {
+                "lat": 41.8109754,
+                "lng": -72.8376866
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "482 ft",
+                "value": 147
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 26
+              },
+              "end_location": {
+                "lat": 41.8118288,
+                "lng": -72.8361065
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Climax Heights Rd</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "cfe~Fn`q{LOFEAE?ACCAAAGMCICOQoAEQCGQc@OYIO]W"
+              },
+              "start_location": {
+                "lat": 41.81106339999999,
+                "lng": -72.83736329999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "489 ft",
+                "value": 149
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 20
+              },
+              "end_location": {
+                "lat": 41.8114333,
+                "lng": -72.83445480000002
+              },
+              "html_instructions": "Turn <b>right</b> to stay on <b>Climax Heights Rd</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "}je~Ftxp{LVmAPi@@?@CT]@EHo@?{B"
+              },
+              "start_location": {
+                "lat": 41.8118288,
+                "lng": -72.8361065
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.6 mi",
+                "value": 1015
+              },
+              "duration": {
+                "text": "4 mins",
+                "value": 218
+              },
+              "end_location": {
+                "lat": 41.8155504,
+                "lng": -72.8295273
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "mhe~Fhnp{LIKCEGCEC]QSKMQW]{@mAWSu@c@w@QIAYCWCK?a@B]BE@o@X]TWXQ\\KRIPMXg@|@SLa@NMFy@@e@GMGMMq@o@c@c@IISOQMGMAAAUDYBYZ_CXcA@CViANw@Hy@@}@@[?o@?E@uABu@AS@S@GDCL?FC@GBK?E"
+              },
+              "start_location": {
+                "lat": 41.8114333,
+                "lng": -72.83445480000002
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 mi",
+                "value": 212
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 52
+              },
+              "end_location": {
+                "lat": 41.8162153,
+                "lng": -72.8271548
+              },
+              "html_instructions": "Slight <b>left</b> to stay on <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "ebf~Fpoo{LAi@KgACGMm@ESQ}@Sq@Oi@e@gBC]"
+              },
+              "start_location": {
+                "lat": 41.8155504,
+                "lng": -72.8295273
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "2.4 mi",
+                "value": 3810
+              },
+              "duration": {
+                "text": "12 mins",
+                "value": 740
+              },
+              "end_location": {
+                "lat": 41.8487133,
+                "lng": -72.812963
+              },
+              "html_instructions": "Turn <b>left</b> to stay on <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "kff~Ft`o{LgA_@a@Ma@OcA]a@Oa@Ma@OcA]a@Oa@Oa@Ma@Oc@MeBm@a@Oa@McA]a@Ma@Oc@MgC{@i@QcDeAcA]sHgCa@Mc@OcBk@a@OiCy@a@O_IiCCCMWECIEMCQKKCYDI?eEuAa@OeJ{CECC@GDIFC?KCUKs@e@]Oa@OcBk@wDoAUIuCeAICcBi@CAaBi@c@OA?_@Mc@O_@MgC}@C?]MmDmAiDgAgC{@c@OGCgFaBa@MkH_CGAa@OqGsBa@OcEsAmAc@a@Oa@Oc@QqDmA{@Ya@Ma@OcA]_Cw@IC"
+              },
+              "start_location": {
+                "lat": 41.8162153,
+                "lng": -72.8271548
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "102 ft",
+                "value": 31
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 4
+              },
+              "end_location": {
+                "lat": 41.84878680000001,
+                "lng": -72.8125992
+              },
+              "html_instructions": "Turn <b>right</b> to stay on <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "mql~F~gl{LAMCKAICSCO"
+              },
+              "start_location": {
+                "lat": 41.8487133,
+                "lng": -72.812963
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "66 ft",
+                "value": 20
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 60
+              },
+              "end_location": {
+                "lat": 41.8489532,
+                "lng": -72.81258079999999
+              },
+              "html_instructions": "Turn <b>left</b> to stay on <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "}ql~Fvel{LAEAAC?G?GBG?"
+              },
+              "start_location": {
+                "lat": 41.84878680000001,
+                "lng": -72.8125992
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "128 ft",
+                "value": 39
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 8
+              },
+              "end_location": {
+                "lat": 41.8492682,
+                "lng": -72.81276989999999
+              },
+              "html_instructions": "Slight <b>left</b> to stay on <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "}rl~Frel{LSHE@EBADAB[J"
+              },
+              "start_location": {
+                "lat": 41.8489532,
+                "lng": -72.81258079999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.7 mi",
+                "value": 2696
+              },
+              "duration": {
+                "text": "8 mins",
+                "value": 486
+              },
+              "end_location": {
+                "lat": 41.8707684,
+                "lng": -72.80366579999999
+              },
+              "html_instructions": "Turn <b>right</b> to stay on <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "}tl~Fxfl{L]Sq@UeA[a@MGAKQO[{Ag@{@Y{@YgBm@a@MeA_@w@Yw@Sk@@EAmAa@A?eC{@C?eC{@a@MAA_@MkDiAA?oC_AuAc@iKmD_@Mc@OcA]a@MmEyAWKI?KLCJg@vBQr@O^Sd@QRMHA?]BA?c@B?A]I}@e@s@Sc@OYCEAa@BUHUNOLSRIBA?QEMGCAGIIYc@y@Sg@Ug@U_@GKEGEE{@WOOCAE?IBMDq@_@yAw@k@YUMCASOYMSGqAk@gA_@UIcA]SIUGe@QSGAAKCWIKCOCEAKEA?ECMEKGMKKIUSY[c@i@SYIKs@iAKSGKOWWc@IKUYEECCAAAG"
+              },
+              "start_location": {
+                "lat": 41.8492682,
+                "lng": -72.81276989999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 mi",
+                "value": 181
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 21
+              },
+              "end_location": {
+                "lat": 41.8699952,
+                "lng": -72.8017869
+              },
+              "html_instructions": "Turn <b>right</b> to stay on <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "i{p~F|mj{L?M@CNc@N]Pi@HSZ{@JUPc@Po@Ro@?ECI"
+              },
+              "start_location": {
+                "lat": 41.8707684,
+                "lng": -72.80366579999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "3.7 mi",
+                "value": 6005
+              },
+              "duration": {
+                "text": "19 mins",
+                "value": 1165
+              },
+              "end_location": {
+                "lat": 41.9198795,
+                "lng": -72.78220189999999
+              },
+              "html_instructions": "Slight <b>left</b> to stay on <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "ovp~Fdbj{LM_@OQQIc@WA?s@o@c@]iBwAoA{@_Ao@w@g@i@Yi@MYEmB_@IAaBSkBCc@@C@q@@yALg@DcA@A?w@?}@G{@KaBQOA}B[qAQsJqAG?kC]qDe@c@EkBWeAMc@Ga@EoASq@OaA[o@Yu@[cB{@kAo@]SwAqAsBqBmBcCMQKMqBkCcBuCeBiD[q@cCaFuA_Cy@gAYa@GIaB}Ai@a@s@i@_BgAi@W_@S[OeC}@eDy@OEa@Ka@MiCu@c@MWIK?MBGBAJ?FBH@D@HEJEB[G]Ke@a@AECCCGAGCa@CGECoCq@eCs@aBe@mB[YEs@KaAOwBQ{@GG?_AIq@GA?mCSUCKAgAIsDYUCo@EkBOA?w@IMAy@GiAIm@GUAMAA?a@E_@CYCMA{Jy@KAA?uCU[Cc@EUCKAA?uEa@a@EA?iBOy@I}@KWAqAI_Ca@A?c@Ia@GMC}B]A?c@IsCa@[IeASc@Ka@Ic@Ia@KA?aASc@KA?cAUA?c@IcAUc@Ic@Io@M}AWMCQEA?a@GAAMCe@EC@CBADABE@SG}@WOC"
+              },
+              "start_location": {
+                "lat": 41.8699952,
+                "lng": -72.8017869
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.0 mi",
+                "value": 1612
+              },
+              "duration": {
+                "text": "5 mins",
+                "value": 293
+              },
+              "end_location": {
+                "lat": 41.9300893,
+                "lng": -72.7899336
+              },
+              "html_instructions": "Turn <b>left</b> to stay on <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "gnz~Fvgf{LKDEJCLGZG`@Id@CN?JAN@XKr@Gb@?@G^CJCJELGNWXcClDY`@e@p@GRCLi@vFKdA?@KlAIl@GJEHGFIBWCMAMBIFIL?@MZSt@?@CJu@vCCHu@tCYpAWn@QVIFIBK@WAEAeCS[Iq@IwAMSAA?C?WAu@KcCWa@EA?{AOYCiAEUCc@EwFm@c@G}@Im@GMASK"
+              },
+              "start_location": {
+                "lat": 41.9198795,
+                "lng": -72.78220189999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.5 mi",
+                "value": 866
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 165
+              },
+              "end_location": {
+                "lat": 41.9286175,
+                "lng": -72.7798499
+              },
+              "html_instructions": "Slight <b>right</b> to stay on <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "an|~F`xg{LK@GAAC@GF]JeAN}AB[BSb@kFFo@^uE`@sEPaCPqB@c@BkADgA?A?KHqA?KFc@h@mEDYP}AZyC"
+              },
+              "start_location": {
+                "lat": 41.9300893,
+                "lng": -72.7899336
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.8 mi",
+                "value": 1364
+              },
+              "duration": {
+                "text": "5 mins",
+                "value": 295
+              },
+              "end_location": {
+                "lat": 41.9400817,
+                "lng": -72.7749008
+              },
+              "html_instructions": "Turn <b>left</b> to stay on <b>Farmington Canal Heritage Trail</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "{d|~F`ye{Lk@KkAOc@Ic@GcAMuEs@OCSEoDo@c@ImEy@eASAAoCi@[K_Aa@CA]Q]U?A_@WQMUQOM_@c@MOMOWYCCY_@WYCEY_@OQKMc@g@]]SQMKOKKISMQKMGUKKCa@OQG[K_@IYE]GE?c@GE?]Ea@Gc@Ec@GeAMe@Ga@K"
+              },
+              "start_location": {
+                "lat": 41.9286175,
+                "lng": -72.7798499
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "23 ft",
+                "value": 7
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 75
+              },
+              "end_location": {
+                "lat": 41.9401362,
+                "lng": -72.7749377
+              },
+              "html_instructions": "Slight <b>left</b> onto <b>CT-189</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "ol~~Fbzd{LEBEB"
+              },
+              "start_location": {
+                "lat": 41.9400817,
+                "lng": -72.7749008
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "4.6 mi",
+                "value": 7442
+              },
+              "duration": {
+                "text": "24 mins",
+                "value": 1424
+              },
+              "end_location": {
+                "lat": 42.0026048,
+                "lng": -72.7706413
+              },
+              "html_instructions": "Slight <b>right</b> onto <b>Farmington Canal Heritage Trail</b><div style=\"font-size:0.9em\">Entering Massachusetts</div>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "{l~~Fjzd{LcAOeASAAa@Gw@OuBg@A?KCeFwAA?]KA?a@MiCw@A?UGIEeBo@AA[Me@Sa@O_@QAA{@_@gAe@AAcDyA]MCCA?}BeAgB{@A?_@Q_@ScBw@a@S_@QAA_@OaAe@AA[OAAa@QAA_Ac@a@S_@Qa@SgGwCy@a@iBq@aFiCa@SAAQIsDaBYMg@Sa@OAAa@O_@Ma@Oa@OWIm@OA?_@Kq@Ow@Oa@Ic@IAAcASc@Ia@Ic@Ka@IgASa@IAASEMCgB_@c@KA?CA}@Ya@Ma@MAAYIGCa@MA?_@Ma@MGC{@[SGMEa@OA?_@OKCw@_@aAe@_@Q?A_Ak@A?GEWM_@Qa@S_@Sa@QAA]QCA[QaB_A_@SAA]S_@Sa@U{@g@cCyAAA}A_A_DmBAAIEuCaBqBiAOI_@U_F{CA?}EyCAA]SUOmCsAA?]Q_@S{@QYKc@Qw@IMAc@ESAO?cA@mBPwA`@o@Za@PaBt@eDbB_@TwDnBm@Z_@R_@PeDbBcErBgElBeCfAMF_EzAcBf@yAd@qA`@a@NeAZcA\\eBj@WJIBa@Lc@LgCz@a@LoFfBoA`@cKpD}K~Da@NkE~Aa@Na@NuAf@sAf@eC~@KDUHa@La@Nc@Na@LQFQFE@YHa@Na@LC@]LgBj@A?_@Li@P{@\\cBp@a@NC@A@}Av@]PA@A@]TaFhDWP"
+              },
+              "start_location": {
+                "lat": 41.9401362,
+                "lng": -72.7749377
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "5.3 mi",
+                "value": 8608
+              },
+              "duration": {
+                "text": "28 mins",
+                "value": 1654
+              },
+              "end_location": {
+                "lat": 42.0755315,
+                "lng": -72.7477717
+              },
+              "html_instructions": "Continue onto <b>Southwick Rail Trail</b>",
+              "polyline": {
+                "points": "gsj_Gn_d{LmAv@QJ_@V_@T_@TWPGD]V_@VQJMH_@RSJo@R_@LA?c@Hc@Fq@JSDoAPwBNoE^cBN}ANiANwCHcCC_EUSCw@KKEWKkB[YEsCa@]Ga@GMCOAM@SHOBMCYEiBW}AWoDi@aBWoASaAOOEGEEEGEGGGGMEe@M]Ec@I{GeAs@O_@EU@I?K?WC}@O_BUGAiBYg@I_@GeAQSEq@KSCyB]]GEA[GGAwAYOGcA[a@OKCUKa@Qy@a@i@U_@SEA[Q_@SuBgAqDiBa@SeHqDaAg@aCmAcB{@yAu@GCaCoAcAe@gAi@oAg@iBi@kE}@G?A?c@EUAyBCyGC_GCuNGgA@A?sB@{DAQ?A?gDCI?A?c@?q@AwAAaBIMCeAKA?KAWEiAO]EAA}@Kk@Ic@GgBWSCQCa@EIA[GOCs@OAAi@MYEA?a@Ia@IA?c@IeAQa@Ic@I]IC?A?a@I_AOEAA?a@GGAYE?AA?WGk@QCAu@O]MMGA?MGSGAAO?O@A?G@KCQGu@YUEO@IBKBM?GAA?C?cAQs@SOCa@GAAa@GGA[G]GCAA?a@IkCg@A?]GCAeAQOCu@OAAeB]AAcASA?iAU_AQA?AAKAKCICOCQEA?y@Qw@U]G]EMCSCA?GAgAUaAS[EAAc@Ga@Ia@GA?YGeAUk@KuBc@w@U?AOESGGA]Qc@UGAA?E@C@C@MAC?CACCEEIE_@[US_@Y_@[}AiAw@m@_@[_@[uAiAsGeF_As@u@i@iBwAcAw@WQ_@YaAw@ECQOc@a@A?o@k@i@a@]Y]W}@q@]YA?]W{@s@SMKI?A]WAAYUAAAA[W_@Y]YA?[WAA]W?AOKMK]W_@W?A]W_@YOMkA}@aAu@_Aw@[Wg@_@i@]a@[AA]YOOMK?Au@m@c@_@OMOKSOOQGEGGEE?AACAC?AAC?E?C@G@EBGHS?A@A?CAA?AAAAE"
+              },
+              "start_location": {
+                "lat": 42.0026048,
+                "lng": -72.7706413
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.8 mi",
+                "value": 1349
+              },
+              "duration": {
+                "text": "4 mins",
+                "value": 257
+              },
+              "end_location": {
+                "lat": 42.08708559999999,
+                "lng": -72.74500929999999
+              },
+              "html_instructions": "Turn <b>left</b> to stay on <b>Southwick Rail Trail</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "a{x_Gpp_{LECAAA@A?ABA@KJGFEDA@EBE@C?G?IAQEMG_@[]YGGs@m@?A]WSQ_@USOg@g@{@w@e@a@_@USMKGq@_@w@]w@[gAa@GCg@MUAQAwBMaBKs@?O?w@?}@?qA@oB@aA@c@@O?gABS@s@BS?gA?c@?{@?o@?c@AU?i@CG?c@CYCIAc@CMAe@Ge@Gs@O"
+              },
+              "start_location": {
+                "lat": 42.0755315,
+                "lng": -72.7477717
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.6 mi",
+                "value": 927
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 161
+              },
+              "end_location": {
+                "lat": 42.09517899999999,
+                "lng": -72.74326909999999
+              },
+              "html_instructions": "Continue onto <b>Columbia Greenway Rail Trl</b>",
+              "polyline": {
+                "points": "ic{_Gh__{LkAYEA_AWKCUIsAc@SGa@KUGKCiBa@gBa@UGMCcAYeAYiCs@a@MgAGOWCCCCA??AA?A@A?CBGDC@C?K?C?S?UAkAOS?U?M?O?S@c@@c@@gADC?G?W@c@BgADgAD"
+              },
+              "start_location": {
+                "lat": 42.08708559999999,
+                "lng": -72.74500929999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.2 mi",
+                "value": 1999
+              },
+              "duration": {
+                "text": "6 mins",
+                "value": 361
+              },
+              "end_location": {
+                "lat": 42.11313579999999,
+                "lng": -72.7444313
+              },
+              "html_instructions": "Continue straight to stay on <b>Columbia Greenway Rail Trl</b>",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "{u|_Glt~zLW@Y@uBBc@@I?aBDc@@c@@iBDc@@c@@c@@gAB}ADc@@c@@c@Bc@@c@@c@@c@@c@@kBF_@@C?c@@c@@a@@_@@kA@c@@I?Y@c@@c@@c@Bc@@c@@c@@kBFc@@c@@c@@c@@c@@c@Bc@@U?QB_@?C?M?E@U?M@c@@S@s@@c@BgABu@@u@Bc@@c@@cAByDHeABc@@c@@a@@iADgABy@@M@c@@a@@e@@a@@e@@y@FK@S@OB]BYDOB"
+              },
+              "start_location": {
+                "lat": 42.09517899999999,
+                "lng": -72.74326909999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.4 mi",
+                "value": 713
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 164
+              },
+              "end_location": {
+                "lat": 42.1193629,
+                "lng": -72.74631149999999
+              },
+              "html_instructions": "Continue straight to stay on <b>Columbia Greenway Rail Trl</b>",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "cf``Gt{~zLYD_@J_@HWD_Bd@GBMBUHE@i@NA?IBUHKBUHKDQDOFeAZUHiAXI@WH_@LA?MDUF_@L_@JA@a@LA?a@Jg@LUDUDUDC@WBa@FG?a@D[DI?g@B]BA?c@?a@?_@C"
+              },
+              "start_location": {
+                "lat": 42.11313579999999,
+                "lng": -72.7444313
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.3 mi",
+                "value": 484
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 134
+              },
+              "end_location": {
+                "lat": 42.1236378,
+                "lng": -72.74682159999999
+              },
+              "html_instructions": "Keep <b>right</b> to stay on <b>Columbia Greenway Rail Trl</b>",
+              "maneuver": "keep-right",
+              "polyline": {
+                "points": "_ma`Glg_{Lw@AM?O?EAG?[Cc@Ca@CKA]AEAc@C_@CMAUAMASA]?E?_@?C@c@BA?a@Dc@FK@MBg@NKBWHcA\\c@NOFODu@V"
+              },
+              "start_location": {
+                "lat": 42.1193629,
+                "lng": -72.74631149999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.4 mi",
+                "value": 641
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 120
+              },
+              "end_location": {
+                "lat": 42.1290111,
+                "lng": -72.7476897
+              },
+              "html_instructions": "Continue straight to stay on <b>Columbia Greenway Rail Trl</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "wgb`Grj_{LUHGDcA`@WJIBWLIBYLg@VaAd@_@PUJKFg@Va@P[NE@IDUJQHQHSHMDGBa@JA?QDO@E@YBC?WBK?E?]AE?]CGAYCA?a@MC?_@M]OA?ECUMECOKMKUQGGUSWW"
+              },
+              "start_location": {
+                "lat": 42.1236378,
+                "lng": -72.74682159999999
+              },
+              "travel_mode": "BICYCLING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "{_c{Frvb|L_LsHuJuD}HgAeBfCeEpEyZtK}f@xPaOtFce@vIeSiAgYaEcNoE}EaCwOiIoXsNeDmC}UuKcr@i_@gQkJiIkE}B{BP}DyCuFiKcNmHuHcHxOW~FgCjB{F^a^|@my@hBic@aGmZ{FmXcRsMaKqA|BoCuByJsHe@{BkHuIkJkBcHl@qUbHkCw@{GzDeHlBoFlGaEdFiFfB{HmAuK_E_FFoErBmJ`BeGEkDj@qD|C_ErEyHhFgVrEc]`KqOm@uY~EyOjGqLhAeJ~Dsw@tYwJxB}GQmJcDcE}CkAJ{GgCu[mL}JgGwZwUuHaCiPP{\\fDeGxAgArA{DCgKY[c@gDe@mHwFoC}CkG}HoJyEeYVao@b@uR?yJoDg^q[kWsSqKmEoYeEgb@rCeT|Cc^fEu]|CiM_AeHwAem@cMwZcG_`@uKsLgJsGaHoQqOu`Ayl@{c@cVcm@gMu]cCelAqCoT}@sd@_BY|AwCW{BKmAfAqE|GwEvF{BtDGbA_A`AmBTuGtA_Q_A}@uB[uGgAuTyEy@sC?gYBiKFkOHuc@v@_FHsH|@wF\\kCy@{FrB}Y|DwOhBsSwHqQuBkLx@aSnG}Bh@a@eG}BsWeGa_@qBkPaIe@eLaAgCaEgCoA}@rBgWK}PDchANml@VsMHcAg@n@_DmGq@i_@wDoWiC}^iDws@kHgQeDuNuFub@_Ti_@uQs`@yR_a@oNeaA_WsX}FmJwAwUoKsGwB_A^}DmAsE[iHbA{FoBwBG_BpAaFzNmI]qAhA{CqCaCkFLoCb@wAUqCeAs@aDcDsB[iEpBkA|B}Bf@gEyClBcUb@uBs@kGmAaFoE{AqHiCqf@gPy|@}YipAmb@{CiC}@P_F_A_MeFy]sKcX}I_C~GoD_@uE@uA[sD{EuNeG}G{BaHgJpCeKwGyFmLcFmNBuNuAs\\iE{NgFgQ}SyOoWoQgIsHiBM`AoBqB}PeE_OoAiUiBot@eHw_@wG_C@i@|Ee@zBuDhF{AjIaAdFiBfBwD~M_FSsSiB}LuAnAiNtDcf@r@qG_Em@eXsEmHcCsCkCmHqHyc@_J_i@_Uw[oOcScHk]yI}c@oVqa@_UcJQwTjKe]vOyPpF}|@d[_M`EiWfNkLtFiVbCwTmAo[}D}RuDuUoDgWwKsYaO_QeFwx@Y_b@mFeQwD{ZeFy^oHoDgAq_@_ZaVkR_VsRBqAeBX{MkKgK_C_PEyQA{OmDqSmF{GAkn@~AykArDyUzGaJlA_La@gId@_O|F_IfD{FGkEqC"
+      },
+      "summary": "Farmington Canal Heritage Trail",
+      "warnings": [
+        "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+      ],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}
