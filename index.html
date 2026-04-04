@@ -1,6 +1,6 @@
 <html>
-<head>
-    <meta charset="utf-8">
+  <head>
+    <meta charset="utf-8" />
     <title>Bike Route from Saved Google JSON</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
@@ -8,9 +8,12 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.5.1/gpx.min.js"></script>
     <script src="https://unpkg.com/@turf/turf/turf.min.js"></script>
     <style>
-      #map { height: 80vh; width: 100%; }
+      #map {
+        height: 80vh;
+        width: 100%;
+      }
       .route-label {
-        background: rgba(255,255,255,0.8);
+        background: rgba(255, 255, 255, 0.8);
         padding: 3px 6px;
         border-radius: 4px;
         border: 1px solid #ccc;
@@ -26,37 +29,49 @@
         padding: 6px 12px;
         font-weight: bold;
         cursor: pointer;
-    }
-    #completionBox {
-    position: absolute;
-    bottom: 10px;
-    left: 10px;
-    z-index: 1000;
-    background: white;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    padding: 6px 10px;
-    font-size: 13px;
-    font-family: sans-serif;
-    box-shadow: 0 1px 5px rgba(0,0,0,0.4);
-  }
+      }
+      #completionBox {
+        position: absolute;
+        bottom: 10px;
+        left: 10px;
+        z-index: 1000;
+        background: white;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        padding: 6px 10px;
+        font-size: 13px;
+        font-family: sans-serif;
+        box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4);
+      }
     </style>
   </head>
-<body>
-  <div id="map"></div>
-    <div id="nav-buttons" style="position: absolute; top: 10px; left: 10px; z-index: 1000;">
-        <button onclick="panToBoston()">📍 Boston</button>
-        <button onclick="panToPhilly()">📍 Philly</button>
-        <button onclick="panToAlexandria()"> 📍 Alexandria</button>
+  <body>
+    <div id="map"></div>
+    <div
+      id="nav-buttons"
+      style="position: absolute; top: 10px; left: 10px; z-index: 1000"
+    >
+      <button onclick="panToBoston()">📍 Boston</button>
+      <button onclick="panToPhilly()">📍 Philly</button>
+      <button onclick="panToAlexandria()">📍 Alexandria</button>
     </div>
-    <div id="completionBox" style="position: absolute; bottom: 10px; left: 10px; background: white; padding: 8px; border-radius: 5px;">
-        <strong>Minuteman Trail</strong><br>
-        Completed: <span id="milesDone"></span> mi<br>
-        Remaining: <span id="milesLeft"></span> mi<br>
-        Total: <span id="totalMiles"></span> mi<br>
-        (<span id="percentDone"></span>%)
-      </div>
+    <div
+      id="completionBox"
+      style="
+        position: absolute;
+        bottom: 10px;
+        left: 10px;
+        background: white;
+        padding: 8px;
+        border-radius: 5px;
+      "
+    >
+      <strong>Minuteman Trail</strong><br />
+      Completed: <span id="milesDone"></span> mi<br />
+      Remaining: <span id="milesLeft"></span> mi<br />
+      Total: <span id="totalMiles"></span> mi<br />
+      (<span id="percentDone"></span>%)
+    </div>
     <script src="map_script.js"></script>
   </body>
-  
 </html>

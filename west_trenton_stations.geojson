@@ -1,0 +1,207 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_name": "West Trenton",
+        "stop_lat": 40.2573,
+        "stop_lon": -74.8155
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.8155, 40.2573] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_name": "Yardley",
+        "stop_lat": 40.244,
+        "stop_lon": -74.829
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.829, 40.244] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_name": "Woodbourne",
+        "stop_lat": 40.2046,
+        "stop_lon": -74.8813
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.8813, 40.2046] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_name": "Langhorne",
+        "stop_lat": 40.1794,
+        "stop_lon": -74.9106
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.9106, 40.1794] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_name": "Neshaminy Falls",
+        "stop_lat": 40.1672,
+        "stop_lon": -74.95
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.95, 40.1672] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_name": "Trevose",
+        "stop_lat": 40.1392,
+        "stop_lon": -74.983
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.983, 40.1392] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_name": "Somerton",
+        "stop_lat": 40.1263,
+        "stop_lon": -75.0097
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.0097, 40.1263] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_name": "Forest Hills",
+        "stop_lat": 40.1132,
+        "stop_lon": -75.0362
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.0362, 40.1132] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_name": "Philmont",
+        "stop_lat": 40.1037,
+        "stop_lon": -75.0557
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.0557, 40.1037] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_name": "Bethayres",
+        "stop_lat": 40.0964,
+        "stop_lon": -75.0674
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.0674, 40.0964] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_name": "Meadowbrook",
+        "stop_lat": 40.0835,
+        "stop_lon": -75.0825
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.0825, 40.0835] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_name": "Rydal",
+        "stop_lat": 40.0726,
+        "stop_lon": -75.0972
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.0972, 40.0726] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_name": "Noble",
+        "stop_lat": 40.0609,
+        "stop_lon": -75.1102
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.1102, 40.0609] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_name": "Jenkintown-Wyncote",
+        "stop_lat": 40.0947,
+        "stop_lon": -75.1275
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.1275, 40.0947] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_name": "Elkins Park",
+        "stop_lat": 40.072,
+        "stop_lon": -75.1267
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.1267, 40.072] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_name": "Melrose Park",
+        "stop_lat": 40.0595,
+        "stop_lon": -75.1295
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.1295, 40.0595] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_name": "Fern Rock Transit Center",
+        "stop_lat": 40.04,
+        "stop_lon": -75.132
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.132, 40.04] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_name": "Temple University",
+        "stop_lat": 39.9819,
+        "stop_lon": -75.1553
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.1553, 39.9819] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_name": "Jefferson Station",
+        "stop_lat": 39.9524,
+        "stop_lon": -75.1598
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.1598, 39.9524] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_name": "Suburban Station",
+        "stop_lat": 39.9522,
+        "stop_lon": -75.1652
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.1652, 39.9522] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_name": "30th Street Station",
+        "stop_lat": 39.9556,
+        "stop_lon": -75.182
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.182, 39.9556] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_name": "Penn Medicine Station",
+        "stop_lat": 39.9493,
+        "stop_lon": -75.1932
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.1932, 39.9493] }
+    }
+  ]
+}
