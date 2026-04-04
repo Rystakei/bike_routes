@@ -1,0 +1,143 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "partial_match": true,
+      "place_id": "ChIJJxxp_DGf44kRPqXH44M425Q",
+      "types": [
+        "establishment",
+        "park",
+        "point_of_interest"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJ_xxpJUV244kR1oINhyrAI8w",
+      "types": [
+        "establishment",
+        "point_of_interest"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 42.4859342,
+          "lng": -71.15739669999999
+        },
+        "southwest": {
+          "lat": 42.41852249999999,
+          "lng": -71.2773993
+        }
+      },
+      "copyrights": "Powered by Google, \u00a92025 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "8.3 mi",
+            "value": 13315
+          },
+          "duration": {
+            "text": "43 mins",
+            "value": 2586
+          },
+          "end_address": "Mill St. at Minuteman Bikeway, Arlington, MA 02476, USA",
+          "end_location": {
+            "lat": 42.41852249999999,
+            "lng": -71.15739669999999
+          },
+          "start_address": "Depot Park, Bedford, MA 01730, USA",
+          "start_location": {
+            "lat": 42.4859342,
+            "lng": -71.2773993
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "4.2 mi",
+                "value": 6795
+              },
+              "duration": {
+                "text": "23 mins",
+                "value": 1398
+              },
+              "end_location": {
+                "lat": 42.4463416,
+                "lng": -71.2207502
+              },
+              "html_instructions": "Head <b>southeast</b> on <b>Minuteman Commuter Bikeway</b> toward <b>Unblazed</b>",
+              "polyline": {
+                "points": "a`ibGvj`rLDADEDG@K?AAe@?]?k@F_B@SH{ALeA@GR}@Rs@FS?C`@gAL_@NYJSXg@~@kA~@mAHIxAeB`EyEZ_@RUBCxBaCxB_C`@e@LO`EyEb@g@hAsA\\_@pA}AZ]Z_@Z]lB{BrA}AjCyCX_@rA{ApA{Av@_AV[^a@Z_@Z]Z]Z]VYBEZ]Z_@v@}@Z]t@}@vAaBXc@pA}At@}@d@k@v@gBFKLYTg@pAuC|@aC\\}@Vw@BEPg@v@uB@Eb@mA@ENa@BENc@@EL]Vs@b@kATo@Pa@Pi@BE?ANa@Ro@Ri@`@kA@EJWFQPi@Lc@To@Pi@b@uAPi@Pi@Pi@Pi@Pi@La@BGHQHW@CPc@?APe@\\u@f@oAZs@`AcCv@}A`@y@JOVc@Vc@n@eAZa@Z_@NQnA_BDEX_@Z_@X_@Z_@Xa@HIPSX_@Z_@pA}ABCT_@n@gAx@uAVc@BGf@cATe@Te@BELe@Nk@rAeFPqAH}A?ADo@JgBT_E@ERyDBi@?C?AHm@Fo@?AHm@D_@Fa@FYJi@@CNi@@?HYDQTw@NWVe@fAkBBGTW?AZ]LOLM?ANOXSf@]j@Yx@e@DCh@QTGVIHAt@It@G^Er@Gx@Gd@GTC^GXCXC`@EVEPAXAlCUb@EF?b@Eb@Ej@ATCjAOd@C`@EfAI`@EpAKXEb@G`@G^EvAg@PI^SbAk@x@k@p@i@^[\\[f@a@dAyAHKFKn@aATg@r@wAPe@N]Pi@@E^cBHg@Jm@Lm@Jk@BMF]Jm@DOBQJm@XyA?AJk@?AJk@@AJk@Jk@?A@AVwA?An@wDp@gDRcA@E@C@A@ABAL?"
+              },
+              "start_location": {
+                "lat": 42.4859342,
+                "lng": -71.2773993
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "2.5 mi",
+                "value": 4026
+              },
+              "duration": {
+                "text": "11 mins",
+                "value": 686
+              },
+              "end_location": {
+                "lat": 42.42525639999999,
+                "lng": -71.1847909
+              },
+              "html_instructions": "Slight <b>left</b> to stay on <b>Minuteman Commuter Bikeway</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "shabGthuqLDC@??A?A?E?MAs@AI?I?GDQh@oB@CLg@BINk@La@@E@CNi@HWBGBKFSHUL]DI?CLW?ADILWBCDG@AHQDGDGP[DIHMNSj@{@T[JKZ_@RU@ADERWDGNQJKtAoABC@?x@u@\\[hB_BJI@AnA}@JK@?x@s@^YfA_AhAgAt@m@TQHEpAw@p@i@@?fA{@RO|BkBXU\\[TQFE@?ZW@Az@o@@?bBqATQ@?\\WZW@A^Yv@m@BCNMNMnAaARQ@?HGz@s@^Yr@k@|AkAzAmAHGp@i@HGJIROnAeAh@a@NMjA}@\\Yv@o@BCzAmAZUBA\\Yt@m@DEpAcAHIx@{@t@aADGXg@p@mAP]J[Pg@@?H]HWJa@H[J_@FYBIBMFUBSHW\\uALc@p@kCNm@Nk@\\uAv@}CLc@`@uANi@J_@BKNk@Nk@DOJY`@uAH]ZmATcA?ALk@Jm@V{ANsA@IFo@@QB[?ABMB]Bk@TyDJqCDo@Bo@?MDq@Bs@Dq@@[HkB@U@I@YFgA@YBq@LmCBo@FaB@OLiCJiBBk@Du@?G?yA"
+              },
+              "start_location": {
+                "lat": 42.4463416,
+                "lng": -71.2207502
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.5 mi",
+                "value": 2494
+              },
+              "duration": {
+                "text": "8 mins",
+                "value": 502
+              },
+              "end_location": {
+                "lat": 42.41852249999999,
+                "lng": -71.15739669999999
+              },
+              "html_instructions": "Slight <b>left</b> to stay on <b>Minuteman Commuter Bikeway</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "{d}aG|gnqL?IC_BAg@Co@?CCk@Co@GaBGeAAi@?EAi@ASAOCo@A_@?OCa@?OCo@AY?ECi@?ECi@Co@?GCi@?EAi@E_AMwDA]K}BCo@Co@?CAk@Cq@Ae@?IBo@Bc@@a@@MDo@Do@Do@?KDS@M@AHi@@C?ADODQ@GPo@@GJ_@BKBIDKHSRc@`@_ALUHOFM@ALSj@{@Xe@BEJO\\k@pAsBLUHK?APWDKDGDGLQR]^k@`@o@LSb@s@JQNSHMp@eADIJQJS@EDIDMDIDIJYFMFSHUHYDQBGH[@GJm@Hg@?EHm@Ho@DS?C@U?IHwAHgBFkADi@BQDo@?C?A@A?EDa@@C?A?AHe@?C@AFg@@GHg@DU@G@MH_@D]H[?AH_@BIDOH[@AH_@BI@AFYBI@EPi@H[DOb@sANi@HWPk@FQfAuDFQ?Ar@_C?APg@dAkDr@_C"
+              },
+              "start_location": {
+                "lat": 42.42525639999999,
+                "lng": -71.1847909
+              },
+              "travel_mode": "BICYCLING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "a`ibGvj`rLDAJM@MAcAFkCJoBNmAf@qBv@_CZm@Xg@~@kAhAwAzG_IlD{DzCeDnEiF|EyFnOkQ`EyEnByBtHyIXc@pA}AzAiBlAmCfB}DzA_El@eBrBwFbCyGnByF`CmHtBmG\\aArB_F`AcCxAwCjB}ClFyG|EaGvCaF`AqBXk@\\qArAeFPqAH}Af@yIXmFh@qETgAZcAZiANW~AqCX_@h@o@\\_@`Aq@dB_A|Ag@tCYhD[tBUh@GfDWrBQ`AEpBS|Ea@~B[hBq@bB_AjBuA|@w@f@a@dAyAPWdAiBdA}B`@gA`@iBn@oDl@iD~@cFtAaIhAuFBCPAFGCqA?Qn@aCb@aBz@uC\\aA`@{@x@uAzAyB|@cAn@w@fB_BlE{D~AkAxAmAfA_AhAgAjA_AzA}@r@i@rFmEvC}BzC{BxKwIfUsQ|AoAzAmAx@{@t@aA^o@bAkBh@aBj@uBVgAhDaNfCmJp@aCj@sBp@qCX{AV{ANsAHy@Do@`@qGf@sL\\yHZoHb@uI?aBCiBIgCYeIQkF{@iVGmCJcCPoCHo@l@qCXaA~@wB`@u@vA{BjDwF`DcFd@s@nAuBt@mB\\iA`@yBXwBJ{BZoFDu@RwA\\{BZgBR{@h@sBnG}SxBkH"
+      },
+      "summary": "Minuteman Commuter Bikeway",
+      "warnings": [
+        "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+      ],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}

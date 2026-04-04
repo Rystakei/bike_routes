@@ -1,0 +1,190 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "partial_match": true,
+      "place_id": "ChIJr_3DUmC4xokRGL-pB03fvJY",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJg5-0tgG5xokRLfYBK0ceWxk",
+      "types": [
+        "establishment",
+        "parking",
+        "point_of_interest"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 40.0835278,
+          "lng": -75.1927876
+        },
+        "southwest": {
+          "lat": 40.0226357,
+          "lng": -75.23291259999999
+        }
+      },
+      "copyrights": "Powered by Google, \u00a92025 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "5.8 mi",
+            "value": 9394
+          },
+          "duration": {
+            "text": "30 mins",
+            "value": 1772
+          },
+          "end_address": "200 W Northwestern Ave, Philadelphia, PA 19128, USA",
+          "end_location": {
+            "lat": 40.0835278,
+            "lng": -75.23291259999999
+          },
+          "start_address": "Wissahickon Bike Trail, Philadelphia, PA, USA",
+          "start_location": {
+            "lat": 40.0226357,
+            "lng": -75.1992942
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0.3 mi",
+                "value": 427
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 84
+              },
+              "end_location": {
+                "lat": 40.02465919999999,
+                "lng": -75.1951048
+              },
+              "html_instructions": "Head <b>northeast</b> on <b>Wissahickon Bike Trail</b> toward <b>Yellow Trail</b>",
+              "polyline": {
+                "points": "o|gsFpj~iMOk@AEOi@GUESACGWCOAIM]CEQ_@Wc@Q_@CEk@iAACQ[ACIQs@{B?GEKEKGI?AEGKKGGEECCCCACAAGKGIEIGK?AAAAEAECSEOCQ?AGWEQAE"
+              },
+              "start_location": {
+                "lat": 40.0226357,
+                "lng": -75.1992942
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 mi",
+                "value": 399
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 103
+              },
+              "end_location": {
+                "lat": 40.0276309,
+                "lng": -75.192797
+              },
+              "html_instructions": "Turn <b>left</b> to stay on <b>Wissahickon Bike Trail</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "cihsFjp}iMAAA?ICQEA?QEs@MAAa@IKEUG]KCAKEMIEEIKQQEGSUSWEGMQEICGS]Yi@CGS_@OQGKOQKKOMMKCC[QMG?AQIa@@"
+              },
+              "start_location": {
+                "lat": 40.02465919999999,
+                "lng": -75.1951048
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.9 mi",
+                "value": 3043
+              },
+              "duration": {
+                "text": "9 mins",
+                "value": 544
+              },
+              "end_location": {
+                "lat": 40.0430757,
+                "lng": -75.2121441
+              },
+              "html_instructions": "Slight <b>left</b> onto <b>Forbidden Dr</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "u{hsF~a}iMC?ORILORGHQb@EJCDABABCN?F?F?F?D?B?F@BD\\Jj@?@FVBL?BBJHZ@BFTBH?D@B?B@F?H?B?J?FAZ?R?@AR?L?H?Z?J?L@N@H@D?@@PBP@@?DBP?D@D@J?B@F?H@D?D?H?@?DA??HCLCLAHABAFCDCLCDABCFCDCBCBCDA@CFGLCDAB?@AB?@CDADAFALA@?B?@?DAJAF?H?BAF?@CR?DCHADINGHA@GJQNA@IHIDKBM@S?A?I?M?K@A?MBOFA?IDSHC@KDUHKDIBK@M@O@E?O?UAQEMEEA[IA?a@KOEKCKAGAI?KAM@G?K@A?G@G@IBGDC@EDKLEFC@EJGLCFADEHEJGHA@ILGBGFC@IFKFEDEDIFKNCBKRGHCFGJKNCFCDEHEJ?@GPGRABELELIJIJKHIBGBG?O?K?E?KCC?M?EAK?C?K@A?K?I?E@s@Cc@AC?U@I?Q@WB[D[FE@UDMFI@UDE@SBKBGBMFKBIFWL[RC@OFGBKDIFMJCBEHEHEJCBAJ?L@F@D?@DBFDNL\\V^XHFRL^TTLHFRN@BJJPPDDFHPVTb@?@P^?DFRDV@RBX@J?Z?D@VBT@@Cl@ATEVIf@?BMh@Oj@Oh@GRGTSf@KZGF]\\WVCB]V]VA?]FK@WDWBIBc@JA?]N[LEBIBWJa@PA@SJIFIDIJGFORIJW^A@[\\EDSZW^?@Ub@CBO`@Ud@A@W\\?@W`@CBu@p@]ZCBYREBYPGBy@^CBE@IFKHOLKJA?IHEFKJMJ?@E@GDA@GDIDKDC@IBSFC@KBUFSFKDA@CBEDC@ABCBA@A@A@C?A?A@C?C@C?u@LWFYHc@J_@HA@QFOFCB[Na@P}@n@?@C@WTA?WRIHKJKL"
+              },
+              "start_location": {
+                "lat": 40.0276309,
+                "lng": -75.192797
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.9 mi",
+                "value": 1439
+              },
+              "duration": {
+                "text": "5 mins",
+                "value": 276
+              },
+              "end_location": {
+                "lat": 40.0544654,
+                "lng": -75.2181128
+              },
+              "html_instructions": "Slight <b>right</b> to stay on <b>Forbidden Dr</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "g|ksFzz`jMEDGBMFQDc@JG@[Ha@LYHG@i@N[DMBUBq@FUBOBk@JI@KBUBA?Y?QGYAKAWE]GE?UEKAc@Cc@GKCA?_@KA?]KE?G?SDE@E@UJEBGFIJGJEFOVABSd@EFO\\CFUVOTIHKHQNUNID_@TSHMFOHKDC?KBG@I?E?I?O@I@WDIFYNG@[NC@MBUHMDQHKDQJC@WJIBGBYDQFOJOHKLY^i@p@KLY^IJQP[\\STEHQVEHQXEHINUh@KNOVGHMPKNCBQPEDQNKHCBSNEB[N[NKBQFa@Ja@JOBSBg@DYDG@QF"
+              },
+              "start_location": {
+                "lat": 40.0430757,
+                "lng": -75.2121441
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "2.5 mi",
+                "value": 4086
+              },
+              "duration": {
+                "text": "13 mins",
+                "value": 765
+              },
+              "end_location": {
+                "lat": 40.0835278,
+                "lng": -75.23291259999999
+              },
+              "html_instructions": "Slight <b>left</b> to stay on <b>Forbidden Dr</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "mcnsFd`bjMGDC@GBMBK@E?c@Dc@Bc@DWBcDTcBv@a@PYLEBw@x@[\\_AlA_@XIHSLKFSJ[NCBWPGF[ZMLOJOJMJs@n@}@p@]X]X]V]X]X[TA@_@V_@V]VYRg@Lc@Ja@Ja@Jc@Ja@Ja@Jc@Ja@JUFi@`@_@V]V_@V]VULC@OFGBE@C?OBM?C@M@Q?C@QAMAMCKGGCECSQCCOMMMO]Sk@Og@EMI[GSI]KYSq@Ki@I_@A?Oe@AAIQKSACKSIIEESQCASMKCEAUGGAOAS?C?O?O@[LMDQFA@EBYLC@]L]NYLQFOFGDIFMJEDMNQR[\\ONIL[\\[^SVED[^Y\\QRe@f@[\\[\\CDo@x@GJu@hAMRc@l@OVGHY`@W`@QXEFY`@QXGFW\\A?ONMJMBU@c@BO@_@MMESIWMg@[SOCCWSAAOOKKAAIIGMEGKQIQQWEIOUIKWc@Wa@Wc@CEMOCCSUCCCAUQIEOIIEA?CAGAMAM?E?QFIDULIDULIDIBSFa@JYLKFIDWL_@RMFQJ_@RWNGD_@T[RC@_@TMJOJIFWHa@Na@LKDUH_@NA?_@RC@[PC@]PWNED[Ta@Re@T[JSHMDa@NSJQHA?SLIFKFQLA?KHQNMHONCBWVA?STGFMLKHA@GDGBGBIBMFODC@KFMFEDGFMLEFCDIPGJCHOZSd@?@Qf@GPITQf@?@Mj@ELGZGVERMj@AHK^CJI^Gl@CJC`@Gl@Ij@CPEZ?@GXGTIRELGLEJOb@KZELKXENIXKTGJABCDIFGBGDA@EDE?"
+              },
+              "start_location": {
+                "lat": 40.0544654,
+                "lng": -75.2181128
+              },
+              "travel_mode": "BICYCLING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "o|gsFpj~iMi@qBS_AOg@Ue@yAsC_@u@s@cCKWY_@UUc@u@_@mBEGo@OwAYcA[YOOQ_AgAcB{Cs@{@]Y_@U_@Sa@@SRY`@Yl@MXCf@@TXbBPx@Lh@BXC|A?~@Bf@LjAF|@APKh@Sl@a@p@Ml@En@Eb@ENQX]^SNYDm@?k@LqAf@c@F{@?aCm@i@Ea@B[FKFQRWb@Qb@[\\a@Xa@b@[h@[h@Sh@Ur@SVULOB[?c@C_A@qBCoAJeAVe@Hg@Jc@RgAj@SHWRUb@EN@T@FLHvAfArAx@r@p@^f@f@jALj@Dl@BdADVEbA]lBo@~B_@bAe@d@[Z{@n@cANgARiAd@oAj@e@`@aC`Di@jAo@fA[d@sAlA}@l@eAf@k@`@w@v@WNc@Py@Ta@NYXaBX}A^c@PaAd@aAr@{@r@WXMH_@Lk@L_Bb@eATc@FgAJ{@Nm@HY?QGe@CqAS_BQaAWM?YF[LMJg@v@k@nAs@~@}@n@aAf@[NOBa@@YBa@LaAb@c@L_@Ny@^k@La@R[ViB~BkApAo@dAq@rAq@bAm@j@i@`@uAj@cAVc@FaAJYHa@NyAJ{@HcDTcBv@{@^}@|@[\\_AlAi@b@s@`@w@d@aA|@qAfAwC|BqEfD{G`Bw@RiAx@qBtAa@Ne@Du@@[ESKm@g@MMO]c@sAa@{A_@kAUiA]y@c@u@YWWOo@Ow@AO@[L_@Le@TgBr@WLWRaAfAaDvDoBvBs@~@}@tAiAbBiAdBkA`B_@Zc@Ds@DyAk@wAcA_@_@uA{BqAuBi@o@g@]_@QUCS?{@`@_@R]J{@XULwAt@_B~@mAv@YRy@XcBl@aAf@_Ah@}@h@aA`@wAj@q@^k@^s@l@u@t@c@^uAj@a@b@Yl@c@bAu@vBy@xDYjAWhCSxAYdAc@jAc@rA_@~@]VMF"
+      },
+      "summary": "Forbidden Dr",
+      "warnings": [
+        "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+      ],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}

@@ -5,6 +5,11 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
 
 const riddenLayer = L.layerGroup().addTo(map);
 
+// Colors
+const commuterRailPurple = '#800080';
+const amtrakColor = 'navy';
+const rustyColor = '#8B0000';
+
 // === Trails ===
 const trails = [
   { file: 'cambridge_watertown_greenway.json', label: 'Cambridge-Watertown Greenway', color: '#0074D9' },
@@ -17,7 +22,16 @@ const trails = [
   { file: 'northern_strand_malden_lynn.json', label: "Northern Strand - Malden to Lynn", color: '#2ECC45' },
   { file: 'cape_cod_rail_trail.json', label: 'Cape Cod Rail Trail', color: '#23ECD9' },
   { file: 'pennypack_trail.json', label: 'Pennypack Trail', color: '#23E7D9' },
-  { file: 'farmington_canal_heritage_trail.json', label: 'Farmington Canal Heritage Trail', color: '#2ECC40' }
+  { file: 'farmington_canal_heritage_trail.json', label: 'Farmington Canal Heritage Trail', color: '#2ECC40' },
+  { file: 'forbidden_drive.json', label: 'Forbidden Drive', color: 'orange', dashArray: '8, 8' },
+  { file: 'ash_rail_trail.json', label: 'Ashuwillticook Trail', color: 'turquoise' },
+  { file: 'mount_vernon_trail.json', label: 'Mount Vernon Trail', color: 'orange' },
+  { file: 'delaware_canal_towpath.json', label: 'Delaware Canal Towpath', color: 'red' },
+];
+
+const trainLines = [
+    { file: 'boston_to_new_haven_amtrak.json', label: 'Boston to New Haven (Amtrak)', color: amtrakColor, time: '2 hours and 23 minutes', opacity: 1},
+    { file: 'boston_to_pittsfield_amtrak_lake_shore_limited.json', label: 'Boston to Pittsfield (Amtrak)', color: amtrakColor, time: '3 hours and 52 minutes', stops: 5, stopNames: ['Back Bay', 'Framingham', 'Worcester', 'Springfield', 'Pittsfield'], opacity: 1}
 ];
 
 function loadTrail(trail) {
@@ -28,7 +42,8 @@ function loadTrail(trail) {
       L.polyline(coords, {
         color: trail.color,
         weight: 4,
-        opacity: 0.5
+        opacity: trail.opacity || 0.5,
+        dashArray: trail.dashArray || null  // <-- add this line
       }).bindTooltip(trail.label, {
         permanent: true,
         direction: 'right',
@@ -116,7 +131,8 @@ function calculateProgressWithCoords(riddenLatLngs) {
 }
 
 // === Load All Layers ===
-const commuterRailPurple = '#800080';
+
+
 trails.forEach(loadTrail);
 
 // === Shoreline Greenway Trail (GPX)
@@ -163,8 +179,12 @@ loadGeoJSONLine('providence_line.geojson', commuterRailPurple);
 loadStations('providence_stations_full.geojson', commuterRailPurple);
 loadStations('stoughton_branch_stations.geojson', commuterRailPurple);
 
+// Add Amtrak Lines
+trainLines.forEach(loadTrail);
 
+const alexandriaCoords = [38.804744285975715, -77.0435299474239];
 
 // === Buttons ===
 function panToBoston() { map.flyTo([42.3601, -71.0589], 10); }
 function panToPhilly() { map.flyTo([39.9526, -75.1652], 10); }
+function panToAlexandria() { map.flyTo(alexandriaCoords, 10) };

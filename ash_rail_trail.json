@@ -1,0 +1,214 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "partial_match": true,
+      "place_id": "Ei5Bc2h1d2lsbHRpY29vayBSYWlsIFRyYWlsLCBQaXR0c2ZpZWxkLCBNQSwgVVNBIi4qLAoUChIJP-_x2b-04IkRYrVh41Z38yoSFAoSCT_Mmc-7ROeJESMvkYTtNIjX",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJpeoPyMu34IkRMGPvemRfyxA",
+      "types": [
+        "establishment",
+        "park",
+        "point_of_interest"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 42.6394141,
+          "lng": -73.1087993
+        },
+        "southwest": {
+          "lat": 42.4863347,
+          "lng": -73.2039113
+        }
+      },
+      "copyrights": "Powered by Google, \u00a92025 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "12.2 mi",
+            "value": 19686
+          },
+          "duration": {
+            "text": "59 mins",
+            "value": 3517
+          },
+          "end_address": "Ashuwillticook Trail Actual Endpoint, 65 Print Works Dr, Adams, MA 01220, USA",
+          "end_location": {
+            "lat": 42.6394141,
+            "lng": -73.1090289
+          },
+          "start_address": "Ashuwillticook Rail Trail, Pittsfield, MA, USA",
+          "start_location": {
+            "lat": 42.4863347,
+            "lng": -73.2021622
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "492 ft",
+                "value": 150
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 23
+              },
+              "end_location": {
+                "lat": 42.4871926,
+                "lng": -73.2029157
+              },
+              "html_instructions": "Head <b>west</b>",
+              "polyline": {
+                "points": "qbibGnhx}LCf@Ch@C^I\\ENCBEBE?C?OA[Aa@Ai@KC@"
+              },
+              "start_location": {
+                "lat": 42.4863347,
+                "lng": -73.2021622
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "174 ft",
+                "value": 53
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 9
+              },
+              "end_location": {
+                "lat": 42.48731,
+                "lng": -73.20229259999999
+              },
+              "html_instructions": "Turn <b>right</b> toward <b>Ashuwillticook Rail Trail</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "}gibGfmx}LW}B"
+              },
+              "start_location": {
+                "lat": 42.4871926,
+                "lng": -73.2029157
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "5.3 mi",
+                "value": 8537
+              },
+              "duration": {
+                "text": "25 mins",
+                "value": 1482
+              },
+              "end_location": {
+                "lat": 42.554103,
+                "lng": -73.16524009999999
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Ashuwillticook Rail Trail</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "uhibGhix}Lu@HGBID_@X[Vq@f@ABABCF?D@N@\\BV?VANCFCDEDC@_@Do@?MCEAO@mAZiALA@c@FA?i@BiA@y@@e@CIAo@IMAi@K}@UA?a@KEC[KGCm@Wm@YIEWM_@Qa@S_@SaAe@a@SQIKGeBy@_@SaAe@cBy@IEw@_@aAe@a@S_@QaAe@mB_AWMUKa@WGEYUCCYUCCWWg@i@UUMOMOQSIKU[g@o@qAeBOQYa@qAcBYYOOMMWUECg@a@u@e@IGu@c@A?_@QWKe@S[K[Gu@OaASiAUw@Oq@MsE{@a@IyBa@{Bc@gASeASyGqAGAYGcDq@KCa@I}Cm@u@MeASUEMEiASe@IcAEOAsAQcAEGAg@Gc@Ak@?c@CW?G?iDAc@A_B?o@?c@?iC?E?E?]AoC?EAu@?o@?qBAiA?[?kB?mA?CAY?i@?aA?yD?aDCA?kBE_@AoAEcAG_@EI?s@KIA{AU{AW[Ga@IUCaAWs@OWGKEa@MMEiA_@eAa@KEaAc@GCuAo@g@Wm@[q@]AA_Ag@AA{@k@_Aq@GEgAy@MK]YOMk@e@IESSe@c@s@q@y@}@u@w@AAsAyAOQKKw@{@y@y@]_@w@y@[]eBiBKKuAwAs@w@EC[]wC}CQSy@{@w@y@sA{A]_@EGUUmCsCw@}@q@y@OSACUY]u@[o@Yu@CIM_@AKMm@?AKk@G_@AMKm@AIG_@Gc@CIOs@Mc@EOM]Qa@e@qASk@ACCEQa@sAwCACUg@O[m@sA]y@QUQYEGYc@WYMOi@k@CC][MMkAcA]Yo@i@_Ay@i@i@WUKIQQWW]_@A?AA[_@EGi@y@AA[a@W_@A?Ya@[_@KMg@s@OSIMYa@Ya@q@aA[a@W[]c@UYa@e@o@s@_@c@CAW[CAq@u@GEqBuBCAYYiBmBGGcA}@UQKGSMGEa@USGOGi@QOCYEGA[EGAg@Go@Cs@CC?UAyBISAKAC?]A{@Eo@Eg@KEC[IOEQISIIECA[Se@]YWCAOCO?I@CACCCQ"
+              },
+              "start_location": {
+                "lat": 42.48731,
+                "lng": -73.20229259999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "3.1 mi",
+                "value": 5024
+              },
+              "duration": {
+                "text": "15 mins",
+                "value": 900
+              },
+              "end_location": {
+                "lat": 42.5931204,
+                "lng": -73.1409693
+              },
+              "html_instructions": "Slight <b>right</b> to stay on <b>Ashuwillticook Rail Trail</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "cjvbGvaq}LEUIOKOw@y@y@{@[]mCuCyHgIEEgDgDY[]]eEsEsBsBy@{@}@}@WW[]gAeAcD{DeAeAMMMOwA{AYY]]s@q@}@cA]]GGSUw@{@UW_A_AUUGG[[[]WWk@s@k@m@_AcAUWw@y@KKkDsDm@k@uBqB[[{C{B]YGEw@e@q@a@iEwC_@W}AgA_BeA]WmAy@q@a@_@W}@m@_BcA_@W}AcA_Am@_@U_@WkD{BQM_@U}DmC}@m@_@W_@WgBmAUM_Am@_@W_@UgAs@w@a@a@Sw@a@mA]sAa@{AWa@I_AOmAUa@IgAUa@IeASc@ISEuAUc@Ga@GgAQa@IYEm@Ka@Ic@IkCi@OCw@MeAQiAQaASc@IgCe@g@KkCg@[GmAU{AYM?gA?Y?IBWDKBa@LMBSL_@TQJm@^?@Y^KLKRWd@Ud@Wd@Ud@EFSXMPKL]Z"
+              },
+              "start_location": {
+                "lat": 42.554103,
+                "lng": -73.16524009999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "2.7 mi",
+                "value": 4308
+              },
+              "duration": {
+                "text": "14 mins",
+                "value": 849
+              },
+              "end_location": {
+                "lat": 42.6266204,
+                "lng": -73.1165832
+              },
+              "html_instructions": "Slight <b>right</b> to stay on <b>Ashuwillticook Rail Trail</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "_~}bG`jl}LWJSJM@C@_@BA?Q@O?S?OAEAICQGUIKKQKKIAA[W_@Y]Y]YA?CCYQ_@Sm@]MIEAa@QA?_@OOIOGmAg@}Bw@AA_@MA?a@MA?sAe@OEA?a@O_@MA?a@Oa@MA?_@MAA_@Ma@OA?UIKEa@M_@MAAMESG_@OMEUGa@MAA_@MA?a@Oa@Mu@WKEc@OOEOIA?_@OAAo@Wq@]AASKKGk@a@g@a@EEAAWYCA_@a@Y]IKOO?AY][_@UYEE?AY]AA[_@Y[AAGKi@u@SWGIY[QSKIe@e@SQ_@YWUc@[_@WAA[W_@Ww@k@EE]Wm@g@OKAA]U]W_@W_@YWQGE]W}@o@AAWSCA_@YAA{AgA]WeBqAsAeAoB{AII]YAA[WAA[Wm@g@o@c@]W_@W_@W]WQKo@c@YQCAAA_@O[OEAa@OQGQE]IAAA?a@IAAYGEAe@Ia@Ia@GQESEa@KOG_@Q_@Qa@QA?GCYKEAWQA?ECYS[UA?_@Y]UAA}@o@[c@u@{@s@{@_@a@s@u@q@{@_@m@aCoDuBgCOSyBuCsA_C]m@KWIYc@iAu@oAu@u@y@o@e@a@k@YiAm@MIuAm@a@Qa@QcBs@a@QMGQGs@WuAe@UMYOOIKIIGIEQGQIYMEA]OCA]QA?k@UWKa@Q"
+              },
+              "start_location": {
+                "lat": 42.5931204,
+                "lng": -73.1409693
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.0 mi",
+                "value": 1614
+              },
+              "duration": {
+                "text": "4 mins",
+                "value": 254
+              },
+              "end_location": {
+                "lat": 42.6394141,
+                "lng": -73.1090289
+              },
+              "html_instructions": "Continue straight to stay on <b>Ashuwillticook Rail Trail</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "kodcGrqg}LA?s@YWKaAa@_A][Oa@QKEyAk@oAk@MGAAECeCeA_@QMG_CeAy@]c@Qk@WSGgAc@_@O_@O_@OKEw@]A?[OgAa@SG[MQOEGIKGKIOO[Ua@c@}@KMm@q@QWU_@AA?AQi@?AK[a@mAGOAA?AKOUSUWAAYWyAsACAYUA?q@g@m@e@[S?A[Mg@IA?AA_@Gs@KiAGq@@c@A_@Ic@MYKMCKAWAIAWBu@BYDIHGFIL?@"
+              },
+              "start_location": {
+                "lat": 42.6266204,
+                "lng": -73.1165832
+              },
+              "travel_mode": "BICYCLING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "qbibGnhx}LGpAC^I\\ENIFYA}@Cm@IW}Bu@HQHoB|AEJ@TDt@Af@GLIF_@Do@?SE}A\\kANe@FsBD_BAy@KwBc@kA_@}BeAiI_EkKeF}E_CgAw@}A{AcAiAyC}DuCqD{@w@}AgA_Ak@_Bq@oDw@gVsEqV}E_Dm@oB]sAGsAQcAEo@IkCEyOCu^GcDCkCGsCMi@EuF{@uCm@yBk@iDmAgEoBaDcBeCeBcCmBoBcBeDiDsIeJgMyMeMaNyAkBy@eB]_A]{Aa@gCUwA]wASm@mAcDkBcEqBqEcA{AoAuA{BqBwDgDmAiA}@aAmAeB}CeEaCgDmB_CkBuBoDsDoCqCyAoA_@Ui@[c@Oy@Ua@Gc@GwAKgEOaAEkBKm@OqAc@oAy@]Y_@CM?GUOe@cAiA}OwPeFgFeEsEsBsBwByBs@u@gAeAcD{DsAsAeBkBiDmDqBwBsBuB{BeCyDcEwD_EcD}C[[{C{Be@_@iBgAiFoDiH_FoFkD{MwIyOmKgBiAyAu@w@a@mA]sAa@{AWaBYoB_@sE}@aJyAaFaAiGeA_JcBiB]{AYM?aB?a@Hm@Pa@P_BbAe@l@c@x@iAxBa@j@i@h@k@VQBcADc@AOEg@Q]WiA}@aAw@uBmAiAc@_@QkE_BeA]mEyA_ImCuE{AcDoAsAs@{AkAiCwCiC}CgA{A_AcAqBgBaBmAyEmD{EkDqJiHaG{EgGeEaAc@kA_@kCk@iB]q@S_Ac@eAa@e@WuDkCqA_BsA}AeBqBaD}EeC{CyBuCsA_Ci@eAm@cBu@oAu@u@_BqAuBgAcBw@iEiBiDmAkAq@w@_@eDuAoHyCqJcEkF}BgDsAcCcAyBy@[MQOOSw@yAo@kA_AiAWc@_AuCUc@gAeAyBkB{BcB[Mg@ICA_@Gs@KiAGuA?cAWg@Oc@Ca@@oAHQPIN"
+      },
+      "summary": "Ashuwillticook Rail Trail",
+      "warnings": [
+        "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+      ],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}

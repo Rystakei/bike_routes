@@ -1,0 +1,1139 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "Eh8zNFZWK0MyLCBCcmlzdG9sLCBQQSAxOTAwNywgVVNBIiY6JAoKDcnK5RcVWalh0xAKGhQKEgmVVI-SFk7BiRHX6-tikTkXPA",
+      "types": [
+        "plus_code"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJA6c6bk9rxIkRdln0T5kXtlo",
+      "types": [
+        "route"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 40.688256,
+          "lng": -74.7755979
+        },
+        "southwest": {
+          "lat": 40.0933711,
+          "lng": -75.2528939
+        }
+      },
+      "copyrights": "Powered by Google, \u00a92025 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "64.9 mi",
+            "value": 104469
+          },
+          "duration": {
+            "text": "5 hours 26 mins",
+            "value": 19570
+          },
+          "end_address": "Towpath Bike Trail, Pennsylvania 18045, USA",
+          "end_location": {
+            "lat": 40.6562409,
+            "lng": -75.2528939
+          },
+          "start_address": "34VV+C2, Bristol, PA 19007, USA",
+          "start_location": {
+            "lat": 40.0935571,
+            "lng": -74.8574106
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0.3 mi",
+                "value": 403
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 74
+              },
+              "end_location": {
+                "lat": 40.0956309,
+                "lng": -74.8606351
+              },
+              "html_instructions": "Head <b>south</b> toward <b>Canals End Rd</b>",
+              "polyline": {
+                "points": "wwusFxq{gMNDB?B?B?@?B@@@@@@@?B@??@A@AB?@?D?@?@?@?@?@i@`@y@|@GNGNIRILKFQLSZOPMR[`@EBCHOR[d@SVSXMNGJOPA@IHIFIHGJGLABA@ABADALAVAL?D?B?@A@?@KH"
+              },
+              "start_location": {
+                "lat": 40.0935571,
+                "lng": -74.8574106
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "344 ft",
+                "value": 105
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 16
+              },
+              "end_location": {
+                "lat": 40.0957501,
+                "lng": -74.86186160000001
+              },
+              "html_instructions": "Slight <b>left</b> onto <b>Canals End Rd</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "udvsF~e|gMAJK|B?LIzA"
+              },
+              "start_location": {
+                "lat": 40.0956309,
+                "lng": -74.8606351
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "233 ft",
+                "value": 71
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 27
+              },
+              "end_location": {
+                "lat": 40.0962758,
+                "lng": -74.8613956
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Maple Beach Rd</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "mevsFrm|gMYOCAa@a@OQYU"
+              },
+              "start_location": {
+                "lat": 40.0957501,
+                "lng": -74.86186160000001
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 mi",
+                "value": 156
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 74
+              },
+              "end_location": {
+                "lat": 40.09676779999999,
+                "lng": -74.8596748
+              },
+              "html_instructions": "Slight <b>right</b> onto <b>Old Rte 13</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "whvsFvj|gM?AGm@EQIe@Km@EUEOa@qBOk@"
+              },
+              "start_location": {
+                "lat": 40.0962758,
+                "lng": -74.8613956
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.7 mi",
+                "value": 1194
+              },
+              "duration": {
+                "text": "4 mins",
+                "value": 257
+              },
+              "end_location": {
+                "lat": 40.1044917,
+                "lng": -74.8502828
+              },
+              "html_instructions": "Slight <b>left</b> onto <b>Bristol Spurline Park</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "ykvsF|_|gMMMEKUs@Qk@K[GUGQKYK[IYGQCGGIEIEKM]IWIQEKGMKSKUGQGQEKEIKQIQMQMSMKMMYa@KOIIEE]WUYMQOSYi@MQMOSYQS]]SUQSSYOQKOQYU_@CCMSIMMOMUKQGIGEIGMGQGSIWSQOMOIKqCoCg@y@eB_BY]QSIIECUMYWWMa@U]OUQ}@o@WWIGGGCIAI"
+              },
+              "start_location": {
+                "lat": 40.09676779999999,
+                "lng": -74.8596748
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "328 ft",
+                "value": 100
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 18
+              },
+              "end_location": {
+                "lat": 40.1049617,
+                "lng": -74.85119879999999
+              },
+              "html_instructions": "Turn <b>left</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "a|wsFfezgMM@G?A?A@CBA@?BCDAJIZI^Sl@GTGV"
+              },
+              "start_location": {
+                "lat": 40.1044917,
+                "lng": -74.8502828
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 mi",
+                "value": 180
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 35
+              },
+              "end_location": {
+                "lat": 40.1062143,
+                "lng": -74.8504485
+              },
+              "html_instructions": "Turn <b>right</b> toward <b>Delaware Canal Towpath</b>/<wbr/><b>D &amp; L Trail</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "__xsF~jzgMOSMKw@i@MWSa@MYKKIGCAQGOGMAOBMTKT"
+              },
+              "start_location": {
+                "lat": 40.1049617,
+                "lng": -74.85119879999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.1 mi",
+                "value": 1819
+              },
+              "duration": {
+                "text": "6 mins",
+                "value": 342
+              },
+              "end_location": {
+                "lat": 40.1208175,
+                "lng": -74.8421522
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Delaware Canal Towpath</b>/<wbr/><b>D &amp; L Trail</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "yfxsFhfzgMc@e@YSQKECCCICYG]?]?YDMBE@]DQBwBDEAeAWg@MeAWA?eBe@WGsCs@MEUEeAUa@K_AS[Go@S{@Ww@g@}@w@{B_C[]sAsAA?{C{CMOw@{@WWa@a@}@cAm@k@CE{@}@WYy@{@q@q@e@YMI{Ay@o@UQKyAg@QIeBq@aAa@a@Qa@O_Bq@y@G_@SICEAC@OB"
+              },
+              "start_location": {
+                "lat": 40.1062143,
+                "lng": -74.8504485
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.4 mi",
+                "value": 640
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 140
+              },
+              "end_location": {
+                "lat": 40.1254159,
+                "lng": -74.837622
+              },
+              "html_instructions": "<b>Delaware Canal Towpath</b>/<wbr/><b>D &amp; L Trail</b> turns slightly <b>right</b> and becomes <b>Bristol Pike</b>",
+              "polyline": {
+                "points": "cb{sFlrxgMSSiAiAk@i@QQsAqAm@m@g@g@}@{@}A}A{CwCaD_DwBuB"
+              },
+              "start_location": {
+                "lat": 40.1208175,
+                "lng": -74.8421522
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.3 mi",
+                "value": 428
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 74
+              },
+              "end_location": {
+                "lat": 40.1274094,
+                "lng": -74.8333243
+              },
+              "html_instructions": "Slight <b>right</b> onto <b>Beaver Dam Rd</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "{~{sFbvwgMOe@a@iAIUGMIUQWGQK[Um@Ma@a@iAIUq@kBWu@KWACUq@_@gAe@uAUm@"
+              },
+              "start_location": {
+                "lat": 40.1254159,
+                "lng": -74.837622
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 mi",
+                "value": 269
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 89
+              },
+              "end_location": {
+                "lat": 40.1294956,
+                "lng": -74.83492079999999
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Edgely Rd</b><div style=\"font-size:0.9em\">Pass by 7-Eleven (on the right)</div>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "ik|sFf{vgMgAv@SP]VKHs@f@SL[Pc@TSX}@l@q@b@OH"
+              },
+              "start_location": {
+                "lat": 40.1274094,
+                "lng": -74.8333243
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.0 mi",
+                "value": 1559
+              },
+              "duration": {
+                "text": "5 mins",
+                "value": 294
+              },
+              "end_location": {
+                "lat": 40.1385586,
+                "lng": -74.8214457
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Delaware Canal Towpath</b>/<wbr/><b>D&amp;L Trl</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "kx|sFfewgMGSCIEGCIMU_@m@U_@SYCEYa@CCWYIKm@q@Y]SSY][_@WYKKMMMMWYc@i@WWAAy@_ASSQSKIQUOQOMEGQS_@e@g@o@Y_@KSUe@Ym@Q_@MWq@wA_@w@IUIQWi@o@wAUk@Ys@Wq@Yy@Yu@]aASg@e@uAkAcDO_@[}@o@{Ao@kAMW}D{G_@o@w@wAEKCEEAE?C?CBA@CBA@ABA@A@CBA?A@A?A@C?CAAAEK"
+              },
+              "start_location": {
+                "lat": 40.1294956,
+                "lng": -74.83492079999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 mi",
+                "value": 399
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 68
+              },
+              "end_location": {
+                "lat": 40.14094480000001,
+                "lng": -74.81830149999999
+              },
+              "html_instructions": "Turn <b>right</b> to stay on <b>Delaware Canal Towpath</b>/<wbr/><b>D&amp;L Trl</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "_q~sF`qtgMAI?C?A?C@CFGDG@E?E?C?C?ACIKQ_@k@a@s@U_@Wc@m@_Aa@o@SWAAsA{AOSQMSQECIGcAq@WQOM"
+              },
+              "start_location": {
+                "lat": 40.1385586,
+                "lng": -74.8214457
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "105 ft",
+                "value": 32
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 5
+              },
+              "end_location": {
+                "lat": 40.1408048,
+                "lng": -74.81808430000001
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>D&amp;L Trl</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "{__tFj}sgM`@U@A?AAA?AEM"
+              },
+              "start_location": {
+                "lat": 40.14094480000001,
+                "lng": -74.81830149999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "187 ft",
+                "value": 57
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 40
+              },
+              "end_location": {
+                "lat": 40.1412284,
+                "lng": -74.8181097
+              },
+              "html_instructions": "Turn <b>left</b> to stay on <b>D&amp;L Trl</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "___tF~{sgMQSKKAAA??@YPMHKH"
+              },
+              "start_location": {
+                "lat": 40.1408048,
+                "lng": -74.81808430000001
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.9 mi",
+                "value": 3049
+              },
+              "duration": {
+                "text": "9 mins",
+                "value": 565
+              },
+              "end_location": {
+                "lat": 40.163819,
+                "lng": -74.80029499999999
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Delaware Canal Towpath</b>/<wbr/><b>D&amp;L Trl</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "ua_tFd|sgM?ACGCECEEE]QIE_@S_@S_@Ua@SCA[QAA_Bw@_@SKEgAs@II]Y][CAIGMSY_@CCSYACACQ_@MWGOACM]AKCSEYCWCSA?EQGKGG?AOKMGA?OKKM?AIOCMAIKy@GWCKKKOMEAWGIC?AGCGGCCCCEGIMEGS]CEGKMWGKWc@OUIIa@m@_AeA}@m@IEgB_A[Ku@SiCgAa@OYMQGyAi@a@OgC}@WIUGy@Ua@Ma@Ma@Me@MuEyAeA[ECmEmAOGKC_Co@wDeAGCMEa@MKCa@OUI{E}AqDgA_AWe@M]MQEs@Ua@Mo@[o@e@q@k@GGq@o@q@gAq@qAKUw@}AS_@Wc@k@iAYi@wAkCm@gAaAgBo@mAoAcC]w@"
+              },
+              "start_location": {
+                "lat": 40.1412284,
+                "lng": -74.8181097
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "13 ft",
+                "value": 4
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 1
+              },
+              "end_location": {
+                "lat": 40.1637904,
+                "lng": -74.8002638
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Wheatsheaf Rd</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "{nctFxlpgMDE"
+              },
+              "start_location": {
+                "lat": 40.163819,
+                "lng": -74.80029499999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "144 ft",
+                "value": 44
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 8
+              },
+              "end_location": {
+                "lat": 40.1640679,
+                "lng": -74.7998981
+              },
+              "html_instructions": "Turn <b>left</b> toward <b>D&amp;L Trl</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "unctFrlpgMSUOQOSCK"
+              },
+              "start_location": {
+                "lat": 40.1637904,
+                "lng": -74.8002638
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 mi",
+                "value": 227
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 39
+              },
+              "end_location": {
+                "lat": 40.1649372,
+                "lng": -74.7975239
+              },
+              "html_instructions": "Continue onto <b>D&amp;L Trl</b>",
+              "polyline": {
+                "points": "mpctFjjpgMYa@Uc@GOKSIUKYMc@I[COMk@EQQkAMeACa@"
+              },
+              "start_location": {
+                "lat": 40.1640679,
+                "lng": -74.7998981
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.3 mi",
+                "value": 2075
+              },
+              "duration": {
+                "text": "6 mins",
+                "value": 389
+              },
+              "end_location": {
+                "lat": 40.1807373,
+                "lng": -74.7878118
+              },
+              "html_instructions": "Continue onto <b>Delaware Canal Towpath</b>",
+              "polyline": {
+                "points": "{uctFn{ogMQ{AUaBQqASyAGm@A?MaA?CACWsAESEMACACKc@?AQc@OWMUc@i@MOw@m@eCgAUIiBs@_A_@aA_@yAm@mAe@mFqBA?_Bs@w@[kAo@s@_@mAo@aAg@KEu@_@uBaAMGoAg@}Ag@aAUQEmB_@m@Me@K_@EAAuAQSAqAMWEc@GgAOiBUeAOsAQUEsEm@c@GA?WEUCYCMBA@AF"
+              },
+              "start_location": {
+                "lat": 40.1649372,
+                "lng": -74.7975239
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.3 mi",
+                "value": 406
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 71
+              },
+              "end_location": {
+                "lat": 40.1823485,
+                "lng": -74.78718239999999
+              },
+              "html_instructions": "Turn <b>right</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "sxftFx~mgMUWQMQMCCKIGQ?AY{@Uw@AIG_@Ge@AS?CA[@O@C?UCECEWMMCWII?KAU@G?GFMLUf@A@C\\?LB\\@NBPJ`@@X?XEPIDIF"
+              },
+              "start_location": {
+                "lat": 40.1807373,
+                "lng": -74.7878118
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.8 mi",
+                "value": 2947
+              },
+              "duration": {
+                "text": "9 mins",
+                "value": 535
+              },
+              "end_location": {
+                "lat": 40.207426,
+                "lng": -74.7769136
+              },
+              "html_instructions": "Continue onto <b>Delaware Canal Towpath</b>/<wbr/><b>D&amp;L Trail</b>",
+              "polyline": {
+                "points": "ubgtFzzmgMgA_@a@Oa@OWIk@Sa@Oa@OoBq@WIcEuAICw@[i@[i@[oBsAc@Uy@g@EA_CcAECcA_@_@Oe@Q_@K{Bg@sA[iAYgCi@c@Ka@Ie@KcAU{EeA{A_@}Aa@m@Qa@Ka@Ma@Mc@Ma@KeAUaAYa@M}@Uc@Ka@KKCUIc@McA[cA]cA[qAc@SIeBk@oAc@gBq@yAo@aEkCyCoBkBaAo@a@UMk@WiBy@i@_@_@OWCi@?YAE?Q?OAm@CeAAgAAM@Q?OAG?cBEYAc@AYAIAA?cAIC?s@AS?"
+              },
+              "start_location": {
+                "lat": 40.1823485,
+                "lng": -74.78718239999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "469 ft",
+                "value": 143
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 46
+              },
+              "end_location": {
+                "lat": 40.2081617,
+                "lng": -74.7755346
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>W Bridge St</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "m_ltFtzkgMq@{AUg@AGWm@IQSc@Qc@"
+              },
+              "start_location": {
+                "lat": 40.207426,
+                "lng": -74.7769136
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 mi",
+                "value": 214
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 63
+              },
+              "end_location": {
+                "lat": 40.2098869,
+                "lng": -74.7766333
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>N Pennsylvania Ave</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "_dltF`rkgM[Le@PMDkAf@UHGBE@GDKFEBEDMHOLCBMJEDIFEBEDGDQNSN"
+              },
+              "start_location": {
+                "lat": 40.2081617,
+                "lng": -74.7755346
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "43 ft",
+                "value": 13
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 3
+              },
+              "end_location": {
+                "lat": 40.2100025,
+                "lng": -74.77659489999999
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Union St</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "ynltF|xkgMQECA"
+              },
+              "start_location": {
+                "lat": 40.2098869,
+                "lng": -74.7766333
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.6 mi",
+                "value": 975
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 159
+              },
+              "end_location": {
+                "lat": 40.2179896,
+                "lng": -74.77986609999999
+              },
+              "html_instructions": "Slight <b>left</b> onto <b>Delaware Canal Towpath</b>/<wbr/><b>D&amp;L Trail</b><div style=\"font-size:0.9em\">Continue to follow D&amp;L Trail</div>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "ooltFtxkgM_@NE@?@E@[DA?gAAM?O?E?aA?E?]?E?u@?Q?a@?eA@g@?C?]AO?O?_ABW@gBA[Cq@Ds@JE@QDIBc@FC@]LE@YLA@C@[NA@{@n@]Vw@l@CBA?]Xq@f@IJiAjAc@l@QRa@f@A??@Y\\A??@Y\\A@eAxA"
+              },
+              "start_location": {
+                "lat": 40.2100025,
+                "lng": -74.77659489999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "85 ft",
+                "value": 26
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 15
+              },
+              "end_location": {
+                "lat": 40.2181676,
+                "lng": -74.7796693
+              },
+              "html_instructions": "Turn <b>right</b> toward <b>PA-32 N</b>/<wbr/><b>N Delmorr Ave</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "mantFdmlgMAAY]GG"
+              },
+              "start_location": {
+                "lat": 40.2179896,
+                "lng": -74.77986609999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "7.5 mi",
+                "value": 12051
+              },
+              "duration": {
+                "text": "36 mins",
+                "value": 2176
+              },
+              "end_location": {
+                "lat": 40.2937505,
+                "lng": -74.8706119
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>PA-32 N</b>/<wbr/><b>N Delmorr Ave</b><div style=\"font-size:0.9em\">Continue to follow PA-32 N</div>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "qbntF|klgMGLO^i@dAGJILEDKNGJABCBABEDABCDWb@y@nAEDS\\QXCBCFABCBA@ABABADILO\\EJQ`@M\\ABq@|AIRWf@]n@Ub@ABo@hAWd@k@dA[n@MVS\\GLQZCFEFYj@EFa@t@Yh@uAdCm@fAWb@QXEFm@fAm@fAeAjBWb@QZGJAB_@n@a@t@CFQ\\KRIPk@jAg@dAWh@Ud@ABS`@Yl@OZaArBg@dAg@`AABABIPKRUd@CFQ\\]t@w@~ACDc@fAADa@hAUl@q@jBABABQf@Yt@k@zAWr@ITGNAD{@zBc@jAm@nAQ^CF_BrDc@fAOZ[v@OZSd@Yt@MZKXCHADENITY`AWx@M\\Mb@CHADABELc@tAGTQh@Of@c@tAQl@K\\ABITGRITM^Qd@Ob@Qb@i@pAQb@MXs@nBITQf@GPM^Qn@_@tAI\\g@pBc@fB_@hB]jBKl@UxAM`Ac@bDOpAIv@OhA?FGd@AJOjAOpAKn@?FCFE\\AB?@CLAXCNIXAFCDCHGPADIVSj@CF_AnC]z@c@hACHo@zA[v@g@lACH{@fBa@`AEHABCFCFu@~AmCnG]v@EH[r@Sj@u@`BcAxBkArCWh@Wj@Sj@Wv@]|@[bAw@|By@~Bi@fBYx@KXWv@]bAAF_@hAGNo@jBM\\_@pAIXIZA?CJa@rASr@g@dBCHABq@bCg@bBY`AY~@CLc@xA_@pASp@Ql@ENQv@UfA]zAGTKZUj@Ob@CFIVUb@A@?@ABYn@GLCFQb@m@vAIRIPGNADQb@CDM\\Uj@KT]x@KVEHSd@e@x@Wf@]l@U`@Yf@Yd@[f@k@v@A@MRKLEDKP}@zA{@vAU^GJCB[f@A@SXOXW\\SX[^KHCDWTKJURGFGDm@f@GDeCvAYNaCjAcChAEBwAl@aA\\SF{Aj@i@Rc@Ne@Rq@ZWNGDIF[RGFSNQPSRe@j@STIHQTu@|@MNUTSTCBONA@EBURIJQNCBGDQNURIHGDWTc@`@]Z]ZqAjAcEpDa@\\i@f@ONKHEDKHABEBCBA@mAfAi@f@e@b@oAbAeAz@c@ZKFC@MJEBID?@OHCBEBo@^s@b@_@RKFEBCBw@b@qBjASJMFQJ_Ad@QH?@GB]N_A^{@\\aAZcD~@yC`AgBj@o@PIBIBE@oBl@c@L{@XG@{@VGBIB_@HiBl@}Af@I@KBOBKBE?UDQBWA}@DS@[@YBYBS@WBeBFmADm@DcFVs@DkAPO@i@Fo@J_APm@JUDy@Pg@Dw@RwA^aAVq@LyAZw@N]FC@c@Hc@HA?kCd@yB^QDOB_@Hm@LWHUJE@SHMFSH]N_@NYLQHwBbAgFtCmDnBaAh@wAx@_B|@IDaAj@g@ViBbAgAj@u@b@ID}@f@A?EDE@GDKFEDID_@ZSN?@C@_@^QRGDEFIJEDQVa@h@INGJA@ABEDCFABKNABUb@O\\c@~@c@bA?@CF]r@Sb@_@z@IRSb@IPMX]r@Wb@CDILA@CDGJCBKPMPQPSRYXCBa@^OJUPa@R_@RE@YNSJ_DvASJA@SJIDABMH]V"
+              },
+              "start_location": {
+                "lat": 40.2181676,
+                "lng": -74.7796693
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 mi",
+                "value": 262
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 53
+              },
+              "end_location": {
+                "lat": 40.2952653,
+                "lng": -74.8682566
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>General Washington Memorial Blvd</b><div style=\"font-size:0.9em\">Entering New Jersey</div>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "}z|tFhd~gM[o@a@{@Ue@MSGQGMMWQY{@uAi@w@a@q@U]"
+              },
+              "start_location": {
+                "lat": 40.2937505,
+                "lng": -74.8706119
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 mi",
+                "value": 194
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 43
+              },
+              "end_location": {
+                "lat": 40.29659059999999,
+                "lng": -74.866969
+              },
+              "html_instructions": "Continue onto <b>Washington Crossing Bridge</b>/<wbr/><b>Washington Crossing Pennington Rd</b><div style=\"font-size:0.9em\">Continue to follow Washington Crossing Pennington Rd</div>",
+              "polyline": {
+                "points": "md}tFru}gMk@_AWa@g@y@_@o@GGIKGKIECCE?A?O@I@C@C?A?A?C?E?C?C?AAAACAECEG"
+              },
+              "start_location": {
+                "lat": 40.2952653,
+                "lng": -74.8682566
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 mi",
+                "value": 193
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 53
+              },
+              "end_location": {
+                "lat": 40.2980721,
+                "lng": -74.8681584
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Delaware and Raritan Canal State Park Trail</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "ul}tFpm}gMIF]VCB[R]Vs@f@IF_@X]VEB_At@?@"
+              },
+              "start_location": {
+                "lat": 40.29659059999999,
+                "lng": -74.866969
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "6.3 mi",
+                "value": 10144
+              },
+              "duration": {
+                "text": "30 mins",
+                "value": 1784
+              },
+              "end_location": {
+                "lat": 40.3594918,
+                "lng": -74.9439202
+              },
+              "html_instructions": "Keep <b>right</b> to stay on <b>Delaware and Raritan Canal State Park Trail</b><div style=\"font-size:0.9em\">Passing through Pennsylvania</div><div style=\"font-size:0.9em\">Entering New Jersey</div>",
+              "maneuver": "keep-right",
+              "polyline": {
+                "points": "}u}tF~t}gMe@`@]ZKHIHm@n@w@z@WVCB]\\[Zi@j@iAbAEDuA`Ao@b@MJyCrBA@_@T_@V}@j@EDw@f@]Ty@l@k@`@kAnAGHY^i@t@GJY`@e@v@iAvBk@lASd@MVGLu@~AABIRIPGNMTSd@GNSd@KTGNWd@ADUd@Sb@A@Sd@MVEFSd@ADg@fACHS`@Wj@c@`Ai@lASb@m@nA?@KTINSd@g@dAADIPu@|AsAxCUd@?@Ud@a@~@[p@Sd@Sd@O\\o@vASb@Uf@A@g@fASf@i@jA?@Ud@Sb@O\\uBxDABWd@k@hAUb@CDS^cAhBA@U`@EH}@dBYj@i@~@]l@OZQ^Yh@Q\\q@nAS`@IR?@Sd@Un@O^Ud@?@Qd@KVENQh@IVEPOh@Oh@AFMb@Oh@]rAOj@ADMb@Oh@_@rAERGVMj@Mh@Oj@WnAMr@Kj@Kj@A@Ih@W|AQvAGf@QfBCf@Cn@Cj@An@?F@f@?X?RBf@FhAFhA@TBVJpB@hA?B?x@A^?RAZAVIbAALE^CTOdA?DWpA?BUjAOr@IXSz@I`@w@zCY`AMj@K\\a@`BQn@Mb@Oh@Sp@q@`CM\\}@pCk@bBO`@i@xAe@hASf@EF{@hBg@~@EFw@vAMRW`@CDaBxBA@u@~@IJm@~@oBhCKNY^kAbBCBUZ[^s@~@SVEFY`@W`@Y^U^C@s@~@s@~@[^?@Y^mA~Ay@fAo@v@Y^oA|A[^MP[d@GHWb@k@z@EFY^k@t@GJ_AxAc@l@c@p@MPY`@W^s@`Aq@dAEFk@z@KNMNq@z@C@k@f@OJ]RA?i@X{@\\{AXIB}@TkAZA@y@X{@b@MJQLk@^CBm@j@GFSV_@f@{@fAk@z@W`@Y`@EDm@x@Y`@m@x@A@?@Y^?@q@~@UZCDeBdCMPc@n@wBxCaB`CaB~BeB`C_A|A?@CBg@hAYr@UnAK`@Or@[nBAL[rBW`B]bBGVEPQh@AHm@rAMTUb@A@ABy@fAu@|@iAlAe@f@QPA@w@v@]XcA|@o@h@]VA@SPoAz@UNA@]RA@QLMFs@d@oAt@y@`@a@RA@iBx@y@\\A?YLw@XkA\\y@Rs@LE@c@HSDcADu@DA?qCNcADmCLaADi@@A?gA@a@@}@Hm@@c@@W?uA@a@@K?}A?e@EWCo@IeAMIA}@OWEmACC?c@AgAASAs@?a@?c@@A?A?_@?A?c@?_A?k@@s@BS@]BC?C@oADYBa@Dc@DA?E@[Ba@DK@{@Hc@BA?QCOAA?_@JEAEE?]"
+              },
+              "start_location": {
+                "lat": 40.2980721,
+                "lng": -74.8681584
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.5 mi",
+                "value": 2378
+              },
+              "duration": {
+                "text": "8 mins",
+                "value": 468
+              },
+              "end_location": {
+                "lat": 40.3797396,
+                "lng": -74.9517726
+              },
+              "html_instructions": "Turn <b>left</b> to stay on <b>Delaware and Raritan Canal State Park Trail</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "yuiuFnnlhMe@Q_@?A?a@D?@a@DA@E?]Da@FG@[Da@FA?a@HOBu@NA?a@Hc@FSBMH]Tk@Na@Ls@Pc@Ja@Ja@Nu@Vi@XC@QFODo@Ny@RQDOFYLE@c@JWFIDa@NCB]Jk@N{@Rc@HE@o@HODq@Ls@PSHIBE@k@Po@NMBMBSDc@HYFCBC@]NGB[La@NKBu@`@MFOFC@SJKFa@PKFSH_@JA@]JE@_@FA@c@F_@Fc@HA?c@HKBUD_@HC?cCf@G@gANaAPC?s@LQBc@HeAPc@Hk@JYDiBTWDG@c@FqBXUFMFONKPGPGDKFK?K@C@E?A?C@QJ_@T_Ah@}@d@C@{@f@CB]VEBA@?B?D@BA@g@XA?A?A?ACA?A?YLaAf@_@RIDu@\\A@WJID_@PaAb@QHQN"
+              },
+              "start_location": {
+                "lat": 40.3594918,
+                "lng": -74.9439202
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "16.7 mi",
+                "value": 26894
+              },
+              "duration": {
+                "text": "1 hour 23 mins",
+                "value": 4979
+              },
+              "end_location": {
+                "lat": 40.5535539,
+                "lng": -75.0752002
+              },
+              "html_instructions": "Turn <b>left</b> to stay on <b>Delaware and Raritan Canal State Park Trail</b><div style=\"font-size:0.9em\">Passing through Pennsylvania</div><div style=\"font-size:0.9em\">Entering New Jersey</div>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "ktmuFp_nhMCB?@?@@@FLFP@H?J@H?@CFGFID_B~@QJMH_@Rq@^[Pa@VA@]TOHOJ_Ah@MFmA~@A@[T?@A?_Af@?@_CpAA?KFQLA?}AbAMHOLA?]VUPw@x@GD]ZA?[Zk@d@m@f@e@^qAfA[XA@A@[V[Z_@\\YVuAvAq@n@GD]VA?]V_@V_@VKHkBvAA@]V]TA?_@V[RA@_Ah@_@VKDUJaA`@EBYLA?a@Pm@T}@\\YHa@LA?[Jg@La@J}A`@qBd@A@u@NOD{A`@IBA?_@LeA\\aAZc@NcA^sAh@sBdAWLEB_@TA?]Tc@VwAfAA?WRCBA@]X]X_@ZsArA[XQPIJY^A?W^A?e@n@MNkAbBA?Ub@o@dA?@OVEHA@Ub@Ub@yArCS^i@rAgAnCGJe@pAc@nAA?Qh@e@nASf@?@Od@Qf@Qh@?@CD_@hAQh@c@nAQh@IVsApDQd@A@Qf@KVENc@pAQf@?@u@xBGP[|@A@MZCJu@vBA@IVELA@Of@A@Od@MZWt@c@pAA?Qh@Od@A@Qf@Qf@i@~AQd@Qf@Qf@Sf@Qf@ITYz@Qh@M^{@~BSh@ITGPe@hASl@Qf@Qh@[|@m@bBc@nAGPIVc@pAKZEJQh@a@jASl@Qh@Of@Qh@KXENOh@Oh@Oh@ELKZOh@I\\CJOj@Mh@Mj@Oh@?@YvAKj@Kj@ELShAKj@Id@c@lCEPEXIl@Ib@AFQzAGh@?BIl@Gl@Il@E^AJGl@UpBCVEn@CZCPEl@Eh@?BEn@Cl@C\\ANCn@Cl@Cj@?BElBClA?n@AP@Z@n@?l@@P?\\@n@@~@@\\Bl@@b@D`ABf@Dj@?@Dl@Ft@NdBD\\Fl@BLD\\Jl@BTDTPtALp@RfAN|@Jj@F\\BLJl@Hf@@BJj@VvAFXDRJj@Lj@f@fCXpAh@`CLj@Nj@Lj@@HJ^d@`BHZ`@rADPz@tCFPX`APf@Ph@Nh@^rA`@rA`@rA^rANh@Ph@?@ZrANh@j@`CLj@`@~ATlAJj@Lj@Jj@Nv@H^t@nD?@Hh@Jl@VvADTDVHj@Jj@Jr@VvB@JDl@BX@RDlA@N@n@@TBfA@\\ANA|@A^Al@CjBCb@Et@IhAMxAQzAOx@Kj@G`@CH]dBWfAKb@e@xACJa@dAKXe@hAINSb@A@e@z@w@pAc@r@g@p@GHQT[\\W\\A@[\\[\\[\\ONKLgAjAg@f@]\\EDSVY^KLi@n@OPKLY^ORGLWb@A@W^KRKNU`@Wb@A@S\\AB?@Ud@Sd@Uf@KTELA@Qf@Qf@A?Qf@Qh@GJKZSf@Qd@KVYv@q@lBEJQf@A@Od@CDa@hA?@GNKVQd@e@nAA@CHa@bAQf@A@M\\Un@A@Qf@Qh@ABc@hASf@?@e@lA?@A@Ob@?@w@vBKXEL?@Qd@MZCLA@Of@Wx@YbAGTEROh@GT[pAGX?@Mh@?@Mh@CPGXS~@EV?@Kh@Kl@AFId@Kj@CPEVIj@?BGd@A@Gl@?DMlAIv@Gl@Gl@ALC^?BEh@?DKtA?@OzA?BKhAGz@En@?BCTCVEh@ABC^AHO`B?BIb@UlACLIh@EVERMn@Kf@ABCNIZMd@A@?@Y|@GNABOb@MXELWh@Sd@Uf@KVGLIPKPQZ]j@ADS\\A?GLORUZCBc@l@m@l@ABcAdAML?@]XGFUN]XA?QNKHg@^UL_@R[RC@_@PA@KDSHA?_@PYJGBcAZ?@I@{@TYHG@a@JA?y@PIBc@H]FE??@a@FA?a@Hc@HA?_@Fc@FKBWBa@FA?a@FA?a@Bc@DO@S@c@DC?_@B]@g@DA?a@@[BG?gBDC?A?a@@c@@c@@A?a@@]@E?c@@gABc@@c@?U@M@c@@c@BA?a@BYBI?a@D]DE?c@FA?a@DE@aAJQBeBTI@w@TcAPC?a@HIBUDC?gC`@g@J_@HC?eARMByBb@C?YFE?C@eBXC@]FC?KByAVC@_@FC@g@J]F]FC@c@F_@HC?gBZ_@FC@K@WDa@HcAPC?a@Hc@Hc@FaAPC?c@H}AVK@]HC?aARC?c@Hi@L[F]FC@c@Hc@F]DC@G@_ALw@LMBc@F_@FC@a@FA?eAL[DC?C@a@D{ANo@FC?_@BC@c@Ba@Do@DSBC@c@F_@DC?a@Fc@H_ANE@c@J]FC@G@[Hk@Ry@T[JE@cA^OFo@VC@a@N]LC@a@P_@N]NC@a@NUJG@e@PaA`@KBUJ]LC@]LC@ODqAb@C@a@LKBSFC@a@L}@XeBd@iAVC@a@JG@WFC?eATMBODC?c@Hc@HeAN_@FC?MBUB]FC?YDi@DC?]DA?C?c@BWBK?c@@W@G?C?c@A]AA?C?a@C_@AC?GA_AIGAWECAa@GIAUEC?c@IGAYG_@ICAEA[K]KCACA]Ma@MICSGCAa@MWIIEa@S]OCA[OAAA?a@Q_@QSIMI}@c@ACUKKG_@U]UUMEECA[UCAYUCC]WMIMICC[UAA[UCAYUCC[SAC[UCA]W_@WYUCCAAYOCA[QCC]QAA]QMIUKa@Q]OAASIICCA_A]C?a@OOGMEe@Qa@OSIMEa@M]MCAa@OMEOEC?eBe@e@M]KCA]K{@UME]KC?}@YEAc@I]IC?_@ICAQCOE_@IC?a@K[GiAQCAc@GEA]E]Gg@GA?iBS]EE?a@EcAKCAc@EMAQCC?eAM_@GC?SCOAc@E_BQi@GCAKAu@GEAWCg@IE?cAKC?a@EA?eAOg@GwAQMA_@GC?c@GMCaAKaBQC?YAE?OAQCc@EOCw@GKA{AIA?A?iAIcACWAG?C?aACqBEC?_C?cA?K?C?c@?k@?WAC?kCGA?A?c@?_@?A?A?c@@_@?g@@[@g@BC?W@aA?M@C?c@Bg@B}@DC?cAFC@gAF_@BC?kBLW@uBL_@BC@S@O@_AJk@D_@BC?OB}BLc@DaAFuCP]@UBu@DgBLA?A?c@DcAFC@c@Bs@FuAHkAHc@Bm@D}@Fa@BkCPC@Q@yAJaAFE@a@BE?qE\\yALo@DC?oBN_AHC@eAJO@w@J_@DC@a@FG?_AJc@F]DE?a@Fc@DSBqANC@c@D_BRmANC@C?_AFC?C@_@@_@@C@K?WBkAHY@C?o@@S?C@_A@C?C?gAA_@?C?M?u@?C?c@Ac@?}@Ai@?C?_@?C?cAAC?gAAW?G?g@?_@?g@?}@?I?c@?c@?_@AC?c@?gA?c@?_@?g@AG?W?C?w@CO?cA?C?c@A_@?C?c@?c@?S?O?c@A_@?C?S?K?C?sEAC?c@?c@?c@?O?S?oBC]Ac@?gA?_@AC?c@?c@?G?W?kA?c@?Y?E?C?gBCC?c@?c@Ag@?[?C?c@?c@?W?cBCs@Cq@Ac@?gA?c@Ac@?c@?gAAc@?sA?WAgAAa@Ae@Ac@?c@@Y?I?kB@k@@[?oA@K?c@?M@}AD[@{@FE?a@D_@DK@eAJQ@OBc@Fc@Fc@Da@Fc@FiBVA?eANmC^eANiBXc@FgANeALWDK@iBXeANiBVG@[Fc@FeANmC^c@HO@_Df@qAPWDc@FqDd@eANkBXa@FmC^c@FA@eEl@o@Ho@Hy@PA?s@NcAZODeA\\aA^a@PWJGDa@Pm@^y@d@c@ZQLa@Xq@h@i@d@u@r@qBnBA?q@`As@`As@`AmA`BY`@Y^q@`As@`As@`AY`@Y^Y^gBbCW`@{CdEY^sDfFaCbDY^eBbCi@r@?@A?AA{AyBWa@MQKOMQKOKSIOAEQYCCIIQOA?QMMGCAKIGICEACGUCGCEAAIGSCAAa@G"
+              },
+              "start_location": {
+                "lat": 40.3797396,
+                "lng": -74.9517726
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.5 mi",
+                "value": 2357
+              },
+              "duration": {
+                "text": "7 mins",
+                "value": 430
+              },
+              "end_location": {
+                "lat": 40.5686617,
+                "lng": -75.0944579
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Frenchtown Rd</b>/<wbr/><b>Milford Frenchtown Rd</b><div style=\"font-size:0.9em\">Continue to follow Frenchtown Rd</div>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "urovF~bfiMiA`BABW`@GHOXWb@MTILm@fAa@t@]p@CDUd@KPw@zACDQ\\A@Ub@Ub@o@lAQ`@Ud@Ub@OXINQZa@p@oArBGJg@x@GJSX{@dAu@|@YXSTSTg@j@EDMLSTML[\\MNw@x@MLGHIJSZINi@pAKVKTGNKTMREDCFMLGHCBEDOL[Xa@Xo@f@MJEBYVMJKHABONKJGHSTIHQTaAvAQTSVWZIJQRc@f@STi@j@MNOLMLEDWRo@h@]ZKJCBKLCBMNKPGHCFEHINEJGNKTEHIPEHMRGHCDGHILEDYX_@`@CBUV]ZWVCB]ZONGFCB]ZIHSPA@m@d@WRMJGDEBSNA@SPGFIFSROPKJQRIHGJSZILABKLWb@IJg@z@Sb@EHINEHCHO\\i@hAq@|AGP"
+              },
+              "start_location": {
+                "lat": 40.5535539,
+                "lng": -75.0752002
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.4 mi",
+                "value": 578
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 139
+              },
+              "end_location": {
+                "lat": 40.56584830000001,
+                "lng": -75.0999448
+              },
+              "html_instructions": "Slight <b>left</b> onto <b>Bridge St</b><div style=\"font-size:0.9em\">Entering Pennsylvania</div>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "cqrvFj{iiMBX?PBP@HNd@DJNd@@DL\\n@~Ab@bA\\v@l@nAVh@CJ?@?@?@?@Xj@LTBDDFLP@@HJJNJPX`@T^@@V`@Xb@V`@BDRZV`@Xb@NTFLFL?B@@?B@@?B?B?@AB?@?BA@ABAB?@GT"
+              },
+              "start_location": {
+                "lat": 40.5686617,
+                "lng": -75.0944579
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.4 mi",
+                "value": 2279
+              },
+              "duration": {
+                "text": "7 mins",
+                "value": 443
+              },
+              "end_location": {
+                "lat": 40.5692476,
+                "lng": -75.12533599999999
+              },
+              "html_instructions": "Continue onto <b>PA-32 N</b>/<wbr/><b>River Rd</b>",
+              "polyline": {
+                "points": "q_rvFr}jiMYZ_@\\?@GFA@GLGLA@ABEHGNM\\Qp@Mb@S|@ETMd@CHETMb@ADABAD?@IXM`@GV[`AGVCJ?@Mh@GZEN[bBCJKn@GRETEPAFENERABGRI`@K^]nA?BA??BCHIVOh@IVOh@K^Od@St@[fAMd@?BCJENCFMf@GVYjA]|AMl@EVg@bCUhAQx@e@xBAHS|@CPADA@?BG\\GTG`@AT?V?B?D?L@H?F@B@D@BBFHNDFHTBH@H?F?DAJCPAD?BCJALCP?@CRAV?V?X@R@ZDjAN|CFrA?HBn@Dx@@RHbB?HThFHbBLfC@^@LJlCDl@Bn@Bl@D~@Bb@Bh@FfA@T?F@JDhA@R@XFbA@XBn@@B?N@NBh@@b@@n@?X?T?^?LAn@?L"
+              },
+              "start_location": {
+                "lat": 40.56584830000001,
+                "lng": -75.0999448
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 mi",
+                "value": 318
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 42
+              },
+              "end_location": {
+                "lat": 40.5720295,
+                "lng": -75.125165
+              },
+              "html_instructions": "Turn <b>right</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "ytrvFj|oiM_A?G?c@AC?yAQY?y@LC?_@AM?iBJG@e@JC?_Au@"
+              },
+              "start_location": {
+                "lat": 40.5692476,
+                "lng": -75.12533599999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "14.5 mi",
+                "value": 23276
+              },
+              "duration": {
+                "text": "1 hour 11 mins",
+                "value": 4276
+              },
+              "end_location": {
+                "lat": 40.6879463,
+                "lng": -75.20470630000001
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Delaware Canal Trail</b>/<wbr/><b>D&amp;L Trail</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "efsvFf{oiMA`B@lC?B?h@?nC?@?h@?B?@AfA?T@l@@zA?B?XE|C?DCrBCdA?BAf@AB?@An@Aj@?BAf@?B?@G|B?NAh@?@?BEtD?B?@?j@?BAj@?n@?@BrD?rDNrC?H@@Bn@Bf@?DBj@JhCDt@?B@b@?B?@HhC?BHfC?D@j@?@Bn@@h@FrB@fA?@?BDvD?@?BBvA?@?B?d@@D?@Bh@JlC@@?@FxA?@?BBj@@PHhA?BBXPhB?B@@?@JvA@BBXJ|@@@Fd@VvARj@?B@@j@hBx@jC@@BFv@dB@@@@Pb@@?T`@@@@@T\\?@@@T\\@@?@?@V^FJNTV^@@@@TZ?@@BTZ@@@@V^@@T\\?@@@HJf@r@@BhA|A@@?@`@j@PRX^@@V\\X^Z\\@BTZ@?@@V\\@BXZDFPZTb@@@T`@@@T^BDR\\@BT^@@R`@@@T`@@@@BR\\T`@?@@@R^@B?@JNHP@@BHDHHN?@DHLX@BDFLX@BDFLXTd@DJLX@BDFLX@BDHLV?BDHLV@BDFJZDLLX?BDHJXDLJZDJLZ?@Pd@@BBHBDFTDLHZ@@BJJZ?@BJJZDLHZPh@?@Nf@@@@H@@HZ?@BJJZ?BLf@Nh@@BBHHZ?BFPDT?BJf@@BBHF\\?BLf@Jj@@BJf@?BBHH\\?BLf@Lh@@BJf@@BJf@@BFXBLHl@?@Hh@?BBJD\\?BHh@BTBV?BLvABPBZ@NB^Fl@?BDh@L|A?JF`@?BFh@RzA@J?@LjAPzA?BD`@@FPzAFl@BND\\Bn@@LB^?BBj@Dp@Eh@CNCZADKf@CNGZCJE`@QzAWhCAD?HG`@Gh@ANKx@KbAGd@?BCNE`@Gh@QzA?BAB?FC\\?BOjBAZ?NCb@?N?XDjAJ~@BND\\@BHn@LtABLB^Hp@Fh@?D@HJjA@N?FDdA@b@?J@n@?B@h@?B?BEbBE\\A@?DIj@Gj@Mh@A@ETGPOh@A@Of@?@Sd@?@e@jAKVINUd@u@|AKRWb@INw@~Ai@hAA@Sb@OXGF[^g@h@}BlBKHsC`C]ZC@[T?@{@p@]XA?QNKD_@P]NC@A@]LOD}An@QFOFa@Na@NKDUJ_@Pa@PmAh@EBOHOHOH_CrAQHGDgBbA_@TOHOHOJ_Ah@OH_@T_@TQDODQFQDE@[Ha@Jc@JGBGBQHq@XOHcAr@yAjAUXy@hAQXWb@KP_@j@gChDKLA@MLw@z@u@p@qAb@aCp@o@PeAf@OF_@VOJUNe@f@sA\\QDODC@uAHu@@{ABa@AQAc@A_@AoBKQAOAA?sBk@aBiAi@]a@_@]Y[[aA}@eAw@OI}@q@{AgAOKMKCAYW][]YeB{Am@i@][OMMKi@e@OQuAuAo@c@KIc@Oc@Oa@G[GE?}AMq@CSAMAoBCeA@_@?U@aADy@J_@DiAVc@J_EbAO@c@BS@O?K@i@BQ@c@B[BsARc@F[FmATSDM@o@HeAJ_@DC?c@Bc@Bc@BA?eAB]@E?c@?e@?cAHWBuBVc@Fc@FyBVSBoCTiAHcALc@DeAJc@DeATIBqBv@m@Ta@Na@Ne@P}Av@wAr@k@VaCfA}CvAIDkC|AsAv@_B`AmAr@c@VMFa@RWNGDc@V[P_Af@A@YNgAf@_@Re@T[NQHqAj@kAd@k@VKH_@TULIFiAt@e@\\WZMN[\\C@YXqAnACBo@l@e@Vg@TEBcA`@YN_@P_A`@C@_@POFQH_@RaBt@A@a@PcBr@IDy@Te@JaAJe@?[?GAs@QOGaAc@a@S_@SECYUm@g@KMWa@W_@_AoBACQi@i@{Aa@aBCSSgBQ_CI{@MmDIiBAc@OkFAo@G}AAc@UeBAKYeAWi@?CW_@MSg@e@_@Yc@]w@i@a@S_@Sk@]w@Ua@Ma@MeA[A?]Oa@Qa@QYMEC_BcAIEwBiAQIOEGCWIA?YGI?KASAC?a@?A?c@Ba@Bc@BcAFC@c@Ja@Hc@JI@[H_@Ha@HmAV[DcARA?c@Fa@Hc@FeANM@sAVG@QBQ@UBM?c@BG?_A@c@?mABaA?_@@C?i@?_A@G?gAFS@OBQBOBA@w@NsAReANE@]DiBXc@FC@c@FUBG@c@Ha@H[FKF]HC@_AVE@GBSHE@}@\\E@sAf@sB~@[La@PCBu@Zg@ZC@A?YP_Aj@E@YPCBA?y@h@C@[RC@[RWPGBCB_@TYR_@TEB}@j@[RCBYPeC~AKHo@`@_DpB]TIDUN_@ROJOJ{@l@A@EDGDGHEFW`@GHCFCHCF?BCHM\\Oj@Qf@q@|BQh@Qh@Sp@c@dAQb@[b@UZgAz@WP_CxAEBy@f@MHsAn@_@PGB[H_@Je@FYJw@Jy@Bk@@eCKA?a@CA?c@Ao@CWG_@IA?QEOGa@OYKECAA_@QMGo@i@IGQQAAY]Y]AAIGQUY_@OQKKY]A?[]SUEEAA[]qA{AcBiBKM[][]Y[?A[]mAqAEE{@w@w@u@AA[[[YMKk@o@[]Y[w@{@AAY[EEWU?A][uAsA[[A?SSGGy@y@[Y?A]WAAuBeBQMKKA?{AiA}AgA[WAAk@a@OOuAsA]][[i@g@yB{BGG}AsAU]Wa@c@q@uAgCg@_AAAUe@m@gAyAqCA?Sc@AAcAmBOYEI?Am@eA?AgAoBk@aAAAUc@i@_Au@iA[c@CEUYY_@Y]AAW]AAEEcBuB?AY]q@{@y@aA?AY]AAu@}@Y]?AYa@QYEGWa@IMIWSi@Qe@AAQe@Ug@AC}@uAKMu@{@CEWSAA[WYWEC]Wi@_@SM}@k@A?_@U_@U_@UAA]Q_@SA?_@S_@Q]QAAA?s@]WMWIGAYGc@Ka@KOCQCA?c@Gc@EeAGA?_@CA?yAFs@NA?QDm@Za@TQHk@d@]X]XEBWToAlAy@hAGHOT?@Wd@MVm@xAM\\[bB?@Kj@?@?@Ej@KpAMdBOhBGpA?@QzDEt@Gd@Gj@A@Gj@Il@En@El@?@@l@@\\J|@@@Fl@?@`@zB@FVtA@@?Bd@`C?@Dj@Fl@BV@V@j@?@@XE|@Ar@?@Ej@?BAHE^?BIl@Gd@?BA@Ij@A@Ib@]|AGXGN?@Of@?@Qh@_@pACHI^A@Mh@EPEX?@CLC\\?@Ef@?DA@Cl@El@?@Cf@KpAIh@CPKj@?BCJYxA[dAOh@ABQ`@?@Sd@?@Ud@GPe@t@_@n@k@r@Y^CBeBdB{@n@IJ[VA@YVu@d@MHo@d@KJa@\\e@b@MNA@UZCBY`@Y`@W^w@dAs@r@A??@[VA@KHQNKHMJC@IDULGDQJ[RIFCBYNQJIDCBA?MHOJA?IFOJC@A?SNUNEBm@^OJMHA@]VA@KHOHA@SJ]NMF?@A?KFIDIB?@]PA?A@E@GBA?A@?@A@?@?@A@?@?@?@@@?@@B@F@D@H@FBJ@D@B@FBF"
+              },
+              "start_location": {
+                "lat": 40.5720295,
+                "lng": -75.125165
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.8 mi",
+                "value": 1303
+              },
+              "duration": {
+                "text": "5 mins",
+                "value": 278
+              },
+              "end_location": {
+                "lat": 40.6835257,
+                "lng": -75.2179507
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>D &amp; L Trail - Lehigh Canal Towpath</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "uziwFll_jMCBOLMJ?@A?KJEDADCB?@?@ABCDAJCFAF?BAFAF?H?D?H?D?D@N@J@J@D@HDVBB@JFN@B@B@@?@@@@@@DNV@BFJJR?B@@@FFLDDBF@@@DBF@HDLFPBHFH@B@BFJFJDF@@DHDFFH@@@@?@BBFBDDFDB@DBNHJBBBHBFBDBB@BB@@DDFD@BBBB@FDDFJL@@DFRX@@VX@?JJBDHNLTFJ?@T`@@@DHLX@@Tb@DJFLBL?@Hh@?@Dd@@D@@P~@DXJj@BND\\N`AFTLf@@BHZBL?@F\\BJ?@Fb@DXPfAF^@NFl@Fj@?@PxA?@XhCFj@Hn@D^@J?@Hl@BVBRRzAHj@@@TvA?@BLVfA?@HZj@jAHRBP@P"
+              },
+              "start_location": {
+                "lat": 40.6879463,
+                "lng": -75.20470630000001
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 mi",
+                "value": 213
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 44
+              },
+              "end_location": {
+                "lat": 40.6830983,
+                "lng": -75.21993189999999
+              },
+              "html_instructions": "Take the pedestrian tunnel",
+              "polyline": {
+                "points": "a_iwFd_bjM@BBRBL@@Rl@NZFDFBJPf@vBBNFb@HZBN?F?DCFEBm@J"
+              },
+              "start_location": {
+                "lat": 40.6835257,
+                "lng": -75.2179507
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.3 mi",
+                "value": 2157
+              },
+              "duration": {
+                "text": "7 mins",
+                "value": 395
+              },
+              "end_location": {
+                "lat": 40.6697344,
+                "lng": -75.2358606
+              },
+              "html_instructions": "Turn <b>left</b> to stay on <b>D &amp; L Trail - Lehigh Canal Towpath</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "k|hwFpkbjM@R?DLx@@LDf@Dn@Bl@Dn@TxDVhCFn@Db@@HDZJx@Jp@@@`@~B@BH^DN^pAJ\\Ph@BFJVFNRf@Rd@Xl@N^DFPZBFPZTb@@?n@dABBT\\@@LZ\\f@^d@\\`@X\\Z^\\ZZZZZdAdARPPLLFNFFBDDr@j@FDFFJDJDbA\\f@P\\HTHl@PRFPJPLHDFBXJLBR@RBNDbA\\HBVFPFZLTJ~@`@@@~@j@^T^R^T`@T^RVPf@Vb@VTNPLPLFBRBF@J@TJVJVHPJVLHDp@XHBDDBBTn@HNJNTTHJPNFFTRB@LJHL@@JTJj@HXHPFFFFJHhAt@NL^Z\\VDBHFLDB?P@F@B@DA"
+              },
+              "start_location": {
+                "lat": 40.6830983,
+                "lng": -75.21993189999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 mi",
+                "value": 165
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 29
+              },
+              "end_location": {
+                "lat": 40.6701225,
+                "lng": -75.237732
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Hill Rd</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "yhfwFboejM?F?@A`@@^AFCTCNGXKj@Kl@Kj@CREXEPCJCN"
+              },
+              "start_location": {
+                "lat": 40.6697344,
+                "lng": -75.2358606
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.3 mi",
+                "value": 504
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 150
+              },
+              "end_location": {
+                "lat": 40.6672872,
+                "lng": -75.2406742
+              },
+              "html_instructions": "Slight <b>left</b> onto <b>D&amp;L Canal Trail</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "gkfwFxzejMEn@A^@DBDPT@FAHIVC@EC?AGMIKEAA@C@CDAFBR?B?@Hb@@B@@XVBB^R^R@?^PRLj@Z~@h@@?^R~@h@?@^R^RdAl@`@R`@R^P"
+              },
+              "start_location": {
+                "lat": 40.6701225,
+                "lng": -75.237732
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.0 mi",
+                "value": 1668
+              },
+              "duration": {
+                "text": "6 mins",
+                "value": 341
+              },
+              "end_location": {
+                "lat": 40.6562409,
+                "lng": -75.2528939
+              },
+              "html_instructions": "Take the pedestrian tunnel",
+              "polyline": {
+                "points": "qyewFdmfjMLHHDTNRLJD^TRLJFTLf@ZNJ\\V^ZJFB@`@RZLd@RJFTF\\Nx@d@^RNJHFTLDBXPRLPLTN@@PLLHBBLHTNd@Xh@Xn@Z\\PZLVNd@V`@TPJNJ^RNHLFPJNFXPVNLHf@ZFD^T@@`@XXTFDTRJH\\VPPZ^@??@ZX@@TVBB@@LLLLNLJL@?HJ\\^LNHJNTDDLX@BRb@@@Td@?@Rd@Pf@?@Nf@@?BHJ^BHL^FTFP?@L`@BD?@Nf@?@@DLb@DLHZJXDL?@J\\Rr@@@?@Nf@J`@BFLb@@DJ`@BFPh@?@Nf@FRHTNf@@@Vz@HTJ`@BFNh@?@Nh@BD"
+              },
+              "start_location": {
+                "lat": 40.6672872,
+                "lng": -75.2406742
+              },
+              "travel_mode": "BICYCLING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "wwusFxq{gMd@`@iEnF{F~Jo@vEoAkAo@{DeEyMyLgR}U_W{FgD}@lD{CqDaCIwBs@yFXuMeD}JwCmOqOwHcIoJcFoLgEiGgFwTcUyBwFgDqJeA}C}AHqBzAoFvCiB_DmIsJsImKaKcVoQw^g@Ve@qC{LoNAkAw@b@iJkFiGcHqFwKgFqHgZoLs_@_LmR_GqImIiQs\\cEcQiCiP_HaGiLqE_b@eQgXyD{LoCoBaIwBr@PhDYx@cDiA}NeFmLsGkQuEg\\cIu[mKmU_NqE[}O]mDeGwD|A{CfB}FXmVv@kObNiBp@iA~Bq@`AyC~E_Vrd@eWrg@ce@|oAiI|b@eBvMw[zv@of@h{AuSf]gd@bW}WxVuZtSyi@fPmYdBqV`FcQdEwe@nWkKtN}E`K_MfIs@^iAIqD}GwHyJ}ARsM~KcTbPcH`HuGjMiEnJ{H|PeYbm@wQ~`@wFrUcBvUFjTcHvZwNd_@mQdVy]ff@cFfHaHzCkHnCaGzG{JlNsO|TsCxKiEtPsNxNoPdJiXhDaR\\aRaAuU|@kCa@kBVuKjCk\\fJaTvGcSlDqLzCuOrIcDzByG|Fk[vTq\\vVcg@|PwLtK{JnPwUjp@_b@pnA_Irj@c@tShA|TvMjp@dSjy@|A|SgDt\\uKtSeKfLyKhU{Mn^qJx^qD|_@cClNeFlLiHfI_H`EuRbEmYfAk{@|Mky@`Nu\\dLeTpCuReD_RmKwPeJkXwHo_A}Jw`@Cwl@vDopAlJmaA]wg@YoSVmV|CsbAtNeRxIwUzYkVz\\m@r@mC}DqAsBoAaAs@w@cE|EqJzQ{Vp^sP`RsKzM{NpNuFrMnF|NjItNgFlNiHxYwJvd@t@fTzCfr@@nF}GEmEV_Au@A`B@pC?dF@jGQnKUvP~Azv@zCd`@jJfSzVb`@rMj_@~Jdw@_Ejc@vAz_@aDbLwM~RoK~HyMtFuOpI{Cz@yIdI}HrJ_LjEgKbBkGWgVqP_QaMmKW_N`CsObBaSpAyPbB}J~Cq`@vS_QnIqOfLgHbDyIzBqFkBwEkHwCmWoAyRaFiFqHsCwMaGq]vEcQb@yPrCuXfMyYjSwFbPwKhHuGnAiMsA_HyGg[m\\wNeMgIaHqLyN{MuVaKoN{IyMaJiKoK{FcNu@uLtKqBdHoArSo@lG|@~HnAdP_FxWsC`QkKzM_SzQiKnGq@dC}@nFrHpKzFfNdF|^dHjZUhEfA~NpEtQdHnLrJpIhZzLnHhD~EbFpC|D`CtAm@hIQfEQv@xSlLpk@n]|HzLfEvNzDrM"
+      },
+      "summary": "Delaware and Raritan Canal State Park Trail",
+      "warnings": [
+        "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+      ],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}

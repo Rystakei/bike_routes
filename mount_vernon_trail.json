@@ -1,0 +1,715 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "partial_match": true,
+      "place_id": "ChIJz8zn2VO2t4kRYX39C6wsVE4",
+      "types": [
+        "establishment",
+        "natural_feature"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJOeWU6Rqvt4kRQlV8huF3AGE",
+      "types": [
+        "establishment",
+        "park",
+        "point_of_interest"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 38.8968623,
+          "lng": -77.03803320000002
+        },
+        "southwest": {
+          "lat": 38.710732,
+          "lng": -77.085197
+        }
+      },
+      "copyrights": "Powered by Google, \u00a92025 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "17.3 mi",
+            "value": 27769
+          },
+          "duration": {
+            "text": "1 hour 28 mins",
+            "value": 5295
+          },
+          "end_address": "Mount Vernon Trail Trailhead, 146 George Washington Mem Pkwy, Alexandria, VA 22309, USA",
+          "end_location": {
+            "lat": 38.7135686,
+            "lng": -77.08517309999999
+          },
+          "start_address": "Theodore Roosevelt Island, Washington, DC, USA",
+          "start_location": {
+            "lat": 38.8968623,
+            "lng": -77.06719799999999
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0.2 mi",
+                "value": 310
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 57
+              },
+              "end_location": {
+                "lat": 38.8943562,
+                "lng": -77.0658953
+              },
+              "html_instructions": "Head <b>southwest</b> toward <b>Mt Vernon Trail</b>",
+              "polyline": {
+                "points": "k`llF~dkuMA?LHLHx@[h@URILGxAq@\\MDEPKj@]rA{@XOh@W"
+              },
+              "start_location": {
+                "lat": 38.8968623,
+                "lng": -77.06719799999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.6 mi",
+                "value": 2566
+              },
+              "duration": {
+                "text": "7 mins",
+                "value": 447
+              },
+              "end_location": {
+                "lat": 38.8772574,
+                "lng": -77.0481219
+              },
+              "html_instructions": "Slight <b>left</b> to stay on <b>Mt Vernon Trail</b><div style=\"font-size:0.9em\">Entering District of Columbia</div>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "wpklFz|juM@E?C@E@CBCDCL?NEJGB?\\OBCr@[HE^QPINEH?H?N@B@XDD?H?R?D?RCRAVI`@ODA\\IPE@?TE@A@?BAJAHCBAp@MXG@?DA@?NCBA^GVAJC@ARILEBARODEBA\\_@b@i@d@q@P[H_@N{@@CHs@DQBMDSDq@@S@k@?AFc@@GBUFULe@@CNc@T]X]DEZ[@CXWV[PUDGDGd@o@NUX_@RYNQLKHIPQLM\\YXSZOb@OXM`@IJETETIJEFEBAJGPI@ABABAHIz@o@\\YJKPOPKJGRMTOr@_@BAPI?ALILQHM?AHMR[FI@CPONMHGl@g@HGVYFEFAf@q@t@q@POPOHKf@k@p@_ATe@JSFOFGHEPIJCJIHMFORy@J[NQ\\a@LKLIR[HMHKLWR]Vi@NWDKVc@Tc@@CR_@h@iAPi@Pg@@CP_@Ra@@CJQLSRWLQDERWr@{@\\_@PUV[d@k@LS@?HKJOLOBER[T]n@}@n@}@PUBEDEDCDAF?B?DA"
+              },
+              "start_location": {
+                "lat": 38.8943562,
+                "lng": -77.0658953
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.6 mi",
+                "value": 2530
+              },
+              "duration": {
+                "text": "7 mins",
+                "value": 435
+              },
+              "end_location": {
+                "lat": 38.8607933,
+                "lng": -77.0452198
+              },
+              "html_instructions": "Slight <b>right</b> to stay on <b>Mt Vernon Trail</b><div style=\"font-size:0.9em\">Entering Virginia</div>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "{ehlFvmguMNALANCHALEJCDC\\St@a@t@a@JE~@w@RQXQLMNM`@]RSBCLORWHSDODMLi@HSDQBO@KAOAI?GACAM?O@O^cBLi@H]Ru@BK@A?ABI@?@EFQ@C?CBANUBEBEHMDEd@i@Z[Z[\\[Z[\\[Z[BCBAFGBCFILKNMd@c@l@s@RSTSZ[FKFMTa@PYFIN[HSHKNMNIDCXQHEd@SNMTO^Sd@c@\\WZUBCBAFEPIb@Qj@Uv@W@?^OZKp@[r@[d@Qr@OTG~@W^OXMHCVKHCRELC@?VEJAVEb@IFARAN@D?PDVFPH@@LFLJLNPXd@~@@BP^@DBJBN@j@?lA?`@AXW~B?P@NFL@@DFHHJHZ\\n@l@FHTRFDLLHJ@DJPRn@FHHLRR`@d@Z`@NNHJNPv@|@X\\NPHL@DNTDDPRHHNNJJPPHH\\ZZXJJPL^TBBZN`@RD@|Az@JD"
+              },
+              "start_location": {
+                "lat": 38.8772574,
+                "lng": -77.0481219
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.3 mi",
+                "value": 502
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 125
+              },
+              "end_location": {
+                "lat": 38.8565309,
+                "lng": -77.0466082
+              },
+              "html_instructions": "Keep <b>right</b> to stay on <b>Mt Vernon Trail</b>",
+              "maneuver": "keep-right",
+              "polyline": {
+                "points": "}~dlFr{fuMFBVDTBND`@JRDNDTFNFFFNNNP?@HJ@?@BDDNNJHB@JBPBB?hALZF@?TFJD@@HDRJ@@RHJ@b@DB?^D@?XLB@B@JFPFd@BT@D?D@D?@?J?B@B?X@H@d@@JEFCJE"
+              },
+              "start_location": {
+                "lat": 38.8607933,
+                "lng": -77.0452198
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.1 mi",
+                "value": 1695
+              },
+              "duration": {
+                "text": "6 mins",
+                "value": 341
+              },
+              "end_location": {
+                "lat": 38.8418337,
+                "lng": -77.0480202
+              },
+              "html_instructions": "Slight <b>left</b> to stay on <b>Mt Vernon Trail</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "iddlFhdguMRMZQ\\ORGRC@?DARAF@R@N@VFb@LZHNDLBNDD@PBNBRDN@VDJ?ZBF@`@BN@R?R@N?`@@@?p@@r@@D@JB`@Lf@NJFPFPFRFLB@@NBPBJ?JAH?@?TCJ@@?`@FVDJBB@RBHBNDNLNNFBDBB?RDJBRFLB@?PBNDD@XFzAVNB?@RBL@@??@N@@@FBF@@@R@XAREB?VEJALA\\?TBD?P@ZFJBHD^VDHFFDFBB@?JHPN?@RJJFD@LFLBB@NBD@FBF@L?N?RCLEHDH?F@JBB?DAH@P@ZBF?L@NHTJNF@?R@L@VBJ?T@L@L?f@?VC\\?@?X?^CVEf@QNCb@I@?PAV?F?FCHETGTIVGNEPEVGJCr@StBw@"
+              },
+              "start_location": {
+                "lat": 38.8565309,
+                "lng": -77.0466082
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.5 mi",
+                "value": 2406
+              },
+              "duration": {
+                "text": "8 mins",
+                "value": 475
+              },
+              "end_location": {
+                "lat": 38.8217457,
+                "lng": -77.0435478
+              },
+              "html_instructions": "Slight <b>right</b> to stay on <b>Mt Vernon Trail</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "mhalFbmguMF@d@@P?D@FAFEHEDC@??APKRM^SJGRMHGTMFEHGNIDC@CJWBEDMFIDC@CFE@?FEJEDCDAJGFC^SJG^STKRKJGRKJGVMNKNMDEJOFMDKFIPWHEHGDABAH?@?N@VEp@?d@?X@TAVAJ?JAPGLOHANEPEHAX?b@Eb@E?A~@MDAJCVE@?bAOPEvAWRCLEb@I?A`@KJEXK`@MZKXK^QH?LBRNDDB@D@H@FA@APGFI@ABE?I@IHGNEZKRINILIJO@E@C@M?I?IFKJG@AJC@?JEH?B?L?L?FAdAY\\KTMTSLSLSNQXMBAn@KJAB@H?PAb@?b@?V?PAJ@f@Eh@Ax@CTALAb@Et@EHBVNZPLBN@X@J?V@J?LC\\Kb@KR@j@?P?@?NAHAFCXINC\\C`@Et@CLDFHP\\RJd@RRJL@F?F?VCVEPAZAXBV?`@A|@B^@D@F@D?B@D@D@DBDBHHPPDBB@BBF@H@F@T@fAHF?~@F`ADRBPL"
+              },
+              "start_location": {
+                "lat": 38.8418337,
+                "lng": -77.0480202
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 mi",
+                "value": 156
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 21
+              },
+              "end_location": {
+                "lat": 38.8203452,
+                "lng": -77.0437063
+              },
+              "html_instructions": "Continue onto <b>E Abingdon Dr</b>",
+              "polyline": {
+                "points": "}j}kFdqfuMVBlAHV@VBR@TBR?P@P?^B"
+              },
+              "start_location": {
+                "lat": 38.8217457,
+                "lng": -77.0435478
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 mi",
+                "value": 364
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 56
+              },
+              "end_location": {
+                "lat": 38.818018,
+                "lng": -77.04077579999999
+              },
+              "html_instructions": "Turn <b>left</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "eb}kFdrfuMJUZc@\\Y@AHMr@aAX]?A@?V_@X_@p@}@@AZ]X]Z]?ABAT[TYDENSPY@C@C@CBIDONU"
+              },
+              "start_location": {
+                "lat": 38.8203452,
+                "lng": -77.0437063
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.6 mi",
+                "value": 2605
+              },
+              "duration": {
+                "text": "7 mins",
+                "value": 435
+              },
+              "end_location": {
+                "lat": 38.7949134,
+                "lng": -77.0457085
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>N Royal St</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "ss|kFz_fuMPDN@RBlBVJBbAJbALxAPpANf@F@@fBTvC^f@Hb@DxBZ`@DfAN\\DdALVDbBRdFp@`@DLBd@FZDVDf@Fn@HvAP^FJB|ARj@HF@`@DZDnAP`@FjC\\N@dALhBV^Dv@Jb@H~En@dFn@bFn@xEl@JBD@jBTlBVfDb@bALxEl@PBRBlEj@nBV"
+              },
+              "start_location": {
+                "lat": 38.818018,
+                "lng": -77.04077579999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "482 ft",
+                "value": 147
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 22
+              },
+              "end_location": {
+                "lat": 38.7936096,
+                "lng": -77.0459894
+              },
+              "html_instructions": "Continue straight onto <b>S Royal St</b>",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "ecxkFt~fuMlBTNBbALb@FHBRB"
+              },
+              "start_location": {
+                "lat": 38.7949134,
+                "lng": -77.0457085
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "292 ft",
+                "value": 89
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 21
+              },
+              "end_location": {
+                "lat": 38.7928263,
+                "lng": -77.04621639999999
+              },
+              "html_instructions": "Continue onto <b>Mt Vernon Trail</b>",
+              "polyline": {
+                "points": "a{wkFl`guML@@?NB@@L@@@@?H@JBHBB?D@F@HBD@RD@?@@D@FB"
+              },
+              "start_location": {
+                "lat": 38.7936096,
+                "lng": -77.0459894
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 mi",
+                "value": 280
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 79
+              },
+              "end_location": {
+                "lat": 38.79306529999999,
+                "lng": -77.0494361
+              },
+              "html_instructions": "Turn <b>right</b> to stay on <b>Mt Vernon Trail</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "evwkFzaguM@X?DGbACd@GtA?DCl@EzAAHAb@Al@Al@Cl@?@?PCXCl@"
+              },
+              "start_location": {
+                "lat": 38.7928263,
+                "lng": -77.04621639999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "3.3 mi",
+                "value": 5250
+              },
+              "duration": {
+                "text": "16 mins",
+                "value": 953
+              },
+              "end_location": {
+                "lat": 38.7491599,
+                "lng": -77.0491777
+              },
+              "html_instructions": "Turn <b>left</b> to stay on <b>Mt Vernon Trail</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "uwwkF~uguMR@TDLDLBPH@?HDd@T`@Nn@T@@@?^N@?DBl@RHDD@JDLHZPB@@?D@@?D?DCB?B?D@H@FBF@FBVNPLFDBBBBBD@B?BBF@D@D@BBDDDBDDDDBFDHDFDJJHJRNRPHDNLDBDB@?@@D?D@L@F@HBDBHFJJNLFDPPHHBDTT@@NJNF^PRNh@`@XNDBLHTNXRZT`@XDBXPB@ZTTJZLNDPHLFLHRHLF`@NRJTFHBDBJBJHFDJHLDDBLDLB@?RBLDF@v@JhBVfADFAH?N?NCPCPATAb@?RATGJCFCJIFGLKPIPIDAFEHCLE@?LAFAJA@?J?LAXKNIJILM@CFIDKFMBEHQBEHGLGLE@?TELELILGHGNMRMRMVSBAXU@A@CBEXi@LUHIJIHCLERE\\Eb@KBA`@KXKPGl@Qh@IDCD?NGVKNMJKJMFEVUPQNKHCF?HBLJRH\\RXRZPLHJBR@RAR?X?d@?ZB`@HLBD?F?D?DCJCN@XA^EH?LBZHRDRDJ@L?R?FAJ?`@?NBv@TLBt@Pj@JRDZDN?J@VCH?J?d@Hh@Jf@FH@p@DZFRFLDPDXHbATb@LXJVJXLf@VHDPF|@ND?@?LAF?B?D@@@DBXLPBN@N?NARAV?Z@D?T@\\@b@@R?N?R@L?T@JAb@In@KRCVCXCLAH@HBJ@N@h@Hl@Lx@NT?LCJIFA`Bg@p@[?Al@c@NGZKRAZCj@e@HId@a@d@c@LEBAPGNMLMR]JMNMTUj@i@f@k@j@Sj@e@\\i@RSx@u@HIr@e@^Yv@g@z@]l@Q@?b@ORWNGPED?N@R@@?V@NGZG`@ID?\\AF?\\ERGNA`@Fh@CZALAR?@@NBzA?T?LB\\Hv@Hj@BJCJAV@R@VHb@VTD\\Dd@RLHnAVFBb@LfBd@`@?ZAj@J@?b@JLBt@FJ?d@@T@b@BH?XG`@IDA\\GXEFCVIHC`@MPEPEdASZGL?XB@@RFN?J@VAJ?TG\\KD@L@N@D?ZDDAH?NIFITEJ?fAC"
+              },
+              "start_location": {
+                "lat": 38.79306529999999,
+                "lng": -77.0494361
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 mi",
+                "value": 287
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 88
+              },
+              "end_location": {
+                "lat": 38.7467591,
+                "lng": -77.0484598
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Northdown Rd</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "geokFjtguM@IBCr@c@JIRMFEl@_@\\OZIHAj@IbAI`@N^JJ@H?N?D?RCBADANE"
+              },
+              "start_location": {
+                "lat": 38.7491599,
+                "lng": -77.0491777
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "177 ft",
+                "value": 54
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 16
+              },
+              "end_location": {
+                "lat": 38.7466751,
+                "lng": -77.0490729
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Alexandria Ave</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "gvnkFzoguMDd@Dd@?LB^"
+              },
+              "start_location": {
+                "lat": 38.7467591,
+                "lng": -77.0484598
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "2.4 mi",
+                "value": 3803
+              },
+              "duration": {
+                "text": "12 mins",
+                "value": 705
+              },
+              "end_location": {
+                "lat": 38.7166991,
+                "lng": -77.0458635
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Mt Vernon Trail</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "wunkFtsguMb@HB@L@P?J@PCBAj@URGBAHAXCb@EVEJAVMLIJIJEXG@?`@EJA\\CL?XATE@?r@KRCHAh@EPAb@ELATEb@GRCf@?tBIRAN?B?^?VCL?\\FTBP@x@F\\AR@XDr@JVBB?H?F?NFVFJBPLNPRNPH^@b@?N@B?b@?VBFBXND@TDL?H?p@A`@?L@TDJB`@P@?XPB?b@Hb@HJ@h@HN@Z?F?NCREHCLGTI\\BZDPBp@@~@EXC@?NCj@INAPAXETEB?b@QROBCTQDGHGTMv@Wt@_@ROBAj@_@ZOTGf@SHEDEBGBIFQFWBIJ[?A@AJ]Pa@FMNWn@oA@AVa@FKNIFE@ADGHW?A@AVaADM@ABERU@AV]@AZY?AHGPS@AJQ\\s@@CLSFQBMDIHENIDGFIHONWHODM@CBKLQ^_@JKPMHITGFCNEFCDCLM@?FG?ANQRQNQDCjAq@h@OLEFATCBA\\ABA@?bAGd@A@?L?J@H@LBRBJ@VB@?V?F@@@F?JDJDHFDHBFBJ@XBN?@@LBVBD@DDDF@L@@?N?PA@?@?LCJ?f@JF@FBDDDHHHLFHB`@J@?TLPNLLBBDBF@F?F?PCJCJA@?L@B?JBB@D@ZB@?F@F@FBTLNFh@Ht@JLBF?H?D@HB@@JHJLFFFLBJ@@BBFBLBH?P?BAJCLKXM^QLATBD@ZLD@D@DAHGLKLILCTAF?@@`@D@?L?F@DJ@@JXFFPLHBNCNIHKNSBEDGJMHC@?H?VF@?`@JLDFFBF?B?DIX?DAHBBB@LABAFCLEPA`@DZDF@VDJBVDHBb@HRDLFTHJFV\\@?RTDFBBDLFXFNFHx@bA@@LLD?HC"
+              },
+              "start_location": {
+                "lat": 38.7466751,
+                "lng": -77.0490729
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 mi",
+                "value": 183
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 47
+              },
+              "end_location": {
+                "lat": 38.716049,
+                "lng": -77.04762699999999
+              },
+              "html_instructions": "Slight <b>right</b> onto <b>Fort Hunt Rd</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "kzhkFr_guMTTHHPPDFFFNPJPLVBDJ`@H`@@X@^A`@Cp@?J"
+              },
+              "start_location": {
+                "lat": 38.7166991,
+                "lng": -77.0458635
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 mi",
+                "value": 184
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 45
+              },
+              "end_location": {
+                "lat": 38.716348,
+                "lng": -77.049564
+              },
+              "html_instructions": "Continue onto <b>Fort Hunt Park Rd</b>",
+              "polyline": {
+                "points": "ivhkFtjguMBPH\\FZ@H?F?F@@?NCXCVGPAFINEFMRINGNGNAJAFCVAVA\\"
+              },
+              "start_location": {
+                "lat": 38.716049,
+                "lng": -77.04762699999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.6 mi",
+                "value": 970
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 159
+              },
+              "end_location": {
+                "lat": 38.715223,
+                "lng": -77.057583
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Fort Hunt Park Loop</b>/<wbr/><b>Outlet</b><div style=\"font-size:0.9em\">Continue to follow Outlet</div>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "exhkFvvguMU@WDWJWLQNW\\EFIPGPEJGX?BGb@ObBCd@CRKhAMzAADKjAGt@?Bc@bFQpBGr@KhAAXAX@J?L@H?N@DBTFVFRBLJRPZFHDFLNXTJFF@JDPFVDZHLDZL\\NDBTLv@f@\\RTF`@FJBTB^?`@A"
+              },
+              "start_location": {
+                "lat": 38.716348,
+                "lng": -77.049564
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "427 ft",
+                "value": 130
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 17
+              },
+              "end_location": {
+                "lat": 38.7145854,
+                "lng": -77.0587469
+              },
+              "html_instructions": "Turn <b>right</b> toward <b>Bushrod Rd</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "cqhkFzhiuM?PBTFVFXFPVr@JVPRJJTLHB"
+              },
+              "start_location": {
+                "lat": 38.715223,
+                "lng": -77.057583
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "125 ft",
+                "value": 38
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 5
+              },
+              "end_location": {
+                "lat": 38.7146763,
+                "lng": -77.0591561
+              },
+              "html_instructions": "Turn <b>right</b> toward <b>Bushrod Rd</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "emhkFdpiuM?@?VCZMZ"
+              },
+              "start_location": {
+                "lat": 38.7145854,
+                "lng": -77.0587469
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 mi",
+                "value": 307
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 55
+              },
+              "end_location": {
+                "lat": 38.7140564,
+                "lng": -77.0626047
+              },
+              "html_instructions": "Continue onto <b>Bushrod Rd</b>",
+              "polyline": {
+                "points": "wmhkFvriuMFj@Fl@Hv@Hn@VdCPxAR~BHr@@DLrA"
+              },
+              "start_location": {
+                "lat": 38.7146763,
+                "lng": -77.0591561
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "105 ft",
+                "value": 32
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 30
+              },
+              "end_location": {
+                "lat": 38.7143404,
+                "lng": -77.0626336
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Vernon View Dr</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "{ihkFfhjuMQ@e@B"
+              },
+              "start_location": {
+                "lat": 38.7140564,
+                "lng": -77.0626047
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.3 mi",
+                "value": 510
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 98
+              },
+              "end_location": {
+                "lat": 38.7144388,
+                "lng": -77.068429
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Wakefield St</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "skhkFlhjuM@f@B`ABfADxAFhCHdBJdFBxAEJEx@Gx@Gf@Gf@Ov@Mj@CV"
+              },
+              "start_location": {
+                "lat": 38.7143404,
+                "lng": -77.0626336
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.3 mi",
+                "value": 563
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 137
+              },
+              "end_location": {
+                "lat": 38.7107647,
+                "lng": -77.0721545
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Stratford Ln</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "glhkFtlkuMN@N@jBTh@L`@LFBLFFDDBf@Zf@`@^d@^f@`@x@BFHPFR@@L^Vh@NZDFJRh@r@XRDBJFPLb@VRBHFLNLL?@FPDP?@@@?\\C\\?X"
+              },
+              "start_location": {
+                "lat": 38.7144388,
+                "lng": -77.068429
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "308 ft",
+                "value": 94
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 13
+              },
+              "end_location": {
+                "lat": 38.7110099,
+                "lng": -77.0730284
+              },
+              "html_instructions": "Slight <b>left</b> toward <b>Mt Vernon Trail</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "gugkF|cluMFVAPKVILWb@QREJ?HDHFF"
+              },
+              "start_location": {
+                "lat": 38.7107647,
+                "lng": -77.0721545
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.1 mi",
+                "value": 1714
+              },
+              "duration": {
+                "text": "7 mins",
+                "value": 413
+              },
+              "end_location": {
+                "lat": 38.7135686,
+                "lng": -77.08517309999999
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Mt Vernon Trail</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "yvgkFliluMGDKHMJIDEBEBE?K?O?IAA?GASIECGCMIEAE?A?G@GBGDED?@IJa@j@EFEHKJGFKLOPY^MRIJQTGHIJKPIRKRMPOJKHIJCFCBIPENCFKXKXINKPIRGNEHEDABCBCDIDEDWLA@A@EDABA?ADCDGLCJEFCDEFKL?@ABAFCFEHABCDCBIHIFOLEDCFEHEFkAvAEFCDEFEHELENEJELCNCPG\\GRINA@GNETA@GRQVQVOTIHKJQJGFGDGJGNUj@MTEF?BAB?D?@@@?B@@BDBBFVBLBHDl@A`@?T?JAHADABCBCBIFEBA@GBG@K?EASEGAEAA?E@E@ABABADCJCVARALC\\?Z@R@Z@^?HAFCJABAD?FAJBNFZBTB\\BVBFDLTZDFFFDHBL@B@HBN@HDD?@BBHDPFJHVZXf@JR?@JNNJTN`@`@@@^TB@LFNDNBP?@?P?^@b@@LBJAPAD?D@DBTXDDDBF@L?L@RB@?TBL?@?P?RCNA"
+              },
+              "start_location": {
+                "lat": 38.7110099,
+                "lng": -77.0730284
+              },
+              "travel_mode": "BICYCLING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "k`llF~dkuMJHfAQdDyAzFgD|E{BpAH~Ck@~Co@zAUdCsBpAiDTwA\\iEf@cBpA}AfCcDrC{ClEaB~EiD`CuA~@yAjCwB`CcCxB}Cd@q@r@e@v@wBlAsAzBaElCgG|GaJpDgFx@i@tBk@bGaEfAeAh@iA^mCAq@jAaFVu@|FmG~AyAjDmEjBsBxDgClCsAtHmCnEwAjC_@nBn@bBnD?tDMnDfCfCrA~BrDfEdFvFxBlAhCjAzAZ|A`A~@t@`Dh@fBd@fCj@|@DhADr@]|Bq@|FfA`DRlEXjCx@vA?~AVfAn@hGjAxBHxCBlA~@rAx@dAP|A@xB\\zBR~DMvCe@rCw@hDkAl@Bf@EvAy@fBgAn@gAnFoCxAkBpAUhEKx@]fAGnCa@tGoAfDiAdAZz@{@lAi@Pg@Rg@ZKh@?`Cu@`AmAxA]|C?hG[jAh@lADzA[rA@`Ec@z@x@nA`@xDK`CNt@l@~DX~BZpCPlADj@Qx@}@xAoBr@aA~CyDfAcBTe@`@FpEj@`QxBn\\fEfxAbRlIhA`ARP`@SdEUfIGzAdAPxClA~B~@|Bn@jA|A`BpAx@ZpE`DxIjFxEvBhFx@rDGlAIf@YxAq@fB]~@wA|Aq@dCeBnAcBbDw@lDiAjBwAxC`BfEPnBMhCZdA@fDv@~CR|Ev@~FpBvBVr@VbAAtDFbE[`CLjCXfDoAxAy@n@Et@o@|AmAbAaA|A{ArA_AhAoAvAsAfEeCfBy@v@K~CWhAOtB?zF\\zA?dBh@`Dz@tDv@bFb@|AA~AYpEgA|BL~BIv@YxAQlE}BnBS`AZj@@l@MNxBhBHbDq@fCw@bJ}@pGSxEZhC^`Ar@dBLjC^jB?dAZfEr@t@M|AG|CClAOdAMpAw@vEgCbBq@Ti@~@oCzBiDt@{BfBoBlAiCpAgBpBmB|@i@x@y@jCiAhDSlD`@^~ANh@f@BfBJfB~@h@d@h@A`ABdCj@fBVx@bAl@@rAo@`BJ~@[l@F\\Nn@r@xAmA`Bh@Ih@RLj@M|ARtCv@lAvBpA|An@ZxAdCTjFBxBaAtBIbAW^o@PgAbA_@hA{@pJ_BrRN`C~AhCnCz@pBhA`Bf@t@B`@NZxA`AjB^RIzBr@zGp@rGLrAQ@e@B@f@FhCLbFRpL]bE]bBJXfEr@b@TnCjCv@fBv@fBtAbB`CzAJ~BDh@Ud@o@lAE`@c@XoAQa@OYJqAdBgExFqBlEwAbB}AzBsB`Dq@bCoD~FC^Z~C]r@eAC[t@AtD?|ANrAh@x@XfAj@Z|@xAfCnBvCPh@AZ\\zATdAE"
+      },
+      "summary": "Mt Vernon Trail",
+      "warnings": [
+        "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+      ],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}
