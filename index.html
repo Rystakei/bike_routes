@@ -90,6 +90,9 @@
         #side-panel.peek #description-card {
           display: none;
         }
+        #side-panel.peek #side-panel-header {
+          display: none;
+        }
         #mobile-close {
           display: none;
         }
@@ -166,9 +169,8 @@
         #drag-handle {
           display: none;
         }
-        #side-panel-header {
-          display: flex;
-        }
+      #side-panel.open #side-panel-header {
+        display: flex;
       }
 
       #side-panel-header {
@@ -178,6 +180,7 @@
         color: white;
         justify-content: space-between;
         align-items: center;
+        flex-shrink: 0;
       }
       #side-panel-header h2 {
         margin: 0;
@@ -191,6 +194,7 @@
         cursor: pointer;
         padding: 0;
         line-height: 1;
+        flex-shrink: 0;
       }
       #side-panel-content {
         padding: 15px;
