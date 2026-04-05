@@ -391,15 +391,15 @@ loadFilteredStations("Regional_Rail_Stations.geojson", "teal", "Joint");
 // === Manayunk/Norristown Line (for Manayunk station)
 loadFilteredGeoJSONLine(
   "Regional_Rail_Lines.geojson",
-  "orange",
+  "teal",
   "Manayunk/Norristown",
 );
 loadFilteredStations(
   "Regional_Rail_Stations.geojson",
-  "orange",
-  "Manayunk/Norristown Line",
+  "teal",
+  "Manayunk Norristown Line",
 );
-loadFilteredStations("Regional_Rail_Stations.geojson", "orange", "Joint");
+loadFilteredStations("Regional_Rail_Stations.geojson", "teal", "Joint");
 
 // === Add Amtrak Lines
 trainLines.forEach(loadTrail);
