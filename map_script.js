@@ -440,7 +440,7 @@ const locations = [
   {
     name: "Schuylkill River Trail",
     town: "Philadelphia, PA",
-    coords: [39.9815, -75.1899],
+    coords: [40.027, -75.225],
     videoId: "xNeGmf3j99E",
     description:
       "60+ mile regional network along the Schuylkill, city to nature.",
@@ -453,9 +453,11 @@ const locations = [
 function openPanel(location) {
   document.getElementById("location-name").textContent = location.name;
   document.getElementById("location-town").textContent = location.town;
-  document.getElementById("location-description").textContent = location.description;
+  document.getElementById("location-description").textContent =
+    location.description;
   document.getElementById("location-train").textContent = location.train;
-  document.getElementById("best-access-inline").textContent = location.bestAccess ? `★ ${location.bestAccess}` : "";
+  document.getElementById("best-access-inline").textContent =
+    location.bestAccess ? `★ ${location.bestAccess}` : "";
   const startTime = location.startTime || 60;
   document
     .getElementById("video-iframe")
@@ -463,15 +465,15 @@ function openPanel(location) {
       "src",
       `https://www.youtube.com/embed/${location.videoId}?autoplay=1&mute=1&start=${startTime}`,
     );
-  
+
   const panel = document.getElementById("side-panel");
   panel.classList.add("open");
-  
+
   // Mobile: default to peek state
   if (window.innerWidth <= 600) {
     panel.classList.add("peek");
   }
-  
+
   document.getElementById("panel-overlay").classList.add("show");
   map.flyTo(location.coords, 13);
 }
@@ -484,7 +486,9 @@ function closePanel() {
   map.flyTo(map.getCenter(), 9);
 }
 
-document.getElementById("side-panel-close")?.addEventListener("click", closePanel);
+document
+  .getElementById("side-panel-close")
+  ?.addEventListener("click", closePanel);
 document.getElementById("mobile-close")?.addEventListener("click", closePanel);
 document.getElementById("panel-overlay")?.addEventListener("click", closePanel);
 
