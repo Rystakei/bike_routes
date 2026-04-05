@@ -81,11 +81,14 @@
         }
         #side-panel.peek {
           bottom: 0;
-          height: 50%;
+          height: 35%;
+          overflow: hidden;
         }
-        #side-panel-header,
-        #mobile-header {
-          display: none !important;
+        #side-panel.peek #side-panel-content {
+          overflow-y: hidden;
+        }
+        #side-panel.peek #description-card {
+          display: none;
         }
         #mobile-close {
           display: none;
@@ -104,19 +107,6 @@
           font-size: 18px;
           cursor: pointer;
           z-index: 10;
-        }
-        #side-panel.peek #video-container {
-          width: 100%;
-          padding-bottom: 56.25%;
-          max-height: none;
-          position: relative;
-        }
-        #side-panel.peek #video-container iframe {
-          position: absolute;
-          top: 0;
-          left: 0;
-          width: 100%;
-          height: 100%;
         }
         #side-panel.peek #location-info h3 {
           padding-right: 30px;

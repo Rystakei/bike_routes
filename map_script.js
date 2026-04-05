@@ -451,7 +451,6 @@ const locations = [
 ];
 
 function openPanel(location) {
-  console.log("openPanel called for:", location.name);
   document.getElementById("location-name").textContent = location.name;
   document.getElementById("location-town").textContent = location.town;
   document.getElementById("location-description").textContent = location.description;
