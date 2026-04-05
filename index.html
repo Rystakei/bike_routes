@@ -79,18 +79,21 @@
           right: auto;
           bottom: 0;
         }
+        #side-panel.open.peek, 
         #side-panel.peek {
           bottom: 0;
           height: 50%;
           overflow: hidden;
+          display: flex;
+          flex-direction: column;
+        }
+        #side-panel.open.peek #side-panel-header {
+          display: none;
         }
         #side-panel.peek #side-panel-content {
           overflow-y: hidden;
         }
         #side-panel.peek #description-card {
-          display: none;
-        }
-        #side-panel.peek #side-panel-header {
           display: none;
         }
         #mobile-close {
@@ -169,8 +172,9 @@
         #drag-handle {
           display: none;
         }
-      #side-panel.open #side-panel-header {
-        display: flex;
+        #side-panel.open #side-panel-header {
+          display: flex;
+        }
       }
 
       #side-panel-header {
