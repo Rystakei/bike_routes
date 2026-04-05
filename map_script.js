@@ -410,7 +410,8 @@ const locations = [
     town: "Durham, PA",
     coords: [40.326824, -75.189025],
     videoId: "tFVdSSulkuc",
-    description: "Scenic loop around Lake Galena with paved paths, perfect for families.",
+    description:
+      "Scenic loop around Lake Galena with paved paths, perfect for families.",
     train: "Warminster Line to Glenside, then 3 mi bike",
     bestAccess: "Best: Glenside",
     startTime: 60,
@@ -420,7 +421,8 @@ const locations = [
     town: "Yardley, PA",
     coords: [40.2228, -74.8402],
     videoId: "wpiqDDHAK4A",
-    description: "Flat 60-mile historic canal towpath through charming river towns.",
+    description:
+      "Flat 60-mile historic canal towpath through charming river towns.",
     train: "West Trenton Line",
     bestAccess: "Best: Yardley",
     startTime: 150,
@@ -440,7 +442,8 @@ const locations = [
     town: "Philadelphia, PA",
     coords: [39.9815, -75.1899],
     videoId: "xNeGmf3j99E",
-    description: "60+ mile regional network along the Schuylkill, city to nature.",
+    description:
+      "60+ mile regional network along the Schuylkill, city to nature.",
     train: "Manayunk, Conshohocken, and other regional stops",
     bestAccess: "Best: Manayunk",
     startTime: 60,
@@ -448,49 +451,84 @@ const locations = [
 ];
 
 function openPanel(location) {
+  console.log("openPanel called for:", location.name);
   document.getElementById("location-name").textContent = location.name;
   document.getElementById("location-town").textContent = location.town;
   document.getElementById("location-description").textContent = location.description;
   document.getElementById("location-train").textContent = location.train;
-  document.getElementById("best-access").textContent = location.bestAccess || "";
+  document.getElementById("best-access-inline").textContent = location.bestAccess ? `★ ${location.bestAccess}` : "";
   const startTime = location.startTime || 60;
   document
     .getElementById("video-iframe")
-    .setAttribute("src", `https://www.youtube.com/embed/${location.videoId}?autoplay=1&mute=1&start=${startTime}`);
-  document.getElementById("side-panel").classList.add("open");
+    .setAttribute(
+      "src",
+      `https://www.youtube.com/embed/${location.videoId}?autoplay=1&mute=1&start=${startTime}`,
+    );
+  
+  const panel = document.getElementById("side-panel");
+  panel.classList.add("open");
+  
+  // Mobile: default to peek state
+  if (window.innerWidth <= 600) {
+    panel.classList.add("peek");
+  }
+  
   document.getElementById("panel-overlay").classList.add("show");
   map.flyTo(location.coords, 13);
 }
 
 function closePanel() {
-  document.getElementById("side-panel").classList.remove("open");
+  const panel = document.getElementById("side-panel");
+  panel.classList.remove("open", "peek");
   document.getElementById("panel-overlay").classList.remove("show");
   document.getElementById("video-iframe").setAttribute("src", "");
   map.flyTo(map.getCenter(), 9);
 }
 
-document.getElementById("side-panel-close").addEventListener("click", closePanel);
-document.getElementById("panel-overlay").addEventListener("click", closePanel);
+document.getElementById("side-panel-close")?.addEventListener("click", closePanel);
+document.getElementById("mobile-close")?.addEventListener("click", closePanel);
+document.getElementById("panel-overlay")?.addEventListener("click", closePanel);
+
+// Mobile bottom sheet handling
+const dragHandle = document.getElementById("drag-handle");
+const sidePanel = document.getElementById("side-panel");
+
+dragHandle?.addEventListener("click", () => {
+  sidePanel.classList.toggle("peek");
+});
+
+let touchStartY = 0;
+dragHandle?.addEventListener("touchstart", (e) => {
+  touchStartY = e.touches[0].clientY;
+});
+
+dragHandle?.addEventListener("touchmove", (e) => {
+  const deltaY = e.touches[0].clientY - touchStartY;
+  if (deltaY < -30) {
+    sidePanel.classList.remove("peek");
+  } else if (deltaY > 30) {
+    sidePanel.classList.add("peek");
+  }
+});
 
 const alexandriaCoords = [38.804744285975715, -77.0435299474239];
 
-locations.forEach(
-  (loc) =>
-    L.circleMarker(loc.coords, {
-      radius: 8,
-      fillColor: "green",
-      color: "white",
-      weight: 2,
-      fillOpacity: 0.9,
+locations.forEach((loc) => {
+  L.circleMarker(loc.coords, {
+    radius: 8,
+    fillColor: "green",
+    color: "white",
+    weight: 2,
+    fillOpacity: 0.9,
+  })
+    .bindTooltip(loc.name, {
+      permanent: true,
+      direction: "top",
+      className: "route-label",
     })
-      .bindTooltip(loc.name, {
-        permanent: true,
-        direction: "top",
-        className: "route-label",
-      })
-      .on("click", () => openPanel(loc))
-      .addTo(map),
-);
+    .on("click", () => openPanel(loc))
+    .addTo(map);
+});
 
 const peaceValleyPark = [40.326824, -75.189025];
 
