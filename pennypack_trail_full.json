@@ -1,0 +1,360 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJGdGpnFC0xokRXjNzygI9O2s",
+      "types": [
+        "establishment",
+        "park",
+        "point_of_interest"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJc9RCk4WxxokRTWfgJ3t-1uw",
+      "types": [
+        "establishment",
+        "point_of_interest",
+        "train_station",
+        "transit_station"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 40.1165239,
+          "lng": -75.0194794
+        },
+        "southwest": {
+          "lat": 40.0276519,
+          "lng": -75.0685757
+        }
+      },
+      "copyrights": "Powered by Google, \u00a92026 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "10.5 mi",
+            "value": 16827
+          },
+          "duration": {
+            "text": "59 mins",
+            "value": 3547
+          },
+          "end_address": "Bethayres, Station Ave, Huntingdon Valley, PA 19006, USA",
+          "end_location": {
+            "lat": 40.1163647,
+            "lng": -75.0685757
+          },
+          "start_address": "Pennypack on the Delaware, 7801 State Rd., Philadelphia, PA 19136, USA",
+          "start_location": {
+            "lat": 40.0276519,
+            "lng": -75.0194794
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0.3 mi",
+                "value": 442
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 84
+              },
+              "end_location": {
+                "lat": 40.0308649,
+                "lng": -75.022503
+              },
+              "html_instructions": "Head <b>northwest</b> on <b>Pennypack Pth</b> toward <b>State Rd.</b>",
+              "polyline": {
+                "points": "y{hsFvf{hMKHCBA@URCBGFQPuFbF?@c@`@eA|@GDGBKDKFIDIDIFEDGDEFCBABIJCDGJOVSTk@h@UT"
+              },
+              "start_location": {
+                "lat": 40.0276519,
+                "lng": -75.0194794
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "253 ft",
+                "value": 77
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 37
+              },
+              "end_location": {
+                "lat": 40.0312618,
+                "lng": -75.0217625
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>State Rd.</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "{oisFry{hMIQAEAA?AAAGOACCEGMKUGOACCECEKW"
+              },
+              "start_location": {
+                "lat": 40.0308649,
+                "lng": -75.022503
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.6 mi",
+                "value": 1030
+              },
+              "duration": {
+                "text": "4 mins",
+                "value": 263
+              },
+              "end_location": {
+                "lat": 40.0394107,
+                "lng": -75.0273139
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Rhawn St</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "krisF~t{hMOLA@e@d@ML_@^A@[ZA@i@f@w@v@g@d@WVA?QPA@MLYXA@C@?@IFQRm@j@[ZEDIFA@IDC@IFYNCBSJA@C@OJWNMFGDSLWLUNA?C@CBEBMFUNA?{@h@SLy@d@EBMHm@^IDWNC@MHOFE@]NOHIBIDODC@A@ODSHoAd@gA`@EBMDOFgA^C@aA^E@MDOD?@KBA@IBGBiA\\IB"
+              },
+              "start_location": {
+                "lat": 40.0312618,
+                "lng": -75.0217625
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 mi",
+                "value": 268
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 37
+              },
+              "end_location": {
+                "lat": 40.0404482,
+                "lng": -75.0244728
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Montague St</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "ieksFtw|hMI[mAqEAGCGCMo@_C?As@mCI["
+              },
+              "start_location": {
+                "lat": 40.0394107,
+                "lng": -75.0273139
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.6 mi",
+                "value": 920
+              },
+              "duration": {
+                "text": "4 mins",
+                "value": 246
+              },
+              "end_location": {
+                "lat": 40.0483802,
+                "lng": -75.026049
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Welsh Rd</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "ykksF|e|hMKFOFA?GBOHMFID]PC@KDMFg@TGD_@P_@PIDMFsAp@CBOJWRC@YPIBKFWLG@EBC@y@PC?I@G?I?MAI@GAA?W?U@[BUBC@E@E?IBm@Le@JC@OBSFa@JA?C@[HUDIBE@QBQBM?E?G?I?E?KAMCYASCEAYEo@GEAA?ECQGe@AE?[EsAOMAIAKAUEs@KAAg@EQCODGC"
+              },
+              "start_location": {
+                "lat": 40.0404482,
+                "lng": -75.0244728
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.4 mi",
+                "value": 622
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 126
+              },
+              "end_location": {
+                "lat": 40.0503043,
+                "lng": -75.0324255
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Pennypack Trail</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "k}lsFxo|hMCJEJC@EBC@A?C@OBI?A@E?E@QFA@A?A@C@IBIJABA@A@ADGJEPCFCHAXCp@?BALAX?B?BC^AH?BAF?B?@A@AFAFCF?BA?ELENCHEPIXIZEJEJIZKVSt@ADCNIXMn@ALCT?D?@AL?@APEpAAVAN?H?l@Bb@@J?R?DAJ?JCN?@?DGd@AN?@AH?RANAH?FA@ABABCFO\\GLA@EJA@?@A@?@?@@@"
+              },
+              "start_location": {
+                "lat": 40.0483802,
+                "lng": -75.026049
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.9 mi",
+                "value": 1523
+              },
+              "duration": {
+                "text": "5 mins",
+                "value": 275
+              },
+              "end_location": {
+                "lat": 40.0529047,
+                "lng": -75.0382942
+              },
+              "html_instructions": "Turn <b>left</b> to stay on <b>Pennypack Trail</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "kimsFtw}hM?@DFJNFJDBJH^VJFTF@?FBj@JJ@LBJBHFVPLDRDL?J@N?B?b@AP?L@B@NHNJX\\@?DDHFB@B@D?@?FANEHCNGJAZBNBt@JNF@?TLFDRPFHZ\\NRFLNVDL@DFX@JBNB\\@F@P?R?@AVALADCJCHIRABQ`@OVELUd@?@k@fAEJQTW`@OR_@`@_@f@INg@p@]ZEJGHEDGDCBCBEDADEFAFADAHCFEJO\\KZKTIPIRO`@AFOh@CNEHCFIHGBODM@Q?k@ACAMAK?E?S?K?I?aBPA?s@?SASCOCc@Gk@IYI_@MA?_@SICWOYOEAA?C?UEGAa@IA?CAUGEEECWUCCAASYAAACIYIUAA"
+              },
+              "start_location": {
+                "lat": 40.0503043,
+                "lng": -75.0324255
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.6 mi",
+                "value": 1037
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 199
+              },
+              "end_location": {
+                "lat": 40.06145069999999,
+                "lng": -75.03492829999999
+              },
+              "html_instructions": "Turn <b>left</b> to stay on <b>Pennypack Trail</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "symsFh|~hMG?K@OBC@Q?M?E?YCCAa@MUGAACCKMIIEECCGEECGEEEKGCACACCA?CCECEAIGACEAGAUEC?QAWCUEAAMCQECAMCSGCAc@OGCSIKGA?QMKGSMKIGEIGKIKIECKICCGICEAAAICCMUACGIIMECQSIIKISIMGCAOCMCU?E?[BA?M@UDE@E?UBE?G?Q?C?GECIEK?ACIEGECSMCAIEKEKCA?K?I@KBOBGBIBUDOBM?C?MAOAEAKEMEGCMGSIGEWKQE_@KCAOAMCMCo@?m@?E@OCMCEAMGMEQMEAGEQMWOCCCACEA?AAA@A?"
+              },
+              "start_location": {
+                "lat": 40.0529047,
+                "lng": -75.0382942
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "3.8 mi",
+                "value": 6167
+              },
+              "duration": {
+                "text": "20 mins",
+                "value": 1210
+              },
+              "end_location": {
+                "lat": 40.0857416,
+                "lng": -75.0604648
+              },
+              "html_instructions": "Turn <b>left</b> to stay on <b>Pennypack Trail</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "aoosFhg~hMA?A@CBEDCB[Z]ZCBKJ?@KJ[ZOPA@IHOPKJ[\\ON[^KJ[\\[ZOPKJEFIHILOPILOPILY`@OPKLW\\c@d@GHKLA@MNKJEFa@p@GJKR?@GLORGHYd@A?GJEFGHABOTGJEFINGJOVEJA?KRIPABQ^?@KRGNA@Q^IPGRILGPEJCHM^Mh@EPCLCJMj@I^CHGTGRITGPGPKR?@ILGFEDC@C@MFODEB[JMFQDA?ODQBQB]@WBI?SBE?O@S@O@S?G@[@E?]@OBM@E@GBUDC?K@SBC?I?KAKAA?C?ECGCGCGCAAIGSIAAMGUMQGIGECKIIECAICMIGCCAKEKICAOKMGAAKCMIGCOGSK_@SOMMMOOMOIMMOKUIMEGKQEGGGKOEIEICICIAKGUEUAEG]AGAGAICGCGCAAAA?WIGAA?S?M@G?S@C@C?A?EAGAC@A@KF_BbACBCBAB?BAF?LAP?B?@ABAFEFINIJMTY`@GJCFADCF?BAPAHAFAH?@CFEHGJCDABEFGDEBG@G?G@C?E?C@A@?@A@ADMb@Kf@ABMh@I\\ELOh@ADU~@CFABEDKJMHSJEBKFKFA@WRYTc@RIBC?KBS@A?M@IBEDIFQVOPGHA@IFWJE@YPQLm@XC@a@REBGHIJKLKREFQZ?BMVEHEJENELCPEVCTGXADEVALAHEb@CVCTANC\\AJ?b@AD@f@?HAd@AXARCZAPAZ?R?^?LAn@?DCf@AJ?pA?PBTBVHb@@FHXDNFPJTBHRZHLJN@@PPJFHHPP@@NTDJ@BFLDR?@@J?D?DAF?NAD?H?LBN@HDV@H@D@T@P@HBPDP?@FNHL@DFFNLDDHDTJXDH@^BB@R?NANCR?D?J@B@B@@BBBHLJVNb@@BBF@J@T?BANCNCJABEJGHGHIHQRGHOT?@IHKHGBWNGDQLWVSLMHONCBADA@ABAFCFIRCFO^Ud@KTEPCFCJAJAJE`@AJATAP?DAD@D?F@FBD@D@@?@BBDDFDJH?@LHPFRHJH@?JHNP@@HHLHB@B@J@R@H?N@FB@?LDPJFBVLHDXF^J@@XLDBLDBD@@BBBHBDJ^@@@DR^FL@F@F@J@N@J@J@D@DDPDR@FDX@HBL@X@D@^@L?@@J?N?N?@?P@X?B@f@@D?JB`@@f@?F@N@T@F@HBPBP@HDX@F@HBNDN?@DJJV@BNh@Jj@DT@L?F?@@FALAJCJAFGPELCFCDEJGHEHCDKDA?MFKDOBUBC@A?UFE@C@A?E?EAG?KEA?A?EAMCKCA?CAQEKEECSMCCA?KGQK?AA?GEGGKKA?KKMOAAY[AAYY?AA?[Y?AA?QQIGIGOKCCA?CCGEGGEIA??ACEEIEKAGAAACQk@O_@AAISEKCC?AAAEECCCACAE?CAC?M?O@A?A@E@QDGBA?GBOFGBA?C@MHGFCBC@CFEHILABGFGFIDA?G@E@E?GAEAA??AECMIGGAAIIGCKGA?SIIIA?KKOKAAIGGGEECCAEEGEICIAE?AAECOCS?AA?CWCOAACOCMAIACAAEKEIGMGKOW?AS[EIEGCEESAAEOCKCIAA?ACIEKEMAAEKEIGGCAAAECGGEGEGAAKSCEEGECECGAIAC?A?AAEAIAK?C?A?C?CAA?CAACCEEKGWCKAEAAGMKQAA?AWa@CEKQEI?A?AACEQES?AAGK[AC?AIOIOAAEGIIKICAGEEAECE?C@A?EBEDGFGB?@A?OJKJA??@EFEHCFCH?@CJAFEDEJA??@AFCFAL?J?@?L@R?H?@?@BX@P@V@T?@?@?LAJAJ?BA@ADEHINC@?@EDOJGD?@A?CBIBE@E?E?A?C?E?E?C?CAGAA??AICSECAAAGAMEICA?EAE?K?I?E?[?A?Q@O@A?G@GBMBC@A??@G@C@E?I@E?_@@O@E?E@C?CBA?A@C@MHKHC@ULEDKF[P?@A@?@?BAD?B?B?BA@CFCFQV"
+              },
+              "start_location": {
+                "lat": 40.06145069999999,
+                "lng": -75.03492829999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.1 mi",
+                "value": 1814
+              },
+              "duration": {
+                "text": "8 mins",
+                "value": 492
+              },
+              "end_location": {
+                "lat": 40.0982824,
+                "lng": -75.0470954
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>SR 1001</b>/<wbr/><b>State Rte 1001</b>/<wbr/><b>Verree Rd</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "{ftsFzfciMYe@OUMSEIAAKQCEEGACGIAAIMAC?AAAMSIMGKEIIKEGIKIKIMEECCEEAAIKCCCAGGIIGEIGEC[SECGCECQKIGOIo@]aAi@OIOIs@a@OIOIOI_@[a@UGECAA?i@[QM]UUQECKK_@]W[OSMO?AQWEIs@oAO[Q[[m@eAkBm@gAKSUa@KO?AACEGIKIMeAoAy@aAIMUU?AACAECEQSEGIIGEAAAAc@g@AACAg@k@OQQQsAwAOQCAMOGGY[SSAAa@a@EEKMKMKKGIg@g@ACMKqFwF[[MMi@k@OOGGKKSSSUKKiAiA[]KMKKm@o@OQY["
+              },
+              "start_location": {
+                "lat": 40.0857416,
+                "lng": -75.0604648
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.7 mi",
+                "value": 2681
+              },
+              "duration": {
+                "text": "9 mins",
+                "value": 543
+              },
+              "end_location": {
+                "lat": 40.1158844,
+                "lng": -75.06590369999999
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>State Rte 1011</b>/<wbr/><b>Welsh Rd</b><div style=\"font-size:0.9em\">Continue to follow Welsh Rd</div>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "guvsFjs`iMQ@]POFCBIDA?QJQJCBSLE@A@A@E@WP[Pe@VGDGBIFMFw@f@ULYPMHWLSLKFA??@OHC@A@A@EB_@V_@RSLULA@C@OH[TQJWRURIH?@GDGHOPQVMNe@t@OTQXSZGJCBCDEDCDCBEDEB?@KFMJMHOJEBGDMJGDGBGDGDOJQLOL[RYRC@IFSJC@i@VSJYLKDg@Tc@Ra@VGBy@h@WPo@`@ULYPULIDEBIDE@[Lu@\\g@RQH_@NA@[LC@]N_@NGBA?_@LA?A@E@SF[JC@IBA?YJyBr@YJa@L{@X]J}@XE@MDOFE@YJm@TC@KBC@e@PYJC@IBA@ODEBC@EBGDCBEBGFCDMNCDKLMRIPkBrDGJUf@A?AD}@bBCHIRGNCD[l@INaAlBKROP_@t@A@IPc@z@MTIPe@z@MVMTUd@MVCBOZOZIPEJADA@AFCDAF?BADAD?DAFAF?@Eh@K`AAL?B?@?@A@?BAH?JAJ?B?BAV?H?H?BAHAb@?@?HAb@?H?HAJAPANANI|@Gb@Mt@ALCJABADCLI\\ADg@rBADELCJADAHKb@ERALAJ"
+              },
+              "start_location": {
+                "lat": 40.0982824,
+                "lng": -75.0470954
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 mi",
+                "value": 246
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 35
+              },
+              "end_location": {
+                "lat": 40.1163647,
+                "lng": -75.0685757
+              },
+              "html_instructions": "Slight <b>right</b> onto <b>Station Ave</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "gczsFzhdiMUf@M^CD?@?@A@GXW~@Ib@GZERMj@QdA@B@VD^@JJr@Hf@"
+              },
+              "start_location": {
+                "lat": 40.1158844,
+                "lng": -75.06590369999999
+              },
+              "travel_mode": "BICYCLING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "y{hsFvf{hM{HdHqBfBi@Vw@t@o@~@aA~@KWKUMWYo@O]QNuAtA_C|B}BxBkBhBgAr@wDvBcFzCgBz@gLhEcA\\sA`@wAmFy@}Cs@oCI[KFQFWLy@`@iAh@wAp@_CtAyAr@aARi@?k@?kAJqCl@{Bf@m@Bi@EeCWWKk@AgCYwAUy@IW@S\\IB}@PYRGLUn@G|AIzAQl@y@tCe@bB]lBKrCBpCU~Ck@~AXd@|@l@jAVn@Pd@V`@DbA?^@RJj@h@VP^GXKf@@vAVx@n@bAvAPx@JfACz@Sn@qBfEuFhHK^e@lAo@|AU`AIPQL]F}@Ac@C_@?kBPu@?w@IiB[aAa@aAe@c@GcAY{@_AUq@g@F_AC}@Yy@u@i@]y@WaAMq@OcA]s@_@{AeA[]Ue@Y_@{@q@o@Qw@BuALU?KOO_@g@Ye@IkBZg@Eo@WeAa@aASqBAq@Q{A}@QGyAvAgGvGsE|Fa@d@u@rAiAdBy@rAaAnBkAjCaAvDcA`DW\\e@PeBf@oCP{BJyARc@CYK_Bw@uC}Ay@a@mA_AmAkB_@i@Oi@a@qBKKu@KaA@qBnAINCj@IT{@rAQ`@QdAS\\UJY@GFkAtE]pAs@f@_@Tq@h@m@Ve@D]Js@z@i@V}Az@y@l@iAvBi@tCYbDIjEIlE@dCNbAb@pAl@bAh@d@h@t@Nf@?^Al@Lz@Fv@Pt@b@h@~@\\`AFx@ETHXh@Vz@Cx@Sd@k@p@e@j@y@f@iA~@INkAxCW`C?XHTPPj@\\l@\\h@f@jAL~@b@dAZp@\\LTb@fALh@TxATfCB~AJzCVvBn@|BRnA?^Op@Sf@]^[LmATa@Gy@QiAo@k@g@cBeByAoAmA}CKMQE}@Jo@TYTW`@[XI@YAGEu@i@}@k@e@i@UeAUsAo@mAk@kAY_Aa@q@Y[Q[YQOAk@GKKMc@]w@m@gA]sAUc@_@]YKQJo@d@Yz@MRGh@DjAD`ACf@]n@YRYH_@Am@Qa@Ka@AwAHo@LkAHkAt@]VAPITQVYe@]i@Wc@OUo@eA}@mAk@k@yA}@oFyC_@SaAq@w@c@eAu@iAiAkCoE_EmHyDyEs@}@eIuIgNuNkEsEi@m@o@R_@PkAp@yD|BiF|CqBpA_BhBkBvCs@n@oEzCgEnBqFfDuH`DsKjDcH`Cm@d@k@v@sCxFwBjEgBbDoAdCaCrEu@dBc@xDKdEEv@a@fDWnAeAlEG`@Wr@Qh@gAzEOhAFv@VfB"
+      },
+      "summary": "Pennypack Trail",
+      "warnings": [
+        "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+      ],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}

@@ -58,6 +58,7 @@ const trails = [
     color: "#23ECD9",
   },
   { file: "pennypack_trail.json", label: "Pennypack Trail", color: "#23E7D9" },
+
   {
     file: "farmington_canal_heritage_trail.json",
     label: "Farmington Canal Heritage Trail",
@@ -186,6 +187,11 @@ function loadFilteredGeoJSONLine(file, color, routeName) {
   fetch(file)
     .then((res) => res.json())
     .then((data) => {
+      console.log("Loading line, routeName:", routeName);
+      console.log(
+        "Sample routes:",
+        data.features?.slice(0, 3).map((f) => f.properties?.Route_Name),
+      );
       const filtered = {
         type: "FeatureCollection",
         features: (data.features || []).filter(
@@ -234,6 +240,50 @@ function loadStations(file, color) {
       }).addTo(map);
     })
     .catch((err) => console.error(`Failed loading stations ${file}:`, err));
+}
+
+function loadFilteredStations(file, color, lineName) {
+  fetch(file)
+    .then((res) => res.json())
+    .then((data) => {
+      console.log("Loading stations, lineName:", lineName);
+      console.log(
+        "Sample features:",
+        data.features?.slice(0, 3).map((f) => f.properties?.Line_Name),
+      );
+      const filtered = {
+        type: "FeatureCollection",
+        features: (data.features || []).filter(
+          (f) => f.properties && f.properties.Line_Name === lineName,
+        ),
+      };
+
+      if (!filtered.features.length) {
+        console.warn(`No stations found for "${lineName}" in ${file}`);
+        return;
+      }
+
+      L.geoJSON(filtered, {
+        pointToLayer: (feature, latlng) =>
+          L.circleMarker(latlng, {
+            radius: 5,
+            fillColor: "#fff",
+            color,
+            weight: 1,
+            opacity: 1,
+            fillOpacity: 0.9,
+          }),
+        onEachFeature: (feature, layer) => {
+          layer.bindTooltip(feature.properties.Station_Na, {
+            direction: "top",
+            className: "route-label",
+          });
+        },
+      }).addTo(map);
+    })
+    .catch((err) =>
+      console.error(`Failed loading filtered stations ${file}:`, err),
+    );
 }
 
 // === Progress Calculation ===
@@ -312,17 +362,137 @@ loadGeoJSONLine("newburyport_rockport_line.geojson", commuterRailPurple);
 loadStations("newburyport_stations.geojson", commuterRailPurple);
 
 loadGeoJSONLine("providence_line.geojson", commuterRailPurple);
-loadStations("providence_stations_full.geojson", commuterRailPurple);
-loadStations("stoughton_branch_stations.geojson", commuterRailPurple);
 
-// === West Trenton Line (SEPTA all-lines GeoJSON + filtered route)
+// === Pennypack Trail (GeoJSON)
+loadGeoJSONLine("pennypack-trails.geojson", "green");
+
+// === Regional Rail Lines (SEPTA)
 loadFilteredGeoJSONLine("Regional_Rail_Lines.geojson", "teal", "West Trenton");
-loadStations("west_trenton_stations.geojson", "teal");
+loadFilteredStations(
+  "Regional_Rail_Stations.geojson",
+  "teal",
+  "West Trenton Line",
+);
+loadFilteredStations("Regional_Rail_Stations.geojson", "teal", "Joint");
+
+// === Lansdale/Doylestown Line
+loadFilteredGeoJSONLine(
+  "Regional_Rail_Lines.geojson",
+  "teal",
+  "Lansdale/Doylestown",
+);
+loadFilteredStations(
+  "Regional_Rail_Stations.geojson",
+  "teal",
+  "Lansdale Doylestown Line",
+);
+loadFilteredStations("Regional_Rail_Stations.geojson", "teal", "Joint");
+
+// === Manayunk/Norristown Line (for Manayunk station)
+loadFilteredGeoJSONLine(
+  "Regional_Rail_Lines.geojson",
+  "orange",
+  "Manayunk/Norristown",
+);
+loadFilteredStations(
+  "Regional_Rail_Stations.geojson",
+  "orange",
+  "Manayunk/Norristown Line",
+);
+loadFilteredStations("Regional_Rail_Stations.geojson", "orange", "Joint");
 
 // === Add Amtrak Lines
 trainLines.forEach(loadTrail);
 
+const locations = [
+  {
+    name: "Peace Valley Park",
+    town: "Durham, PA",
+    coords: [40.326824, -75.189025],
+    videoId: "tFVdSSulkuc",
+    description: "Scenic loop around Lake Galena with paved paths, perfect for families.",
+    train: "Warminster Line to Glenside, then 3 mi bike",
+    bestAccess: "Best: Glenside",
+    startTime: 60,
+  },
+  {
+    name: "Delaware Canal Towpath",
+    town: "Yardley, PA",
+    coords: [40.2228, -74.8402],
+    videoId: "wpiqDDHAK4A",
+    description: "Flat 60-mile historic canal towpath through charming river towns.",
+    train: "West Trenton Line",
+    bestAccess: "Best: Yardley",
+    startTime: 150,
+  },
+  {
+    name: "Pennypack Creek Trail",
+    town: "Philadelphia, PA",
+    coords: [40.0345, -75.0093],
+    videoId: "Fw00KZ08IVA",
+    description: "Paved 13-mile trail following the creek through NE Philly.",
+    train: "Fox Chase or Bethayres stations",
+    bestAccess: "Best: Bethayres",
+    startTime: 57,
+  },
+  {
+    name: "Schuylkill River Trail",
+    town: "Philadelphia, PA",
+    coords: [39.9815, -75.1899],
+    videoId: "xNeGmf3j99E",
+    description: "60+ mile regional network along the Schuylkill, city to nature.",
+    train: "Manayunk, Conshohocken, and other regional stops",
+    bestAccess: "Best: Manayunk",
+    startTime: 60,
+  },
+];
+
+function openPanel(location) {
+  document.getElementById("location-name").textContent = location.name;
+  document.getElementById("location-town").textContent = location.town;
+  document.getElementById("location-description").textContent = location.description;
+  document.getElementById("location-train").textContent = location.train;
+  document.getElementById("best-access").textContent = location.bestAccess || "";
+  const startTime = location.startTime || 60;
+  document
+    .getElementById("video-iframe")
+    .setAttribute("src", `https://www.youtube.com/embed/${location.videoId}?autoplay=1&mute=1&start=${startTime}`);
+  document.getElementById("side-panel").classList.add("open");
+  document.getElementById("panel-overlay").classList.add("show");
+  map.flyTo(location.coords, 13);
+}
+
+function closePanel() {
+  document.getElementById("side-panel").classList.remove("open");
+  document.getElementById("panel-overlay").classList.remove("show");
+  document.getElementById("video-iframe").setAttribute("src", "");
+  map.flyTo(map.getCenter(), 9);
+}
+
+document.getElementById("side-panel-close").addEventListener("click", closePanel);
+document.getElementById("panel-overlay").addEventListener("click", closePanel);
+
 const alexandriaCoords = [38.804744285975715, -77.0435299474239];
+
+locations.forEach(
+  (loc) =>
+    L.circleMarker(loc.coords, {
+      radius: 8,
+      fillColor: "green",
+      color: "white",
+      weight: 2,
+      fillOpacity: 0.9,
+    })
+      .bindTooltip(loc.name, {
+        permanent: true,
+        direction: "top",
+        className: "route-label",
+      })
+      .on("click", () => openPanel(loc))
+      .addTo(map),
+);
+
+const peaceValleyPark = [40.326824, -75.189025];
 
 // === Buttons ===
 function panToBoston() {
